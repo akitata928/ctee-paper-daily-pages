@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T15:43:39+08:00",
+  "generated_at": "2026-07-16T16:14:12+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -728,13 +728,15 @@
     ]
   },
   "errors": [
+    "serial 77: parsed HTML but no target page code",
     "serial 82: parsed HTML but no target page code",
     "serial 81: parsed HTML but no target page code",
     "serial 89: parsed HTML but no target page code",
+    "serial 97: parsed HTML but no target page code",
+    "serial 96: parsed HTML but no target page code",
     "serial 101: parsed HTML but no target page code",
     "serial 110: parsed HTML but no target page code",
     "serial 114: parsed HTML but no target page code",
-    "serial 97: parsed HTML but no target page code",
     "serial 123: parsed HTML but no target page code",
     "serial 143: parsed HTML but no target page code",
     "serial 150: parsed HTML but no target page code",
@@ -743,100 +745,100 @@
     "serial 165: parsed HTML but no target page code",
     "serial 166: parsed HTML but no target page code",
     "serial 193: parsed HTML but no target page code",
-    "serial 192: parsed HTML but no target page code",
-    "serial 190: parsed HTML but no target page code",
     "serial 191: parsed HTML but no target page code",
     "serial 196: parsed HTML but no target page code",
+    "serial 192: parsed HTML but no target page code",
+    "serial 190: parsed HTML but no target page code",
+    "serial 202: parsed HTML but no target page code",
     "serial 198: parsed HTML but no target page code",
     "serial 201: parsed HTML but no target page code",
     "serial 203: parsed HTML but no target page code",
     "serial 205: parsed HTML but no target page code",
     "serial 207: parsed HTML but no target page code",
-    "serial 224: parsed HTML but no target page code",
-    "serial 234: parsed HTML but no target page code",
     "serial 235: parsed HTML but no target page code",
+    "serial 234: parsed HTML but no target page code",
     "serial 249: parsed HTML but no target page code",
-    "serial 77: parsed HTML but no target page code",
-    "serial 96: parsed HTML but no target page code",
-    "serial 202: parsed HTML but no target page code",
-    "serial 250: parsed HTML but no target page code",
-    "serial 266: parsed HTML but no target page code",
-    "serial 265: parsed HTML but no target page code",
-    "serial 268: parsed HTML but no target page code",
-    "serial 270: parsed HTML but no target page code",
-    "serial 277: parsed HTML but no target page code",
-    "serial 274: parsed HTML but no target page code",
-    "serial 278: parsed HTML but no target page code",
-    "serial 276: parsed HTML but no target page code",
-    "serial 272: parsed HTML but no target page code",
     "serial 251: parsed HTML but no target page code",
+    "serial 250: parsed HTML but no target page code",
+    "serial 262: parsed HTML but no target page code",
+    "serial 265: parsed HTML but no target page code",
+    "serial 266: parsed HTML but no target page code",
+    "serial 270: parsed HTML but no target page code",
+    "serial 272: parsed HTML but no target page code",
+    "serial 268: parsed HTML but no target page code",
+    "serial 224: parsed HTML but no target page code",
+    "serial 274: parsed HTML but no target page code",
+    "serial 276: parsed HTML but no target page code",
     "serial 280: parsed HTML but no target page code",
-    "serial 283: parsed HTML but no target page code",
     "serial 289: parsed HTML but no target page code",
     "serial 286: parsed HTML but no target page code",
-    "serial 262: parsed HTML but no target page code",
+    "serial 277: parsed HTML but no target page code",
     "serial 292: parsed HTML but no target page code",
-    "serial 339: parsed HTML but no target page code",
+    "serial 278: parsed HTML but no target page code",
+    "serial 283: parsed HTML but no target page code",
     "serial 337: parsed HTML but no target page code",
     "serial 341: parsed HTML but no target page code",
+    "serial 339: parsed HTML but no target page code",
     "serial 342: parsed HTML but no target page code",
     "serial 344: parsed HTML but no target page code",
     "serial 346: parsed HTML but no target page code",
-    "serial 348: parsed HTML but no target page code",
+    "serial 358: parsed HTML but no target page code",
     "serial 350: parsed HTML but no target page code",
-    "serial 357: parsed HTML but no target page code",
     "serial 354: parsed HTML but no target page code",
     "serial 356: parsed HTML but no target page code",
+    "serial 348: parsed HTML but no target page code",
+    "serial 357: parsed HTML but no target page code",
+    "serial 367: parsed HTML but no target page code",
+    "serial 363: parsed HTML but no target page code",
     "serial 360: parsed HTML but no target page code",
+    "serial 369: parsed HTML but no target page code",
     "serial 365: parsed HTML but no target page code",
     "serial 364: parsed HTML but no target page code",
-    "serial 363: parsed HTML but no target page code",
-    "serial 369: parsed HTML but no target page code",
-    "serial 358: parsed HTML but no target page code",
-    "serial 367: parsed HTML but no target page code",
-    "serial 376: parsed HTML but no target page code",
+    "serial 372: parsed HTML but no target page code",
     "serial 371: parsed HTML but no target page code",
     "serial 373: parsed HTML but no target page code",
-    "serial 372: parsed HTML but no target page code",
-    "serial 375: parsed HTML but no target page code",
     "serial 377: parsed HTML but no target page code",
+    "serial 375: parsed HTML but no target page code",
+    "serial 376: parsed HTML but no target page code",
     "serial 378: parsed HTML but no target page code",
-    "serial 382: parsed HTML but no target page code",
     "serial 380: parsed HTML but no target page code",
     "serial 384: parsed HTML but no target page code",
     "serial 388: parsed HTML but no target page code",
+    "serial 386: parsed HTML but no target page code",
+    "serial 394: parsed HTML but no target page code",
     "serial 390: parsed HTML but no target page code",
     "serial 392: parsed HTML but no target page code",
-    "serial 394: parsed HTML but no target page code",
+    "serial 395: parsed HTML but no target page code",
+    "serial 402: parsed HTML but no target page code",
     "serial 399: parsed HTML but no target page code",
     "serial 397: parsed HTML but no target page code",
-    "serial 406: parsed HTML but no target page code",
-    "serial 402: parsed HTML but no target page code",
-    "serial 404: parsed HTML but no target page code",
     "serial 401: parsed HTML but no target page code",
-    "serial 408: parsed HTML but no target page code",
-    "serial 410: parsed HTML but no target page code",
-    "serial 386: parsed HTML but no target page code",
-    "serial 418: parsed HTML but no target page code",
+    "serial 404: parsed HTML but no target page code",
+    "serial 382: parsed HTML but no target page code",
+    "serial 406: parsed HTML but no target page code",
     "serial 414: parsed HTML but no target page code",
-    "serial 416: parsed HTML but no target page code",
     "serial 412: parsed HTML but no target page code",
-    "serial 419: parsed HTML but no target page code",
-    "serial 421: parsed HTML but no target page code",
-    "serial 395: parsed HTML but no target page code",
+    "serial 408: parsed HTML but no target page code",
     "serial 425: parsed HTML but no target page code",
+    "serial 418: parsed HTML but no target page code",
+    "serial 416: parsed HTML but no target page code",
     "serial 423: parsed HTML but no target page code",
-    "serial 427: parsed HTML but no target page code"
+    "serial 427: parsed HTML but no target page code",
+    "serial 421: parsed HTML but no target page code",
+    "serial 419: parsed HTML but no target page code",
+    "serial 410: parsed HTML but no target page code"
   ],
   "diagnostics": {
     "errors": [
+      "serial 77: parsed HTML but no target page code",
       "serial 82: parsed HTML but no target page code",
       "serial 81: parsed HTML but no target page code",
       "serial 89: parsed HTML but no target page code",
+      "serial 97: parsed HTML but no target page code",
+      "serial 96: parsed HTML but no target page code",
       "serial 101: parsed HTML but no target page code",
       "serial 110: parsed HTML but no target page code",
       "serial 114: parsed HTML but no target page code",
-      "serial 97: parsed HTML but no target page code",
       "serial 123: parsed HTML but no target page code",
       "serial 143: parsed HTML but no target page code",
       "serial 150: parsed HTML but no target page code",
@@ -845,90 +847,88 @@
       "serial 165: parsed HTML but no target page code",
       "serial 166: parsed HTML but no target page code",
       "serial 193: parsed HTML but no target page code",
-      "serial 192: parsed HTML but no target page code",
-      "serial 190: parsed HTML but no target page code",
       "serial 191: parsed HTML but no target page code",
       "serial 196: parsed HTML but no target page code",
+      "serial 192: parsed HTML but no target page code",
+      "serial 190: parsed HTML but no target page code",
+      "serial 202: parsed HTML but no target page code",
       "serial 198: parsed HTML but no target page code",
       "serial 201: parsed HTML but no target page code",
       "serial 203: parsed HTML but no target page code",
       "serial 205: parsed HTML but no target page code",
       "serial 207: parsed HTML but no target page code",
-      "serial 224: parsed HTML but no target page code",
-      "serial 234: parsed HTML but no target page code",
       "serial 235: parsed HTML but no target page code",
+      "serial 234: parsed HTML but no target page code",
       "serial 249: parsed HTML but no target page code",
-      "serial 77: parsed HTML but no target page code",
-      "serial 96: parsed HTML but no target page code",
-      "serial 202: parsed HTML but no target page code",
-      "serial 250: parsed HTML but no target page code",
-      "serial 266: parsed HTML but no target page code",
-      "serial 265: parsed HTML but no target page code",
-      "serial 268: parsed HTML but no target page code",
-      "serial 270: parsed HTML but no target page code",
-      "serial 277: parsed HTML but no target page code",
-      "serial 274: parsed HTML but no target page code",
-      "serial 278: parsed HTML but no target page code",
-      "serial 276: parsed HTML but no target page code",
-      "serial 272: parsed HTML but no target page code",
       "serial 251: parsed HTML but no target page code",
+      "serial 250: parsed HTML but no target page code",
+      "serial 262: parsed HTML but no target page code",
+      "serial 265: parsed HTML but no target page code",
+      "serial 266: parsed HTML but no target page code",
+      "serial 270: parsed HTML but no target page code",
+      "serial 272: parsed HTML but no target page code",
+      "serial 268: parsed HTML but no target page code",
+      "serial 224: parsed HTML but no target page code",
+      "serial 274: parsed HTML but no target page code",
+      "serial 276: parsed HTML but no target page code",
       "serial 280: parsed HTML but no target page code",
-      "serial 283: parsed HTML but no target page code",
       "serial 289: parsed HTML but no target page code",
       "serial 286: parsed HTML but no target page code",
-      "serial 262: parsed HTML but no target page code",
+      "serial 277: parsed HTML but no target page code",
       "serial 292: parsed HTML but no target page code",
-      "serial 339: parsed HTML but no target page code",
+      "serial 278: parsed HTML but no target page code",
+      "serial 283: parsed HTML but no target page code",
       "serial 337: parsed HTML but no target page code",
       "serial 341: parsed HTML but no target page code",
+      "serial 339: parsed HTML but no target page code",
       "serial 342: parsed HTML but no target page code",
       "serial 344: parsed HTML but no target page code",
       "serial 346: parsed HTML but no target page code",
-      "serial 348: parsed HTML but no target page code",
+      "serial 358: parsed HTML but no target page code",
       "serial 350: parsed HTML but no target page code",
-      "serial 357: parsed HTML but no target page code",
       "serial 354: parsed HTML but no target page code",
       "serial 356: parsed HTML but no target page code",
+      "serial 348: parsed HTML but no target page code",
+      "serial 357: parsed HTML but no target page code",
+      "serial 367: parsed HTML but no target page code",
+      "serial 363: parsed HTML but no target page code",
       "serial 360: parsed HTML but no target page code",
+      "serial 369: parsed HTML but no target page code",
       "serial 365: parsed HTML but no target page code",
       "serial 364: parsed HTML but no target page code",
-      "serial 363: parsed HTML but no target page code",
-      "serial 369: parsed HTML but no target page code",
-      "serial 358: parsed HTML but no target page code",
-      "serial 367: parsed HTML but no target page code",
-      "serial 376: parsed HTML but no target page code",
+      "serial 372: parsed HTML but no target page code",
       "serial 371: parsed HTML but no target page code",
       "serial 373: parsed HTML but no target page code",
-      "serial 372: parsed HTML but no target page code",
-      "serial 375: parsed HTML but no target page code",
       "serial 377: parsed HTML but no target page code",
+      "serial 375: parsed HTML but no target page code",
+      "serial 376: parsed HTML but no target page code",
       "serial 378: parsed HTML but no target page code",
-      "serial 382: parsed HTML but no target page code",
       "serial 380: parsed HTML but no target page code",
       "serial 384: parsed HTML but no target page code",
       "serial 388: parsed HTML but no target page code",
+      "serial 386: parsed HTML but no target page code",
+      "serial 394: parsed HTML but no target page code",
       "serial 390: parsed HTML but no target page code",
       "serial 392: parsed HTML but no target page code",
-      "serial 394: parsed HTML but no target page code",
+      "serial 395: parsed HTML but no target page code",
+      "serial 402: parsed HTML but no target page code",
       "serial 399: parsed HTML but no target page code",
       "serial 397: parsed HTML but no target page code",
-      "serial 406: parsed HTML but no target page code",
-      "serial 402: parsed HTML but no target page code",
-      "serial 404: parsed HTML but no target page code",
       "serial 401: parsed HTML but no target page code",
-      "serial 408: parsed HTML but no target page code",
-      "serial 410: parsed HTML but no target page code",
-      "serial 386: parsed HTML but no target page code",
-      "serial 418: parsed HTML but no target page code",
+      "serial 404: parsed HTML but no target page code",
+      "serial 382: parsed HTML but no target page code",
+      "serial 406: parsed HTML but no target page code",
       "serial 414: parsed HTML but no target page code",
-      "serial 416: parsed HTML but no target page code",
       "serial 412: parsed HTML but no target page code",
-      "serial 419: parsed HTML but no target page code",
-      "serial 421: parsed HTML but no target page code",
-      "serial 395: parsed HTML but no target page code",
+      "serial 408: parsed HTML but no target page code",
       "serial 425: parsed HTML but no target page code",
+      "serial 418: parsed HTML but no target page code",
+      "serial 416: parsed HTML but no target page code",
       "serial 423: parsed HTML but no target page code",
-      "serial 427: parsed HTML but no target page code"
+      "serial 427: parsed HTML but no target page code",
+      "serial 421: parsed HTML but no target page code",
+      "serial 419: parsed HTML but no target page code",
+      "serial 410: parsed HTML but no target page code"
     ],
     "counters": {
       "serials_scanned": 2500,
@@ -939,6 +939,13 @@
     },
     "fetch_failures": [],
     "parse_failures": [
+      {
+        "kind": "parse_failure",
+        "serial": 77,
+        "url": "https://www.ctee.com.tw/news/20260716700077-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
       {
         "kind": "parse_failure",
         "serial": 82,
@@ -962,6 +969,20 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 97,
+        "url": "https://www.ctee.com.tw/news/20260716700097-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 96,
+        "url": "https://www.ctee.com.tw/news/20260716700096-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 101,
         "url": "https://www.ctee.com.tw/news/20260716700101-439901",
         "status": "no_page_code",
@@ -978,13 +999,6 @@
         "kind": "parse_failure",
         "serial": 114,
         "url": "https://www.ctee.com.tw/news/20260716700114-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 97,
-        "url": "https://www.ctee.com.tw/news/20260716700097-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1046,6 +1060,20 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 191,
+        "url": "https://www.ctee.com.tw/news/20260716700191-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 196,
+        "url": "https://www.ctee.com.tw/news/20260716700196-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 192,
         "url": "https://www.ctee.com.tw/news/20260716700192-439901",
         "status": "no_page_code",
@@ -1060,15 +1088,8 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 191,
-        "url": "https://www.ctee.com.tw/news/20260716700191-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 196,
-        "url": "https://www.ctee.com.tw/news/20260716700196-439901",
+        "serial": 202,
+        "url": "https://www.ctee.com.tw/news/20260716700202-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1109,8 +1130,8 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 224,
-        "url": "https://www.ctee.com.tw/news/20260716700224-439901",
+        "serial": 235,
+        "url": "https://www.ctee.com.tw/news/20260716700235-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1123,106 +1144,8 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 235,
-        "url": "https://www.ctee.com.tw/news/20260716700235-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 249,
         "url": "https://www.ctee.com.tw/news/20260716700249-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 77,
-        "url": "https://www.ctee.com.tw/news/20260716700077-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 96,
-        "url": "https://www.ctee.com.tw/news/20260716700096-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 202,
-        "url": "https://www.ctee.com.tw/news/20260716700202-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 250,
-        "url": "https://www.ctee.com.tw/news/20260716700250-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 266,
-        "url": "https://www.ctee.com.tw/news/20260716700266-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 265,
-        "url": "https://www.ctee.com.tw/news/20260716700265-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 268,
-        "url": "https://www.ctee.com.tw/news/20260716700268-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 270,
-        "url": "https://www.ctee.com.tw/news/20260716700270-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 277,
-        "url": "https://www.ctee.com.tw/news/20260716700277-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 274,
-        "url": "https://www.ctee.com.tw/news/20260716700274-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 278,
-        "url": "https://www.ctee.com.tw/news/20260716700278-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 276,
-        "url": "https://www.ctee.com.tw/news/20260716700276-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 272,
-        "url": "https://www.ctee.com.tw/news/20260716700272-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1235,15 +1158,78 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 280,
-        "url": "https://www.ctee.com.tw/news/20260716700280-439901",
+        "serial": 250,
+        "url": "https://www.ctee.com.tw/news/20260716700250-439901",
         "status": "no_page_code",
         "attempts": 1
       },
       {
         "kind": "parse_failure",
-        "serial": 283,
-        "url": "https://www.ctee.com.tw/news/20260716700283-439901",
+        "serial": 262,
+        "url": "https://www.ctee.com.tw/news/20260716700262-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 265,
+        "url": "https://www.ctee.com.tw/news/20260716700265-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 266,
+        "url": "https://www.ctee.com.tw/news/20260716700266-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 270,
+        "url": "https://www.ctee.com.tw/news/20260716700270-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 272,
+        "url": "https://www.ctee.com.tw/news/20260716700272-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 268,
+        "url": "https://www.ctee.com.tw/news/20260716700268-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 224,
+        "url": "https://www.ctee.com.tw/news/20260716700224-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 274,
+        "url": "https://www.ctee.com.tw/news/20260716700274-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 276,
+        "url": "https://www.ctee.com.tw/news/20260716700276-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 280,
+        "url": "https://www.ctee.com.tw/news/20260716700280-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1263,8 +1249,8 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 262,
-        "url": "https://www.ctee.com.tw/news/20260716700262-439901",
+        "serial": 277,
+        "url": "https://www.ctee.com.tw/news/20260716700277-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1277,8 +1263,15 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 339,
-        "url": "https://www.ctee.com.tw/news/20260716700339-439901",
+        "serial": 278,
+        "url": "https://www.ctee.com.tw/news/20260716700278-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 283,
+        "url": "https://www.ctee.com.tw/news/20260716700283-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1293,6 +1286,13 @@
         "kind": "parse_failure",
         "serial": 341,
         "url": "https://www.ctee.com.tw/news/20260716700341-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 339,
+        "url": "https://www.ctee.com.tw/news/20260716700339-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1319,8 +1319,8 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 348,
-        "url": "https://www.ctee.com.tw/news/20260716700348-439901",
+        "serial": 358,
+        "url": "https://www.ctee.com.tw/news/20260716700358-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1328,13 +1328,6 @@
         "kind": "parse_failure",
         "serial": 350,
         "url": "https://www.ctee.com.tw/news/20260716700350-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 357,
-        "url": "https://www.ctee.com.tw/news/20260716700357-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1354,8 +1347,43 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 348,
+        "url": "https://www.ctee.com.tw/news/20260716700348-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 357,
+        "url": "https://www.ctee.com.tw/news/20260716700357-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 367,
+        "url": "https://www.ctee.com.tw/news/20260716700367-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 363,
+        "url": "https://www.ctee.com.tw/news/20260716700363-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 360,
         "url": "https://www.ctee.com.tw/news/20260716700360-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 369,
+        "url": "https://www.ctee.com.tw/news/20260716700369-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1375,36 +1403,8 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 363,
-        "url": "https://www.ctee.com.tw/news/20260716700363-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 369,
-        "url": "https://www.ctee.com.tw/news/20260716700369-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 358,
-        "url": "https://www.ctee.com.tw/news/20260716700358-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 367,
-        "url": "https://www.ctee.com.tw/news/20260716700367-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 376,
-        "url": "https://www.ctee.com.tw/news/20260716700376-439901",
+        "serial": 372,
+        "url": "https://www.ctee.com.tw/news/20260716700372-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1424,8 +1424,8 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 372,
-        "url": "https://www.ctee.com.tw/news/20260716700372-439901",
+        "serial": 377,
+        "url": "https://www.ctee.com.tw/news/20260716700377-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1438,8 +1438,8 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 377,
-        "url": "https://www.ctee.com.tw/news/20260716700377-439901",
+        "serial": 376,
+        "url": "https://www.ctee.com.tw/news/20260716700376-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1447,13 +1447,6 @@
         "kind": "parse_failure",
         "serial": 378,
         "url": "https://www.ctee.com.tw/news/20260716700378-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 382,
-        "url": "https://www.ctee.com.tw/news/20260716700382-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1480,6 +1473,20 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 386,
+        "url": "https://www.ctee.com.tw/news/20260716700386-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 394,
+        "url": "https://www.ctee.com.tw/news/20260716700394-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 390,
         "url": "https://www.ctee.com.tw/news/20260716700390-439901",
         "status": "no_page_code",
@@ -1494,8 +1501,15 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 394,
-        "url": "https://www.ctee.com.tw/news/20260716700394-439901",
+        "serial": 395,
+        "url": "https://www.ctee.com.tw/news/20260716700395-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 402,
+        "url": "https://www.ctee.com.tw/news/20260716700402-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1515,15 +1529,8 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 406,
-        "url": "https://www.ctee.com.tw/news/20260716700406-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 402,
-        "url": "https://www.ctee.com.tw/news/20260716700402-439901",
+        "serial": 401,
+        "url": "https://www.ctee.com.tw/news/20260716700401-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1536,36 +1543,15 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 401,
-        "url": "https://www.ctee.com.tw/news/20260716700401-439901",
+        "serial": 382,
+        "url": "https://www.ctee.com.tw/news/20260716700382-439901",
         "status": "no_page_code",
         "attempts": 1
       },
       {
         "kind": "parse_failure",
-        "serial": 408,
-        "url": "https://www.ctee.com.tw/news/20260716700408-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 410,
-        "url": "https://www.ctee.com.tw/news/20260716700410-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 386,
-        "url": "https://www.ctee.com.tw/news/20260716700386-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 418,
-        "url": "https://www.ctee.com.tw/news/20260716700418-439901",
+        "serial": 406,
+        "url": "https://www.ctee.com.tw/news/20260716700406-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1578,13 +1564,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 416,
-        "url": "https://www.ctee.com.tw/news/20260716700416-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 412,
         "url": "https://www.ctee.com.tw/news/20260716700412-439901",
         "status": "no_page_code",
@@ -1592,22 +1571,8 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 419,
-        "url": "https://www.ctee.com.tw/news/20260716700419-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 421,
-        "url": "https://www.ctee.com.tw/news/20260716700421-439901",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 395,
-        "url": "https://www.ctee.com.tw/news/20260716700395-439901",
+        "serial": 408,
+        "url": "https://www.ctee.com.tw/news/20260716700408-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1615,6 +1580,20 @@
         "kind": "parse_failure",
         "serial": 425,
         "url": "https://www.ctee.com.tw/news/20260716700425-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 418,
+        "url": "https://www.ctee.com.tw/news/20260716700418-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 416,
+        "url": "https://www.ctee.com.tw/news/20260716700416-439901",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1629,6 +1608,27 @@
         "kind": "parse_failure",
         "serial": 427,
         "url": "https://www.ctee.com.tw/news/20260716700427-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 421,
+        "url": "https://www.ctee.com.tw/news/20260716700421-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 419,
+        "url": "https://www.ctee.com.tw/news/20260716700419-439901",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 410,
+        "url": "https://www.ctee.com.tw/news/20260716700410-439901",
         "status": "no_page_code",
         "attempts": 1
       }
