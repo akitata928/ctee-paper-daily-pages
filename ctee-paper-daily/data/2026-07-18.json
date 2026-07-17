@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T06:36:33+08:00",
+  "generated_at": "2026-07-18T06:39:19+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -596,26 +596,26 @@
   },
   "errors": [
     "serial 50: parsed HTML but no target page code",
-    "serial 59: parsed HTML but no target page code",
     "serial 60: parsed HTML but no target page code",
-    "serial 95: parsed HTML but no target page code",
-    "serial 96: parsed HTML but no target page code",
+    "serial 59: parsed HTML but no target page code",
     "serial 83: parsed HTML but no target page code",
-    "serial 121: parsed HTML but no target page code",
+    "serial 96: parsed HTML but no target page code",
+    "serial 95: parsed HTML but no target page code",
+    "serial 132: parsed HTML but no target page code",
     "serial 120: parsed HTML but no target page code",
-    "serial 132: parsed HTML but no target page code"
+    "serial 121: parsed HTML but no target page code"
   ],
   "diagnostics": {
     "errors": [
       "serial 50: parsed HTML but no target page code",
-      "serial 59: parsed HTML but no target page code",
       "serial 60: parsed HTML but no target page code",
-      "serial 95: parsed HTML but no target page code",
-      "serial 96: parsed HTML but no target page code",
+      "serial 59: parsed HTML but no target page code",
       "serial 83: parsed HTML but no target page code",
-      "serial 121: parsed HTML but no target page code",
+      "serial 96: parsed HTML but no target page code",
+      "serial 95: parsed HTML but no target page code",
+      "serial 132: parsed HTML but no target page code",
       "serial 120: parsed HTML but no target page code",
-      "serial 132: parsed HTML but no target page code"
+      "serial 121: parsed HTML but no target page code"
     ],
     "counters": {
       "serials_scanned": 2500,
@@ -640,17 +640,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 59,
-        "url": "https://www.ctee.com.tw/news/20260718700059-439901",
-        "title": "券商可動用資金淨額 證交所四大措施鬆綁",
-        "summary": "有鑑於近來台股成交量能大增，臺灣證券交易所17日宣布，證券商可動用資金淨額即日起有三大鬆綁精進措施，另一鬆綁是10月1日起上路，未來券商受託買賣額度若爆了遭停止委託，但投資人委託賣出是原有庫存，或撤銷委託/刪除未成交委託單等，可動態恢復證券商輸入買賣申報功能。 口袋證券5月26日因突然一筆委託大單致...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 60,
         "url": "https://www.ctee.com.tw/news/20260718700060-439901",
         "title": "安聯投信海外投資首席許家豪：下半年 聚焦四關鍵發展",
@@ -662,10 +651,21 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 95,
-        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
-        "title": "寧德拿下歐洲最大鈉電儲能案",
-        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
+        "serial": 59,
+        "url": "https://www.ctee.com.tw/news/20260718700059-439901",
+        "title": "券商可動用資金淨額 證交所四大措施鬆綁",
+        "summary": "有鑑於近來台股成交量能大增，臺灣證券交易所17日宣布，證券商可動用資金淨額即日起有三大鬆綁精進措施，另一鬆綁是10月1日起上路，未來券商受託買賣額度若爆了遭停止委託，但投資人委託賣出是原有庫存，或撤銷委託/刪除未成交委託單等，可動態恢復證券商輸入買賣申報功能。 口袋證券5月26日因突然一筆委託大單致...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 83,
+        "url": "https://www.ctee.com.tw/news/20260718700083-439901",
+        "title": "SpaceX星艦試飛 臨時喊卡",
+        "summary": "馬斯克旗下太空探索技術公司SpaceX最新版「星艦V3」（Starship V3），原定當地時間16日進行關鍵試飛，但卻在升空前不到1秒鐘因引擎異常而緊急中止。由於這是SpaceX自6月IPO以來，首度進行重大的發射任務，然而這次試飛喊卡也讓近來表現疲弱的SpaceX股價再度承壓。 星艦V3原定美東...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -695,10 +695,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 83,
-        "url": "https://www.ctee.com.tw/news/20260718700083-439901",
-        "title": "SpaceX星艦試飛 臨時喊卡",
-        "summary": "馬斯克旗下太空探索技術公司SpaceX最新版「星艦V3」（Starship V3），原定當地時間16日進行關鍵試飛，但卻在升空前不到1秒鐘因引擎異常而緊急中止。由於這是SpaceX自6月IPO以來，首度進行重大的發射任務，然而這次試飛喊卡也讓近來表現疲弱的SpaceX股價再度承壓。 星艦V3原定美東...",
+        "serial": 95,
+        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
+        "title": "寧德拿下歐洲最大鈉電儲能案",
+        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -717,10 +717,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 121,
-        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
-        "title": "美光揪七車用夥伴 策略合作簽SCA",
-        "summary": "美光宣布，已與高通、偉世通、HARMAN、JOYNEXT、電裝、Astemo及現代Mobis等七家主要車用供應商與生態系夥伴，完成簽署策略性客戶協議（SCA），提高車用記憶體與儲存產品的供應能見度，支援下一世代智慧汽車平台長期發展。 汽車產品生命週期遠長於消費性電子，從平台開發、驗證到量產往往歷時多...",
+        "serial": 132,
+        "url": "https://www.ctee.com.tw/news/20260718700132-439901",
+        "title": "竹科生醫業 前進亞洲生技大展",
+        "summary": "2026亞洲生技大展竹科管理局會同十家竹科廠商及中科、南科、國家同步輻射中心聯合設立「科學園區主題館」，以「匯聚創新 鏈結全球」為主軸，持續推動北中南生醫廊帶發展與技術整合，展現臺灣生醫產業創新聚落實力。 國科會吳誠文主委及竹科管理局游靜秋副局長特別蒞臨展區，為參展廠商加油打氣，竹科今年聚焦「新藥研...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -739,10 +739,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 132,
-        "url": "https://www.ctee.com.tw/news/20260718700132-439901",
-        "title": "竹科生醫業 前進亞洲生技大展",
-        "summary": "2026亞洲生技大展竹科管理局會同十家竹科廠商及中科、南科、國家同步輻射中心聯合設立「科學園區主題館」，以「匯聚創新 鏈結全球」為主軸，持續推動北中南生醫廊帶發展與技術整合，展現臺灣生醫產業創新聚落實力。 國科會吳誠文主委及竹科管理局游靜秋副局長特別蒞臨展區，為參展廠商加油打氣，竹科今年聚焦「新藥研...",
+        "serial": 121,
+        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
+        "title": "美光揪七車用夥伴 策略合作簽SCA",
+        "summary": "美光宣布，已與高通、偉世通、HARMAN、JOYNEXT、電裝、Astemo及現代Mobis等七家主要車用供應商與生態系夥伴，完成簽署策略性客戶協議（SCA），提高車用記憶體與儲存產品的供應能見度，支援下一世代智慧汽車平台長期發展。 汽車產品生命週期遠長於消費性電子，從平台開發、驗證到量產往往歷時多...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -761,17 +761,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 164,
-        "url": "https://www.ctee.com.tw/news/20260718700164-439901",
-        "title": "信邦小金雞睿信 8月申請上櫃",
-        "summary": "信邦（3023）小金雞睿信（7893）將在8月送件申請上櫃，該公司聚焦國防應用，已連續三年獲利突破半個股本，掛牌之後信邦集團可望再添一檔生力軍。 睿信日前公告6月營收達5,219萬元，為近半年單月營收新高紀錄，月增3.4％、年減48.25％；累計上半年度營收達2.51億元，較去年同期增加0.65％，...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 166,
         "url": "https://www.ctee.com.tw/news/20260718700166-439901",
         "title": "利機 今年營收有望增3成",
@@ -783,10 +772,21 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 183,
-        "url": "https://www.ctee.com.tw/news/20260718700183-439901",
-        "title": "新應材現增發行價 調為745元",
-        "summary": "新應材（4749）調整115年度現金增資之每股發行價格，公司因應營運興建廠房，規劃辦理2,000仟股現金增資，惟衡量近期交易市場變化，綜合考量股東權益及公司整體利益，為使順利完成現金增資募集作業，現金增資發行價格由每股828元調為745元。原訂定之特定人繳款期間為115年7月28日起至115年7月2...",
+        "serial": 164,
+        "url": "https://www.ctee.com.tw/news/20260718700164-439901",
+        "title": "信邦小金雞睿信 8月申請上櫃",
+        "summary": "信邦（3023）小金雞睿信（7893）將在8月送件申請上櫃，該公司聚焦國防應用，已連續三年獲利突破半個股本，掛牌之後信邦集團可望再添一檔生力軍。 睿信日前公告6月營收達5,219萬元，為近半年單月營收新高紀錄，月增3.4％、年減48.25％；累計上半年度營收達2.51億元，較去年同期增加0.65％，...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 179,
+        "url": "https://www.ctee.com.tw/news/20260718700179-439901",
+        "title": "提升醫藥供應鏈韌性 中化控股提三策略",
+        "summary": "全球醫藥供應鏈重組加速，中化控股（3716）執行長暨總經理王厚凱17日表示，台灣要提升醫藥供應鏈韌性，不能只追求供應鏈在地化，而應提升在國際供應鏈中的「不可取代性」，並從「保障（Protect）」、「鏈結（Connect）」及「規模化（Scale）」三大策略著手，打造具韌性且具國際競爭力的醫藥供應體...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -805,10 +805,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 179,
-        "url": "https://www.ctee.com.tw/news/20260718700179-439901",
-        "title": "提升醫藥供應鏈韌性 中化控股提三策略",
-        "summary": "全球醫藥供應鏈重組加速，中化控股（3716）執行長暨總經理王厚凱17日表示，台灣要提升醫藥供應鏈韌性，不能只追求供應鏈在地化，而應提升在國際供應鏈中的「不可取代性」，並從「保障（Protect）」、「鏈結（Connect）」及「規模化（Scale）」三大策略著手，打造具韌性且具國際競爭力的醫藥供應體...",
+        "serial": 183,
+        "url": "https://www.ctee.com.tw/news/20260718700183-439901",
+        "title": "新應材現增發行價 調為745元",
+        "summary": "新應材（4749）調整115年度現金增資之每股發行價格，公司因應營運興建廠房，規劃辦理2,000仟股現金增資，惟衡量近期交易市場變化，綜合考量股東權益及公司整體利益，為使順利完成現金增資募集作業，現金增資發行價格由每股828元調為745元。原訂定之特定人繳款期間為115年7月28日起至115年7月2...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -845,15 +845,6 @@
         "next_serial": 167
       },
       {
-        "serial": 164,
-        "url": "https://www.ctee.com.tw/news/20260718700164-439901",
-        "title": "信邦小金雞睿信 8月申請上櫃",
-        "page": "B3",
-        "page_code": "A27AB3",
-        "previous_serial": 162,
-        "next_serial": 165
-      },
-      {
         "serial": 166,
         "url": "https://www.ctee.com.tw/news/20260718700166-439901",
         "title": "利機 今年營收有望增3成",
@@ -863,22 +854,13 @@
         "next_serial": 167
       },
       {
-        "serial": 183,
-        "url": "https://www.ctee.com.tw/news/20260718700183-439901",
-        "title": "新應材現增發行價 調為745元",
-        "page": "B4",
-        "page_code": "A28AB4",
-        "previous_serial": 180,
-        "next_serial": 184
-      },
-      {
-        "serial": 182,
-        "url": "https://www.ctee.com.tw/news/20260718700182-439901",
-        "title": "橙的雙軌並進 衝刺Q3營運",
-        "page": "B4",
-        "page_code": "A28AB4",
-        "previous_serial": 180,
-        "next_serial": 183
+        "serial": 164,
+        "url": "https://www.ctee.com.tw/news/20260718700164-439901",
+        "title": "信邦小金雞睿信 8月申請上櫃",
+        "page": "B3",
+        "page_code": "A27AB3",
+        "previous_serial": 162,
+        "next_serial": 165
       },
       {
         "serial": 179,
@@ -888,6 +870,24 @@
         "page_code": "A28AB4",
         "previous_serial": 176,
         "next_serial": 180
+      },
+      {
+        "serial": 182,
+        "url": "https://www.ctee.com.tw/news/20260718700182-439901",
+        "title": "橙的雙軌並進 衝刺Q3營運",
+        "page": "B4",
+        "page_code": "A28AB4",
+        "previous_serial": 180,
+        "next_serial": 184
+      },
+      {
+        "serial": 183,
+        "url": "https://www.ctee.com.tw/news/20260718700183-439901",
+        "title": "新應材現增發行價 調為745元",
+        "page": "B4",
+        "page_code": "A28AB4",
+        "previous_serial": 182,
+        "next_serial": 184
       }
     ],
     "unassigned_articles": [
@@ -897,17 +897,6 @@
         "url": "https://www.ctee.com.tw/news/20260718700050-439901",
         "title": "陳祖培想通了...才扛此董座重任",
         "summary": "國泰世華銀行新任董座陳祖培受訪時，有問必答、妙語如珠，臉上始終掛著笑容，與媒體首次接觸極令人感受誠意滿滿。對於花了多少時間考慮，決定接下此一職務，他回應說，「花多少時間思考不要緊，想得通才要緊」，他已經想通了，過去團隊建立良好基礎，當今團隊相當堅強，在此基礎上，很快就可以取得突破。 提及個人的領導風...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 59,
-        "url": "https://www.ctee.com.tw/news/20260718700059-439901",
-        "title": "券商可動用資金淨額 證交所四大措施鬆綁",
-        "summary": "有鑑於近來台股成交量能大增，臺灣證券交易所17日宣布，證券商可動用資金淨額即日起有三大鬆綁精進措施，另一鬆綁是10月1日起上路，未來券商受託買賣額度若爆了遭停止委託，但投資人委託賣出是原有庫存，或撤銷委託/刪除未成交委託單等，可動態恢復證券商輸入買賣申報功能。 口袋證券5月26日因突然一筆委託大單致...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -926,21 +915,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 95,
-        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
-        "title": "寧德拿下歐洲最大鈉電儲能案",
-        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 96,
-        "url": "https://www.ctee.com.tw/news/20260718700096-439901",
-        "title": "全球AI變現與地緣變局 陸港外貿結構升級",
-        "summary": "美國6月份ISM服務業指數為54，雖較上月微降，仍穩守於50的榮枯分水嶺上方，顯示服務業擴張動能猶在。深入剖析其分項指標，新訂單與就業數據皆具備實質支撐。然而，投入端價格壓力依然高企，美國聯準會6月會議紀錄釋放出偏鷹訊號，部分官員對通膨風險的擔憂升溫。在防範通膨反彈為首要政策目標的前提下，短期內貨幣...",
+        "serial": 59,
+        "url": "https://www.ctee.com.tw/news/20260718700059-439901",
+        "title": "券商可動用資金淨額 證交所四大措施鬆綁",
+        "summary": "有鑑於近來台股成交量能大增，臺灣證券交易所17日宣布，證券商可動用資金淨額即日起有三大鬆綁精進措施，另一鬆綁是10月1日起上路，未來券商受託買賣額度若爆了遭停止委託，但投資人委託賣出是原有庫存，或撤銷委託/刪除未成交委託單等，可動態恢復證券商輸入買賣申報功能。 口袋證券5月26日因突然一筆委託大單致...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -959,10 +937,32 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 121,
-        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
-        "title": "美光揪七車用夥伴 策略合作簽SCA",
-        "summary": "美光宣布，已與高通、偉世通、HARMAN、JOYNEXT、電裝、Astemo及現代Mobis等七家主要車用供應商與生態系夥伴，完成簽署策略性客戶協議（SCA），提高車用記憶體與儲存產品的供應能見度，支援下一世代智慧汽車平台長期發展。 汽車產品生命週期遠長於消費性電子，從平台開發、驗證到量產往往歷時多...",
+        "serial": 96,
+        "url": "https://www.ctee.com.tw/news/20260718700096-439901",
+        "title": "全球AI變現與地緣變局 陸港外貿結構升級",
+        "summary": "美國6月份ISM服務業指數為54，雖較上月微降，仍穩守於50的榮枯分水嶺上方，顯示服務業擴張動能猶在。深入剖析其分項指標，新訂單與就業數據皆具備實質支撐。然而，投入端價格壓力依然高企，美國聯準會6月會議紀錄釋放出偏鷹訊號，部分官員對通膨風險的擔憂升溫。在防範通膨反彈為首要政策目標的前提下，短期內貨幣...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 95,
+        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
+        "title": "寧德拿下歐洲最大鈉電儲能案",
+        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 132,
+        "url": "https://www.ctee.com.tw/news/20260718700132-439901",
+        "title": "竹科生醫業 前進亞洲生技大展",
+        "summary": "2026亞洲生技大展竹科管理局會同十家竹科廠商及中科、南科、國家同步輻射中心聯合設立「科學園區主題館」，以「匯聚創新 鏈結全球」為主軸，持續推動北中南生醫廊帶發展與技術整合，展現臺灣生醫產業創新聚落實力。 國科會吳誠文主委及竹科管理局游靜秋副局長特別蒞臨展區，為參展廠商加油打氣，竹科今年聚焦「新藥研...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -981,10 +981,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 132,
-        "url": "https://www.ctee.com.tw/news/20260718700132-439901",
-        "title": "竹科生醫業 前進亞洲生技大展",
-        "summary": "2026亞洲生技大展竹科管理局會同十家竹科廠商及中科、南科、國家同步輻射中心聯合設立「科學園區主題館」，以「匯聚創新 鏈結全球」為主軸，持續推動北中南生醫廊帶發展與技術整合，展現臺灣生醫產業創新聚落實力。 國科會吳誠文主委及竹科管理局游靜秋副局長特別蒞臨展區，為參展廠商加油打氣，竹科今年聚焦「新藥研...",
+        "serial": 121,
+        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
+        "title": "美光揪七車用夥伴 策略合作簽SCA",
+        "summary": "美光宣布，已與高通、偉世通、HARMAN、JOYNEXT、電裝、Astemo及現代Mobis等七家主要車用供應商與生態系夥伴，完成簽署策略性客戶協議（SCA），提高車用記憶體與儲存產品的供應能見度，支援下一世代智慧汽車平台長期發展。 汽車產品生命週期遠長於消費性電子，從平台開發、驗證到量產往往歷時多...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
