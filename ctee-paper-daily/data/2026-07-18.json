@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T06:39:19+08:00",
+  "generated_at": "2026-07-18T06:52:12+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -600,10 +600,10 @@
     "serial 59: parsed HTML but no target page code",
     "serial 83: parsed HTML but no target page code",
     "serial 96: parsed HTML but no target page code",
-    "serial 95: parsed HTML but no target page code",
     "serial 132: parsed HTML but no target page code",
-    "serial 120: parsed HTML but no target page code",
-    "serial 121: parsed HTML but no target page code"
+    "serial 95: parsed HTML but no target page code",
+    "serial 121: parsed HTML but no target page code",
+    "serial 120: parsed HTML but no target page code"
   ],
   "diagnostics": {
     "errors": [
@@ -612,17 +612,17 @@
       "serial 59: parsed HTML but no target page code",
       "serial 83: parsed HTML but no target page code",
       "serial 96: parsed HTML but no target page code",
-      "serial 95: parsed HTML but no target page code",
       "serial 132: parsed HTML but no target page code",
-      "serial 120: parsed HTML but no target page code",
-      "serial 121: parsed HTML but no target page code"
+      "serial 95: parsed HTML but no target page code",
+      "serial 121: parsed HTML but no target page code",
+      "serial 120: parsed HTML but no target page code"
     ],
     "counters": {
       "serials_scanned": 2500,
       "not_found_count": 2425,
       "fetch_failure_count": 0,
       "parse_failure_count": 17,
-      "retry_success_count": 0,
+      "retry_success_count": 7,
       "inferred_page_count": 8
     },
     "fetch_failures": [],
@@ -695,17 +695,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 95,
-        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
-        "title": "寧德拿下歐洲最大鈉電儲能案",
-        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 115,
         "url": "https://www.ctee.com.tw/news/20260718700115-439901",
         "title": "青安3.0總價三級制 七都8成交易適用",
@@ -728,32 +717,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 120,
-        "url": "https://www.ctee.com.tw/news/20260718700120-439901",
-        "title": "科技廠辦助力 營造廠Q2毛利率升",
-        "summary": "營造廠雖面臨公共工程物料因通膨帶動成本上揚、房地產營建工程低迷、案量減少，但在毛利較高的廠辦建案工程案量增加、占比提升下，市場預期，達欣工、根基、建國工程第二季毛利率可望有1個百分點以上的季增。 達欣工於2025年的整體營收，廠房等的占比超過7成；目前達欣工手中在建承攬量超過900億元、在建工程待執...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 121,
-        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
-        "title": "美光揪七車用夥伴 策略合作簽SCA",
-        "summary": "美光宣布，已與高通、偉世通、HARMAN、JOYNEXT、電裝、Astemo及現代Mobis等七家主要車用供應商與生態系夥伴，完成簽署策略性客戶協議（SCA），提高車用記憶體與儲存產品的供應能見度，支援下一世代智慧汽車平台長期發展。 汽車產品生命週期遠長於消費性電子，從平台開發、驗證到量產往往歷時多...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 165,
-        "url": "https://www.ctee.com.tw/news/20260718700165-439901",
-        "title": "傳大股東解質賣股 國巨駁斥",
-        "summary": "台股上演黑色星期五，17日指數爆殺將近3,000點，空頭謠言四起，而被動元件族群因短短二個月漲勢剽悍，加上太陽誘電、村田等日系被動元件股攜手跳水，成為台股殺盤重心，龍頭廠國巨*（2327）遭到影射高檔解質賣股，導致股價尖頭反轉，國巨發出新聞稿駁斥指出，大股東陳氏傳承公司並未申報轉讓持股。 針對近日市...",
+        "serial": 164,
+        "url": "https://www.ctee.com.tw/news/20260718700164-439901",
+        "title": "信邦小金雞睿信 8月申請上櫃",
+        "summary": "信邦（3023）小金雞睿信（7893）將在8月送件申請上櫃，該公司聚焦國防應用，已連續三年獲利突破半個股本，掛牌之後信邦集團可望再添一檔生力軍。 睿信日前公告6月營收達5,219萬元，為近半年單月營收新高紀錄，月增3.4％、年減48.25％；累計上半年度營收達2.51億元，較去年同期增加0.65％，...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -772,10 +739,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 164,
-        "url": "https://www.ctee.com.tw/news/20260718700164-439901",
-        "title": "信邦小金雞睿信 8月申請上櫃",
-        "summary": "信邦（3023）小金雞睿信（7893）將在8月送件申請上櫃，該公司聚焦國防應用，已連續三年獲利突破半個股本，掛牌之後信邦集團可望再添一檔生力軍。 睿信日前公告6月營收達5,219萬元，為近半年單月營收新高紀錄，月增3.4％、年減48.25％；累計上半年度營收達2.51億元，較去年同期增加0.65％，...",
+        "serial": 165,
+        "url": "https://www.ctee.com.tw/news/20260718700165-439901",
+        "title": "傳大股東解質賣股 國巨駁斥",
+        "summary": "台股上演黑色星期五，17日指數爆殺將近3,000點，空頭謠言四起，而被動元件族群因短短二個月漲勢剽悍，加上太陽誘電、村田等日系被動元件股攜手跳水，成為台股殺盤重心，龍頭廠國巨*（2327）遭到影射高檔解質賣股，導致股價尖頭反轉，國巨發出新聞稿駁斥指出，大股東陳氏傳承公司並未申報轉讓持股。 針對近日市...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -794,6 +761,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 183,
+        "url": "https://www.ctee.com.tw/news/20260718700183-439901",
+        "title": "新應材現增發行價 調為745元",
+        "summary": "新應材（4749）調整115年度現金增資之每股發行價格，公司因應營運興建廠房，規劃辦理2,000仟股現金增資，惟衡量近期交易市場變化，綜合考量股東權益及公司整體利益，為使順利完成現金增資募集作業，現金增資發行價格由每股828元調為745元。原訂定之特定人繳款期間為115年7月28日起至115年7月2...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 182,
         "url": "https://www.ctee.com.tw/news/20260718700182-439901",
         "title": "橙的雙軌並進 衝刺Q3營運",
@@ -805,17 +783,82 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 183,
-        "url": "https://www.ctee.com.tw/news/20260718700183-439901",
-        "title": "新應材現增發行價 調為745元",
-        "summary": "新應材（4749）調整115年度現金增資之每股發行價格，公司因應營運興建廠房，規劃辦理2,000仟股現金增資，惟衡量近期交易市場變化，綜合考量股東權益及公司整體利益，為使順利完成現金增資募集作業，現金增資發行價格由每股828元調為745元。原訂定之特定人繳款期間為115年7月28日起至115年7月2...",
+        "serial": 95,
+        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
+        "title": "寧德拿下歐洲最大鈉電儲能案",
+        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
-        "attempts": 1
+        "attempts": 2
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 121,
+        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
+        "title": "美光揪七車用夥伴 策略合作簽SCA",
+        "summary": "美光宣布，已與高通、偉世通、HARMAN、JOYNEXT、電裝、Astemo及現代Mobis等七家主要車用供應商與生態系夥伴，完成簽署策略性客戶協議（SCA），提高車用記憶體與儲存產品的供應能見度，支援下一世代智慧汽車平台長期發展。 汽車產品生命週期遠長於消費性電子，從平台開發、驗證到量產往往歷時多...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 2
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 120,
+        "url": "https://www.ctee.com.tw/news/20260718700120-439901",
+        "title": "科技廠辦助力 營造廠Q2毛利率升",
+        "summary": "營造廠雖面臨公共工程物料因通膨帶動成本上揚、房地產營建工程低迷、案量減少，但在毛利較高的廠辦建案工程案量增加、占比提升下，市場預期，達欣工、根基、建國工程第二季毛利率可望有1個百分點以上的季增。 達欣工於2025年的整體營收，廠房等的占比超過7成；目前達欣工手中在建承攬量超過900億元、在建工程待執...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 2
       }
     ],
-    "retry_successes": [],
+    "retry_successes": [
+      {
+        "kind": "retry_success",
+        "serial": 167,
+        "url": "https://www.ctee.com.tw/news/20260718700167-439901",
+        "attempts": 2
+      },
+      {
+        "kind": "retry_success",
+        "serial": 184,
+        "url": "https://www.ctee.com.tw/news/20260718700184-439901",
+        "attempts": 2
+      },
+      {
+        "kind": "retry_success",
+        "serial": 66,
+        "url": "https://www.ctee.com.tw/news/20260718700066-439901",
+        "attempts": 3
+      },
+      {
+        "kind": "retry_success",
+        "serial": 73,
+        "url": "https://www.ctee.com.tw/news/20260718700073-439901",
+        "attempts": 3
+      },
+      {
+        "kind": "retry_success",
+        "serial": 162,
+        "url": "https://www.ctee.com.tw/news/20260718700162-439901",
+        "attempts": 2
+      },
+      {
+        "kind": "retry_success",
+        "serial": 160,
+        "url": "https://www.ctee.com.tw/news/20260718700160-439901",
+        "attempts": 2
+      },
+      {
+        "kind": "retry_success",
+        "serial": 106,
+        "url": "https://www.ctee.com.tw/news/20260718700106-439901",
+        "attempts": 3
+      }
+    ],
     "inferred_page_articles": [
       {
         "serial": 90,
@@ -836,9 +879,9 @@
         "next_serial": 116
       },
       {
-        "serial": 165,
-        "url": "https://www.ctee.com.tw/news/20260718700165-439901",
-        "title": "傳大股東解質賣股 國巨駁斥",
+        "serial": 164,
+        "url": "https://www.ctee.com.tw/news/20260718700164-439901",
+        "title": "信邦小金雞睿信 8月申請上櫃",
         "page": "B3",
         "page_code": "A27AB3",
         "previous_serial": 162,
@@ -850,17 +893,17 @@
         "title": "利機 今年營收有望增3成",
         "page": "B3",
         "page_code": "A27AB3",
-        "previous_serial": 165,
+        "previous_serial": 164,
         "next_serial": 167
       },
       {
-        "serial": 164,
-        "url": "https://www.ctee.com.tw/news/20260718700164-439901",
-        "title": "信邦小金雞睿信 8月申請上櫃",
+        "serial": 165,
+        "url": "https://www.ctee.com.tw/news/20260718700165-439901",
+        "title": "傳大股東解質賣股 國巨駁斥",
         "page": "B3",
         "page_code": "A27AB3",
-        "previous_serial": 162,
-        "next_serial": 165
+        "previous_serial": 164,
+        "next_serial": 166
       },
       {
         "serial": 179,
@@ -872,22 +915,22 @@
         "next_serial": 180
       },
       {
-        "serial": 182,
-        "url": "https://www.ctee.com.tw/news/20260718700182-439901",
-        "title": "橙的雙軌並進 衝刺Q3營運",
+        "serial": 183,
+        "url": "https://www.ctee.com.tw/news/20260718700183-439901",
+        "title": "新應材現增發行價 調為745元",
         "page": "B4",
         "page_code": "A28AB4",
         "previous_serial": 180,
         "next_serial": 184
       },
       {
-        "serial": 183,
-        "url": "https://www.ctee.com.tw/news/20260718700183-439901",
-        "title": "新應材現增發行價 調為745元",
+        "serial": 182,
+        "url": "https://www.ctee.com.tw/news/20260718700182-439901",
+        "title": "橙的雙軌並進 衝刺Q3營運",
         "page": "B4",
         "page_code": "A28AB4",
-        "previous_serial": 182,
-        "next_serial": 184
+        "previous_serial": 180,
+        "next_serial": 183
       }
     ],
     "unassigned_articles": [
@@ -948,17 +991,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 95,
-        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
-        "title": "寧德拿下歐洲最大鈉電儲能案",
-        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 132,
         "url": "https://www.ctee.com.tw/news/20260718700132-439901",
         "title": "竹科生醫業 前進亞洲生技大展",
@@ -970,14 +1002,14 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 120,
-        "url": "https://www.ctee.com.tw/news/20260718700120-439901",
-        "title": "科技廠辦助力 營造廠Q2毛利率升",
-        "summary": "營造廠雖面臨公共工程物料因通膨帶動成本上揚、房地產營建工程低迷、案量減少，但在毛利較高的廠辦建案工程案量增加、占比提升下，市場預期，達欣工、根基、建國工程第二季毛利率可望有1個百分點以上的季增。 達欣工於2025年的整體營收，廠房等的占比超過7成；目前達欣工手中在建承攬量超過900億元、在建工程待執...",
+        "serial": 95,
+        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
+        "title": "寧德拿下歐洲最大鈉電儲能案",
+        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
-        "attempts": 1
+        "attempts": 2
       },
       {
         "kind": "parse_failure",
@@ -988,7 +1020,18 @@
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
-        "attempts": 1
+        "attempts": 2
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 120,
+        "url": "https://www.ctee.com.tw/news/20260718700120-439901",
+        "title": "科技廠辦助力 營造廠Q2毛利率升",
+        "summary": "營造廠雖面臨公共工程物料因通膨帶動成本上揚、房地產營建工程低迷、案量減少，但在毛利較高的廠辦建案工程案量增加、占比提升下，市場預期，達欣工、根基、建國工程第二季毛利率可望有1個百分點以上的季增。 達欣工於2025年的整體營收，廠房等的占比超過7成；目前達欣工手中在建承攬量超過900億元、在建工程待執...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 2
       }
     ]
   }
