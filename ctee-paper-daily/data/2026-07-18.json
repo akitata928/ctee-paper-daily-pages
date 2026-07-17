@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T06:52:12+08:00",
+  "generated_at": "2026-07-18T07:01:43+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -25,13 +25,14 @@
     "C3"
   ],
   "stats": {
-    "article_count": 66,
+    "article_count": 75,
     "filled_page_count": 15,
     "empty_page_count": 5
   },
   "pages": {
     "A1": [
       {
+        "serial": 34,
         "title": "16檔大戶力挺 亂世英雄",
         "url": "https://www.ctee.com.tw/news/20260718700034-439901",
         "page_code": "A01AA1",
@@ -40,6 +41,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A01AA1_PictureItem_Clipping_01_5.jpg"
       },
       {
+        "serial": 37,
         "title": "費半震盪陷熊市",
         "url": "https://www.ctee.com.tw/news/20260718700037-439901",
         "page_code": "A01AA1",
@@ -50,6 +52,7 @@
     ],
     "A2": [
       {
+        "serial": 40,
         "title": "以區塊鏈重塑台灣食安防線",
         "url": "https://www.ctee.com.tw/news/20260718700040-439901",
         "page_code": "A02AA2",
@@ -58,6 +61,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A02AA2_PictureItem_Clipping_01_4.jpg"
       },
       {
+        "serial": 42,
         "title": "新台幣暴量貶 摔15月新低",
         "url": "https://www.ctee.com.tw/news/20260718700042-439901",
         "page_code": "A02AA2",
@@ -66,6 +70,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A02AA2_PictureItem_Clipping_02_5.jpg"
       },
       {
+        "serial": 45,
         "title": "黑色星期五來襲 亞股殺聲隆隆",
         "url": "https://www.ctee.com.tw/news/20260718700045-439901",
         "page_code": "A02AA2",
@@ -74,16 +79,27 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A02AA2_PictureItem_Clipping_03_5.jpg"
       },
       {
+        "serial": 47,
         "title": "國泰世華銀董座陳祖培重掌大旗 兩路整軍",
         "url": "https://www.ctee.com.tw/news/20260718700047-439901",
         "page_code": "A02AA2",
         "summary": "國泰世華銀行董座陳祖培小檔案國泰世華銀行17日舉行董事會，拍板由陳祖培重掌董座職位。他會後受訪時面帶笑容回應所有問題，主要強調接棒後，將致力加強內稽內控與風險控管，以贏得客戶信賴；陳祖培謙稱不敢講自己的銀行頂呱呱，但至少要有目標，那就是「往第一名邁進」。 國泰金指出，陳祖培於集團服務近40年，曾擔任...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A02AA2_PictureItem_Clipping_04_5.jpg"
+      },
+      {
+        "serial": 50,
+        "title": "陳祖培想通了...才扛此董座重任",
+        "url": "https://www.ctee.com.tw/news/20260718700050-439901",
+        "page_code": "A02AA2",
+        "summary": "國泰世華銀行新任董座陳祖培受訪時，有問必答、妙語如珠，臉上始終掛著笑容，與媒體首次接觸極令人感受誠意滿滿。對於花了多少時間考慮，決定接下此一職務，他回應說，「花多少時間思考不要緊，想得通才要緊」，他已經想通了，過去團隊建立良好基礎，當今團隊相當堅強，在此基礎上，很快就可以取得突破。 提及個人的領導風...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": ""
       }
     ],
     "A3": [
       {
+        "serial": 51,
         "title": "717股災 台股史詩級崩跌 苦吞七大最",
         "url": "https://www.ctee.com.tw/news/20260718700051-439901",
         "page_code": "A03AA3",
@@ -92,6 +108,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A03AA3_PictureItem_Clipping_01_5.jpg"
       },
       {
+        "serial": 54,
         "title": "殺盤重心…台股一日痛失六千金",
         "url": "https://www.ctee.com.tw/news/20260718700054-439901",
         "page_code": "A03AA3",
@@ -100,16 +117,36 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A03AA3_PictureItem_Clipping_02_4.jpg"
       },
       {
+        "serial": 56,
         "title": "美科技巨頭財報扮關鍵 台股下周反彈有望 老AI打前鋒",
         "url": "https://www.ctee.com.tw/news/20260718700056-439901",
         "page_code": "A03AA3",
         "summary": "聚焦下周美股財報 供應鏈拚補漲韓股高槓桿亂象延燒，停損賣壓擴散至亞股，市場原期待台積電法說會安撫市場恐慌情緒，惟其法說行情卻意外失靈，引爆台股17日賣壓。法人認為，台股基本面無虞，在AI需求前景明朗下，美股下周登場的科技巨頭財報有望成為另一根「救命稻草」，扮演台股行情止穩關鍵，仁寶、宏碁、華碩、鴻海...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A03AA3_PictureItem_Clipping_03_5.jpg"
+      },
+      {
+        "serial": 59,
+        "title": "券商可動用資金淨額 證交所四大措施鬆綁",
+        "url": "https://www.ctee.com.tw/news/20260718700059-439901",
+        "page_code": "A03AA3",
+        "summary": "有鑑於近來台股成交量能大增，臺灣證券交易所17日宣布，證券商可動用資金淨額即日起有三大鬆綁精進措施，另一鬆綁是10月1日起上路，未來券商受託買賣額度若爆了遭停止委託，但投資人委託賣出是原有庫存，或撤銷委託/刪除未成交委託單等，可動態恢復證券商輸入買賣申報功能。 口袋證券5月26日因突然一筆委託大單致...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": ""
+      },
+      {
+        "serial": 60,
+        "title": "安聯投信海外投資首席許家豪：下半年 聚焦四關鍵發展",
+        "url": "https://www.ctee.com.tw/news/20260718700060-439901",
+        "page_code": "A03AA3",
+        "summary": "近期全球經濟呈現「成長有韌性、通膨仍具黏性、地緣風險未退、AI投資持續擴張」的格局。根據國際貨幣基金（IMF）7月最新展望，全球經濟成長維持穩定，但區域表現分化，AI相關投資與科技循環復甦，正抵銷部分能源衝擊與地緣政治帶來的負面影響。全球成長主要受惠於科技供應鏈國家，而高度依賴能源進口且未參與AI供...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": ""
       }
     ],
     "A4": [
       {
+        "serial": 61,
         "title": "賴總統喊話：無人機就位 只欠東風",
         "url": "https://www.ctee.com.tw/news/20260718700061-439901",
         "page_code": "A04AA4",
@@ -118,6 +155,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A04AA4_PictureItem_Clipping_01_4.jpg"
       },
       {
+        "serial": 64,
         "title": "蕭美琴：拚提升台灣生醫全球競爭力",
         "url": "https://www.ctee.com.tw/news/20260718700064-439901",
         "page_code": "A04AA4",
@@ -126,6 +164,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A04AA4_PictureItem_Clipping_02_4.jpg"
       },
       {
+        "serial": 66,
         "title": "三度招商 台電後山埤案擴至近3千坪",
         "url": "https://www.ctee.com.tw/news/20260718700066-439901",
         "page_code": "A04AA4",
@@ -134,6 +173,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A04AA4_Table_Clipping_03_4.jpg"
       },
       {
+        "serial": 68,
         "title": "營所稅實徵淨額 可望連5年破兆元",
         "url": "https://www.ctee.com.tw/news/20260718700068-439901",
         "page_code": "A04AA4",
@@ -142,6 +182,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A04AA4_PictureItem_Clipping_04_4.jpg"
       },
       {
+        "serial": 71,
         "title": "數發部網路詐騙通報 破百萬件",
         "url": "https://www.ctee.com.tw/news/20260718700071-439901",
         "page_code": "A04AA4",
@@ -150,6 +191,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A04AA4_Table_Clipping_05_4.jpg"
       },
       {
+        "serial": 73,
         "title": "SCFI連二黑 聚焦美新關稅變局",
         "url": "https://www.ctee.com.tw/news/20260718700073-439901",
         "page_code": "A04AA4",
@@ -160,6 +202,7 @@
     ],
     "A5": [
       {
+        "serial": 75,
         "title": "美企高管 急拋售自家股票",
         "url": "https://www.ctee.com.tw/news/20260718700075-439901",
         "page_code": "A05AA5",
@@ -168,6 +211,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A05AA5_PictureItem_Clipping_01_2.jpg"
       },
       {
+        "serial": 79,
         "title": "三星、SK海力士獲利 美要分杯羹",
         "url": "https://www.ctee.com.tw/news/20260718700079-439901",
         "page_code": "A05AA5",
@@ -176,16 +220,27 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A05AA5_PictureItem_Clipping_02_2.jpg"
       },
       {
+        "serial": 81,
         "title": "Netflix營收遜預期 全年展望下修",
         "url": "https://www.ctee.com.tw/news/20260718700081-439901",
         "page_code": "A05AA5",
         "summary": "影視串流平台Netflix 17日公布財報與財測，不只第二季營收遜於市場預期，全年展望也有所下修，讓投資人感到失望；此外Netflix還宣布將從2027年起減少公布觀看數據的次數。 Netflix第二季營收年增13.4％至125.6億美元，稍遜於分析師預期的125.8億美元，成長速度也較今年第一季的...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A05AA5_PictureItem_Clipping_03_3.jpg"
+      },
+      {
+        "serial": 83,
+        "title": "SpaceX星艦試飛 臨時喊卡",
+        "url": "https://www.ctee.com.tw/news/20260718700083-439901",
+        "page_code": "A05AA5",
+        "summary": "馬斯克旗下太空探索技術公司SpaceX最新版「星艦V3」（Starship V3），原定當地時間16日進行關鍵試飛，但卻在升空前不到1秒鐘因引擎異常而緊急中止。由於這是SpaceX自6月IPO以來，首度進行重大的發射任務，然而這次試飛喊卡也讓近來表現疲弱的SpaceX股價再度承壓。 星艦V3原定美東...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": ""
       }
     ],
     "A6": [
       {
+        "serial": 85,
         "title": "習談全球AI發展 應公正合理",
         "url": "https://www.ctee.com.tw/news/20260718700085-439901",
         "page_code": "A06AA6",
@@ -194,6 +249,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A06AA6_PictureItem_Clipping_01_5.jpg"
       },
       {
+        "serial": 88,
         "title": "從算力到AI代理 台廠勇闖WAIC",
         "url": "https://www.ctee.com.tw/news/20260718700088-439901",
         "page_code": "A06AA6",
@@ -202,6 +258,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A06AA6_PictureItem_Clipping_02_2.jpg"
       },
       {
+        "serial": 90,
         "title": "華為超節點 算力號稱輝達6.7倍",
         "url": "https://www.ctee.com.tw/news/20260718700090-439901",
         "page_code": "A06AA6",
@@ -210,16 +267,36 @@
         "image_url": ""
       },
       {
+        "serial": 91,
         "title": "習川會前…川普控中國干預大選",
         "url": "https://www.ctee.com.tw/news/20260718700091-439901",
         "page_code": "A06AA6",
         "summary": "川普指控中國干預選舉重點9月美國「習川會」可能討論議題中美關係在9月「習川會」前再度蒙上陰影。美國總統川普當地時間16日晚間發表全國演說，公開指控中國在2020年美國總統大選期間發動「史上最大規模入侵」，非法獲取2.2億美國選民的個資。 此舉引發中方反彈，也威脅了中美兩國脆弱的貿易休戰。 美國之音報...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A06AA6_PictureItem_Clipping_04_5.jpg"
+      },
+      {
+        "serial": 95,
+        "title": "寧德拿下歐洲最大鈉電儲能案",
+        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
+        "page_code": "A06AA6",
+        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": ""
+      },
+      {
+        "serial": 96,
+        "title": "全球AI變現與地緣變局 陸港外貿結構升級",
+        "url": "https://www.ctee.com.tw/news/20260718700096-439901",
+        "page_code": "A06AA6",
+        "summary": "美國6月份ISM服務業指數為54，雖較上月微降，仍穩守於50的榮枯分水嶺上方，顯示服務業擴張動能猶在。深入剖析其分項指標，新訂單與就業數據皆具備實質支撐。然而，投入端價格壓力依然高企，美國聯準會6月會議紀錄釋放出偏鷹訊號，部分官員對通膨風險的擔憂升溫。在防範通膨反彈為首要政策目標的前提下，短期內貨幣...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": ""
       }
     ],
     "A7": [
       {
+        "serial": 97,
         "title": "台壽台中超巨蛋BOT案 啟動",
         "url": "https://www.ctee.com.tw/news/20260718700097-439901",
         "page_code": "A09AA7",
@@ -228,6 +305,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A09AA7_PictureItem_Clipping_01_2.jpg"
       },
       {
+        "serial": 100,
         "title": "台股短線弱 公股銀：股債平衡為佳",
         "url": "https://www.ctee.com.tw/news/20260718700100-439901",
         "page_code": "A09AA7",
@@ -236,6 +314,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A09AA7_PictureItem_Clipping_02_4.jpg"
       },
       {
+        "serial": 103,
         "title": "出國旅遊遇颱風 住宿理賠確定拉高",
         "url": "https://www.ctee.com.tw/news/20260718700103-439901",
         "page_code": "A09AA7",
@@ -244,6 +323,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A09AA7_PictureItem_Clipping_03_4.jpg"
       },
       {
+        "serial": 106,
         "title": "全球H1巨災保險損失 降至460億美元",
         "url": "https://www.ctee.com.tw/news/20260718700106-439901",
         "page_code": "A09AA7",
@@ -252,6 +332,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A09AA7_Table_Clipping_04_4.jpg"
       },
       {
+        "serial": 108,
         "title": "公股搬家潮 兆豐金、土銀接棒",
         "url": "https://www.ctee.com.tw/news/20260718700108-439901",
         "page_code": "A09AA7",
@@ -260,6 +341,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A09AA7_Table_Clipping_05_4.jpg"
       },
       {
+        "serial": 110,
         "title": "7月2年期定存單利率 首下跌",
         "url": "https://www.ctee.com.tw/news/20260718700110-439901",
         "page_code": "A09AA7",
@@ -270,6 +352,7 @@
     ],
     "A8": [
       {
+        "serial": 112,
         "title": "買氣冷 五都預售屋量縮價撐",
         "url": "https://www.ctee.com.tw/news/20260718700112-439901",
         "page_code": "A10AA8",
@@ -278,6 +361,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A10AA8_PictureItem_Clipping_01_4.jpg"
       },
       {
+        "serial": 115,
         "title": "青安3.0總價三級制 七都8成交易適用",
         "url": "https://www.ctee.com.tw/news/20260718700115-439901",
         "page_code": "A10AA8",
@@ -286,6 +370,7 @@
         "image_url": ""
       },
       {
+        "serial": 116,
         "title": "迎戰AI時代 邁肯行銷傳播集團 推企劃型AI Agent",
         "url": "https://www.ctee.com.tw/news/20260718700116-439901",
         "page_code": "A10AA8",
@@ -294,16 +379,36 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A10AA8_PictureItem_Clipping_03_3.jpg"
       },
       {
+        "serial": 118,
         "title": "價格戰開打 EVOASIS祭會員充電優惠",
         "url": "https://www.ctee.com.tw/news/20260718700118-439901",
         "page_code": "A10AA8",
         "summary": "電動車龍頭特斯拉（TESLA）調降超級充電站費率後，台灣電動車充電市場價格戰持續升溫。國內最大第三方充電營運商源點科技（EVOASIS）17日宣布，自18日起至8月30日推出「假日充電特便宜」活動，針對訂閱會員祭出最低每度5.25元優惠價，不僅低於特斯拉假日超充每度7元費率，也宣告國內充電市場正式進...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A10AA8_PictureItem_Clipping_04_4.jpg"
+      },
+      {
+        "serial": 120,
+        "title": "科技廠辦助力 營造廠Q2毛利率升",
+        "url": "https://www.ctee.com.tw/news/20260718700120-439901",
+        "page_code": "A10AA8",
+        "summary": "營造廠雖面臨公共工程物料因通膨帶動成本上揚、房地產營建工程低迷、案量減少，但在毛利較高的廠辦建案工程案量增加、占比提升下，市場預期，達欣工、根基、建國工程第二季毛利率可望有1個百分點以上的季增。 達欣工於2025年的整體營收，廠房等的占比超過7成；目前達欣工手中在建承攬量超過900億元、在建工程待執...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": ""
+      },
+      {
+        "serial": 121,
+        "title": "美光揪七車用夥伴 策略合作簽SCA",
+        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
+        "page_code": "A10AA8",
+        "summary": "美光宣布，已與高通、偉世通、HARMAN、JOYNEXT、電裝、Astemo及現代Mobis等七家主要車用供應商與生態系夥伴，完成簽署策略性客戶協議（SCA），提高車用記憶體與儲存產品的供應能見度，支援下一世代智慧汽車平台長期發展。 汽車產品生命週期遠長於消費性電子，從平台開發、驗證到量產往往歷時多...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": ""
       }
     ],
     "A9": [
       {
+        "serial": 122,
         "title": "世界年度夫人先生世界賽 台灣發光",
         "url": "https://www.ctee.com.tw/news/20260718700122-439901",
         "page_code": "A11AA9",
@@ -312,6 +417,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A11AA9_PictureItem_Clipping_01_3.jpg"
       },
       {
+        "serial": 124,
         "title": "台灣藝術之光 陳明順 榮登法國秋季沙龍永久會員",
         "url": "https://www.ctee.com.tw/news/20260718700124-439901",
         "page_code": "A11AA9",
@@ -320,6 +426,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A11AA9_PictureItem_Clipping_02_4.jpg"
       },
       {
+        "serial": 126,
         "title": "大葉USR計畫 舉辦木聚手作市集",
         "url": "https://www.ctee.com.tw/news/20260718700126-439901",
         "page_code": "A11AA9",
@@ -328,6 +435,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A11AA9_PictureItem_Clipping_03_4.jpg"
       },
       {
+        "serial": 128,
         "title": "亞洲生技大展 成大攜25團隊參展",
         "url": "https://www.ctee.com.tw/news/20260718700128-439901",
         "page_code": "A11AA9",
@@ -336,16 +444,27 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A11AA9_PictureItem_Clipping_04_3.jpg"
       },
       {
+        "serial": 130,
         "title": "鈺祥秀再生型化學濾網關鍵技術",
         "url": "https://www.ctee.com.tw/news/20260718700130-439901",
         "page_code": "A11AA9",
         "summary": "半導體製程邁入2奈米及以下先進節點，空氣中分子級污染控制對製程穩定與晶圓良率的重要性持續提升。鈺祥企業（7909 TT）16日受經濟部產業發展署邀請，參與於大臺南會展中心舉行的「2026南方人才永續暨智慧轉型展」，於「Balanced Economy 均衡經濟」主題館（攤位：R007），展示自主研發...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A11AA9_PictureItem_Clipping_05_3.jpg"
+      },
+      {
+        "serial": 132,
+        "title": "竹科生醫業 前進亞洲生技大展",
+        "url": "https://www.ctee.com.tw/news/20260718700132-439901",
+        "page_code": "A11AA9",
+        "summary": "2026亞洲生技大展竹科管理局會同十家竹科廠商及中科、南科、國家同步輻射中心聯合設立「科學園區主題館」，以「匯聚創新 鏈結全球」為主軸，持續推動北中南生醫廊帶發展與技術整合，展現臺灣生醫產業創新聚落實力。 國科會吳誠文主委及竹科管理局游靜秋副局長特別蒞臨展區，為參展廠商加油打氣，竹科今年聚焦「新藥研...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": ""
       }
     ],
     "A10": [
       {
+        "serial": 133,
         "title": "MINI聯名凱渡 推旅宿試駕體驗",
         "url": "https://www.ctee.com.tw/news/20260718700133-439901",
         "page_code": "A12AA10",
@@ -354,6 +473,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A12AA10_PictureItem_Clipping_01_4.jpg"
       },
       {
+        "serial": 135,
         "title": "攜手台中市政府農業局 和潤 舉辦高美濕地陸蟹巡守活動",
         "url": "https://www.ctee.com.tw/news/20260718700135-439901",
         "page_code": "A12AA10",
@@ -362,6 +482,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A12AA10_PictureItem_Clipping_02_3.jpg"
       },
       {
+        "serial": 137,
         "title": "和運租車暑假優惠開跑",
         "url": "https://www.ctee.com.tw/news/20260718700137-439901",
         "page_code": "A12AA10",
@@ -374,6 +495,7 @@
     "A12": [],
     "B1": [
       {
+        "serial": 139,
         "title": "輝達瞄準機器人 台廠嗨翻",
         "url": "https://www.ctee.com.tw/news/20260718700139-439901",
         "page_code": "A25AB1",
@@ -382,6 +504,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A25AB1_PictureItem_Clipping_01_5.jpg"
       },
       {
+        "serial": 142,
         "title": "寶齡自研新藥 攻腎臟病治療",
         "url": "https://www.ctee.com.tw/news/20260718700142-439901",
         "page_code": "A25AB1",
@@ -392,6 +515,7 @@
     ],
     "B2": [
       {
+        "serial": 144,
         "title": "期貨新制上路 四大影響",
         "url": "https://www.ctee.com.tw/news/20260718700144-439901",
         "page_code": "A26AB2",
@@ -400,6 +524,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A26AB2_PictureItem_Clipping_01_5.jpg"
       },
       {
+        "serial": 147,
         "title": "歐付寶周漲逾7成 領跑興櫃",
         "url": "https://www.ctee.com.tw/news/20260718700147-439901",
         "page_code": "A26AB2",
@@ -408,6 +533,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A26AB2_PictureItem_Clipping_02_5.jpg"
       },
       {
+        "serial": 150,
         "title": "6月營收靚股 投信猛敲",
         "url": "https://www.ctee.com.tw/news/20260718700150-439901",
         "page_code": "A26AB2",
@@ -416,6 +542,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A26AB2_PictureItem_Clipping_03_4.jpg"
       },
       {
+        "serial": 153,
         "title": "群益金鼎證論壇 聚焦AI時代投資機會",
         "url": "https://www.ctee.com.tw/news/20260718700153-439901",
         "page_code": "A26AB2",
@@ -424,6 +551,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A26AB2_Table_Clipping_04_4.jpg"
       },
       {
+        "serial": 155,
         "title": "科技股利多鈍化 指數短線面臨補跌",
         "url": "https://www.ctee.com.tw/news/20260718700155-439901",
         "page_code": "A26AB2",
@@ -434,6 +562,7 @@
     ],
     "B3": [
       {
+        "serial": 157,
         "title": "華通砸20.9億 拚桃園擴產",
         "url": "https://www.ctee.com.tw/news/20260718700157-439901",
         "page_code": "A27AB3",
@@ -442,6 +571,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A27AB3_PictureItem_Clipping_01_4.jpg"
       },
       {
+        "serial": 160,
         "title": "新日興谷底已過 聚焦折疊手機",
         "url": "https://www.ctee.com.tw/news/20260718700160-439901",
         "page_code": "A27AB3",
@@ -450,6 +580,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A27AB3_PictureItem_Clipping_02_4.jpg"
       },
       {
+        "serial": 162,
         "title": "鑫科半導體材料貢獻 有望放大",
         "url": "https://www.ctee.com.tw/news/20260718700162-439901",
         "page_code": "A27AB3",
@@ -458,6 +589,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A27AB3_PictureItem_Clipping_03_4.jpg"
       },
       {
+        "serial": 164,
         "title": "信邦小金雞睿信 8月申請上櫃",
         "url": "https://www.ctee.com.tw/news/20260718700164-439901",
         "page_code": "A27AB3",
@@ -466,6 +598,7 @@
         "image_url": ""
       },
       {
+        "serial": 165,
         "title": "傳大股東解質賣股 國巨駁斥",
         "url": "https://www.ctee.com.tw/news/20260718700165-439901",
         "page_code": "A27AB3",
@@ -474,6 +607,7 @@
         "image_url": ""
       },
       {
+        "serial": 166,
         "title": "利機 今年營收有望增3成",
         "url": "https://www.ctee.com.tw/news/20260718700166-439901",
         "page_code": "A27AB3",
@@ -482,6 +616,7 @@
         "image_url": ""
       },
       {
+        "serial": 167,
         "title": "聯合再生 收益題材豐富",
         "url": "https://www.ctee.com.tw/news/20260718700167-439901",
         "page_code": "A27AB3",
@@ -490,6 +625,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A27AB3_PictureItem_Clipping_07_2.jpg"
       },
       {
+        "serial": 169,
         "title": "宇瞻 股價出現抗跌訊號",
         "url": "https://www.ctee.com.tw/news/20260718700169-439901",
         "page_code": "A27AB3",
@@ -500,6 +636,7 @@
     ],
     "B4": [
       {
+        "serial": 172,
         "title": "漢來美食小金雞 島語拚展店",
         "url": "https://www.ctee.com.tw/news/20260718700172-439901",
         "page_code": "A28AB4",
@@ -508,6 +645,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A28AB4_PictureItem_Clipping_01_4.jpg"
       },
       {
+        "serial": 176,
         "title": "水泥、預拌廠 搶攻低碳商機",
         "url": "https://www.ctee.com.tw/news/20260718700176-439901",
         "page_code": "A28AB4",
@@ -516,6 +654,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A28AB4_PictureItem_Clipping_02_4.jpg"
       },
       {
+        "serial": 179,
         "title": "提升醫藥供應鏈韌性 中化控股提三策略",
         "url": "https://www.ctee.com.tw/news/20260718700179-439901",
         "page_code": "A28AB4",
@@ -524,6 +663,7 @@
         "image_url": ""
       },
       {
+        "serial": 180,
         "title": "集團總經理曾上原請辭 美利達:經營方針不受影響",
         "url": "https://www.ctee.com.tw/news/20260718700180-439901",
         "page_code": "A28AB4",
@@ -532,6 +672,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A28AB4_PictureItem_Clipping_04_4.jpg"
       },
       {
+        "serial": 182,
         "title": "橙的雙軌並進 衝刺Q3營運",
         "url": "https://www.ctee.com.tw/news/20260718700182-439901",
         "page_code": "A28AB4",
@@ -540,6 +681,7 @@
         "image_url": ""
       },
       {
+        "serial": 183,
         "title": "新應材現增發行價 調為745元",
         "url": "https://www.ctee.com.tw/news/20260718700183-439901",
         "page_code": "A28AB4",
@@ -548,6 +690,7 @@
         "image_url": ""
       },
       {
+        "serial": 184,
         "title": "大統益 轉單題材發酵",
         "url": "https://www.ctee.com.tw/news/20260718700184-439901",
         "page_code": "A28AB4",
@@ -556,6 +699,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A28AB4_PictureItem_Clipping_07_2.jpg"
       },
       {
+        "serial": 186,
         "title": "亞泥 買盤逢低承接",
         "url": "https://www.ctee.com.tw/news/20260718700186-439901",
         "page_code": "A28AB4",
@@ -566,6 +710,7 @@
     ],
     "B5": [
       {
+        "serial": 189,
         "title": "營運回溫 明基材Q2營收寫次高",
         "url": "https://www.ctee.com.tw/news/20260718700189-439901",
         "page_code": "A29AB5",
@@ -574,6 +719,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A29AB5_PictureItem_Clipping_01_5.jpg"
       },
       {
+        "serial": 192,
         "title": "華碩AI醫療 台、星兩地布局有成",
         "url": "https://www.ctee.com.tw/news/20260718700192-439901",
         "page_code": "A29AB5",
@@ -582,6 +728,7 @@
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-18/1024/A29AB5_PictureItem_Clipping_02_4.jpg"
       },
       {
+        "serial": 194,
         "title": "虹光 攻高毛利印表機",
         "url": "https://www.ctee.com.tw/news/20260718700194-439901",
         "page_code": "A29AB5",
@@ -594,36 +741,16 @@
     "C2": [],
     "C3": []
   },
-  "errors": [
-    "serial 50: parsed HTML but no target page code",
-    "serial 60: parsed HTML but no target page code",
-    "serial 59: parsed HTML but no target page code",
-    "serial 83: parsed HTML but no target page code",
-    "serial 96: parsed HTML but no target page code",
-    "serial 132: parsed HTML but no target page code",
-    "serial 95: parsed HTML but no target page code",
-    "serial 121: parsed HTML but no target page code",
-    "serial 120: parsed HTML but no target page code"
-  ],
+  "errors": [],
   "diagnostics": {
-    "errors": [
-      "serial 50: parsed HTML but no target page code",
-      "serial 60: parsed HTML but no target page code",
-      "serial 59: parsed HTML but no target page code",
-      "serial 83: parsed HTML but no target page code",
-      "serial 96: parsed HTML but no target page code",
-      "serial 132: parsed HTML but no target page code",
-      "serial 95: parsed HTML but no target page code",
-      "serial 121: parsed HTML but no target page code",
-      "serial 120: parsed HTML but no target page code"
-    ],
+    "errors": [],
     "counters": {
       "serials_scanned": 2500,
       "not_found_count": 2425,
       "fetch_failure_count": 0,
       "parse_failure_count": 17,
-      "retry_success_count": 7,
-      "inferred_page_count": 8
+      "retry_success_count": 0,
+      "inferred_page_count": 17
     },
     "fetch_failures": [],
     "parse_failures": [
@@ -640,10 +767,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 60,
-        "url": "https://www.ctee.com.tw/news/20260718700060-439901",
-        "title": "安聯投信海外投資首席許家豪：下半年 聚焦四關鍵發展",
-        "summary": "近期全球經濟呈現「成長有韌性、通膨仍具黏性、地緣風險未退、AI投資持續擴張」的格局。根據國際貨幣基金（IMF）7月最新展望，全球經濟成長維持穩定，但區域表現分化，AI相關投資與科技循環復甦，正抵銷部分能源衝擊與地緣政治帶來的負面影響。全球成長主要受惠於科技供應鏈國家，而高度依賴能源進口且未參與AI供...",
+        "serial": 59,
+        "url": "https://www.ctee.com.tw/news/20260718700059-439901",
+        "title": "券商可動用資金淨額 證交所四大措施鬆綁",
+        "summary": "有鑑於近來台股成交量能大增，臺灣證券交易所17日宣布，證券商可動用資金淨額即日起有三大鬆綁精進措施，另一鬆綁是10月1日起上路，未來券商受託買賣額度若爆了遭停止委託，但投資人委託賣出是原有庫存，或撤銷委託/刪除未成交委託單等，可動態恢復證券商輸入買賣申報功能。 口袋證券5月26日因突然一筆委託大單致...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -651,10 +778,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 59,
-        "url": "https://www.ctee.com.tw/news/20260718700059-439901",
-        "title": "券商可動用資金淨額 證交所四大措施鬆綁",
-        "summary": "有鑑於近來台股成交量能大增，臺灣證券交易所17日宣布，證券商可動用資金淨額即日起有三大鬆綁精進措施，另一鬆綁是10月1日起上路，未來券商受託買賣額度若爆了遭停止委託，但投資人委託賣出是原有庫存，或撤銷委託/刪除未成交委託單等，可動態恢復證券商輸入買賣申報功能。 口袋證券5月26日因突然一筆委託大單致...",
+        "serial": 60,
+        "url": "https://www.ctee.com.tw/news/20260718700060-439901",
+        "title": "安聯投信海外投資首席許家豪：下半年 聚焦四關鍵發展",
+        "summary": "近期全球經濟呈現「成長有韌性、通膨仍具黏性、地緣風險未退、AI投資持續擴張」的格局。根據國際貨幣基金（IMF）7月最新展望，全球經濟成長維持穩定，但區域表現分化，AI相關投資與科技循環復甦，正抵銷部分能源衝擊與地緣政治帶來的負面影響。全球成長主要受惠於科技供應鏈國家，而高度依賴能源進口且未參與AI供...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -695,10 +822,43 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 95,
+        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
+        "title": "寧德拿下歐洲最大鈉電儲能案",
+        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 115,
         "url": "https://www.ctee.com.tw/news/20260718700115-439901",
         "title": "青安3.0總價三級制 七都8成交易適用",
         "summary": "政院拍板青安3.0方案，針對申貸總價上限將採三級制，房仲業者指出，若依三級制總價門檻，七都仍有約8成以上成屋交易，總價可落在申貸限制範圍內，其中以台南市符合門檻交易占比88％最高，台北市符合門檻交易占比僅約75％，換句話說，等於約每四件住宅交易，就有一件總價超標，未來無法適用新青安貸款。 青安3.0...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 120,
+        "url": "https://www.ctee.com.tw/news/20260718700120-439901",
+        "title": "科技廠辦助力 營造廠Q2毛利率升",
+        "summary": "營造廠雖面臨公共工程物料因通膨帶動成本上揚、房地產營建工程低迷、案量減少，但在毛利較高的廠辦建案工程案量增加、占比提升下，市場預期，達欣工、根基、建國工程第二季毛利率可望有1個百分點以上的季增。 達欣工於2025年的整體營收，廠房等的占比超過7成；目前達欣工手中在建承攬量超過900億元、在建工程待執...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 121,
+        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
+        "title": "美光揪七車用夥伴 策略合作簽SCA",
+        "summary": "美光宣布，已與高通、偉世通、HARMAN、JOYNEXT、電裝、Astemo及現代Mobis等七家主要車用供應商與生態系夥伴，完成簽署策略性客戶協議（SCA），提高車用記憶體與儲存產品的供應能見度，支援下一世代智慧汽車平台長期發展。 汽車產品生命週期遠長於消費性電子，從平台開發、驗證到量產往往歷時多...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -780,86 +940,50 @@
         "image_url": "",
         "status": "no_page_code",
         "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 95,
-        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
-        "title": "寧德拿下歐洲最大鈉電儲能案",
-        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 2
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 121,
-        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
-        "title": "美光揪七車用夥伴 策略合作簽SCA",
-        "summary": "美光宣布，已與高通、偉世通、HARMAN、JOYNEXT、電裝、Astemo及現代Mobis等七家主要車用供應商與生態系夥伴，完成簽署策略性客戶協議（SCA），提高車用記憶體與儲存產品的供應能見度，支援下一世代智慧汽車平台長期發展。 汽車產品生命週期遠長於消費性電子，從平台開發、驗證到量產往往歷時多...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 2
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 120,
-        "url": "https://www.ctee.com.tw/news/20260718700120-439901",
-        "title": "科技廠辦助力 營造廠Q2毛利率升",
-        "summary": "營造廠雖面臨公共工程物料因通膨帶動成本上揚、房地產營建工程低迷、案量減少，但在毛利較高的廠辦建案工程案量增加、占比提升下，市場預期，達欣工、根基、建國工程第二季毛利率可望有1個百分點以上的季增。 達欣工於2025年的整體營收，廠房等的占比超過7成；目前達欣工手中在建承攬量超過900億元、在建工程待執...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 2
       }
     ],
-    "retry_successes": [
-      {
-        "kind": "retry_success",
-        "serial": 167,
-        "url": "https://www.ctee.com.tw/news/20260718700167-439901",
-        "attempts": 2
-      },
-      {
-        "kind": "retry_success",
-        "serial": 184,
-        "url": "https://www.ctee.com.tw/news/20260718700184-439901",
-        "attempts": 2
-      },
-      {
-        "kind": "retry_success",
-        "serial": 66,
-        "url": "https://www.ctee.com.tw/news/20260718700066-439901",
-        "attempts": 3
-      },
-      {
-        "kind": "retry_success",
-        "serial": 73,
-        "url": "https://www.ctee.com.tw/news/20260718700073-439901",
-        "attempts": 3
-      },
-      {
-        "kind": "retry_success",
-        "serial": 162,
-        "url": "https://www.ctee.com.tw/news/20260718700162-439901",
-        "attempts": 2
-      },
-      {
-        "kind": "retry_success",
-        "serial": 160,
-        "url": "https://www.ctee.com.tw/news/20260718700160-439901",
-        "attempts": 2
-      },
-      {
-        "kind": "retry_success",
-        "serial": 106,
-        "url": "https://www.ctee.com.tw/news/20260718700106-439901",
-        "attempts": 3
-      }
-    ],
+    "retry_successes": [],
     "inferred_page_articles": [
+      {
+        "serial": 50,
+        "url": "https://www.ctee.com.tw/news/20260718700050-439901",
+        "title": "陳祖培想通了...才扛此董座重任",
+        "page": "A2",
+        "page_code": "A02AA2",
+        "previous_serial": 47,
+        "next_serial": 51,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 59,
+        "url": "https://www.ctee.com.tw/news/20260718700059-439901",
+        "title": "券商可動用資金淨額 證交所四大措施鬆綁",
+        "page": "A3",
+        "page_code": "A03AA3",
+        "previous_serial": 56,
+        "next_serial": 61,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 60,
+        "url": "https://www.ctee.com.tw/news/20260718700060-439901",
+        "title": "安聯投信海外投資首席許家豪：下半年 聚焦四關鍵發展",
+        "page": "A3",
+        "page_code": "A03AA3",
+        "previous_serial": 59,
+        "next_serial": 61,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 83,
+        "url": "https://www.ctee.com.tw/news/20260718700083-439901",
+        "title": "SpaceX星艦試飛 臨時喊卡",
+        "page": "A5",
+        "page_code": "A05AA5",
+        "previous_serial": 81,
+        "next_serial": 85,
+        "inference_reason": "previous_page_boundary"
+      },
       {
         "serial": 90,
         "url": "https://www.ctee.com.tw/news/20260718700090-439901",
@@ -867,7 +991,28 @@
         "page": "A6",
         "page_code": "A06AA6",
         "previous_serial": 88,
-        "next_serial": 91
+        "next_serial": 91,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 96,
+        "url": "https://www.ctee.com.tw/news/20260718700096-439901",
+        "title": "全球AI變現與地緣變局 陸港外貿結構升級",
+        "page": "A6",
+        "page_code": "A06AA6",
+        "previous_serial": 91,
+        "next_serial": 97,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 95,
+        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
+        "title": "寧德拿下歐洲最大鈉電儲能案",
+        "page": "A6",
+        "page_code": "A06AA6",
+        "previous_serial": 91,
+        "next_serial": 96,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 115,
@@ -876,7 +1021,38 @@
         "page": "A8",
         "page_code": "A10AA8",
         "previous_serial": 112,
-        "next_serial": 116
+        "next_serial": 116,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 120,
+        "url": "https://www.ctee.com.tw/news/20260718700120-439901",
+        "title": "科技廠辦助力 營造廠Q2毛利率升",
+        "page": "A8",
+        "page_code": "A10AA8",
+        "previous_serial": 118,
+        "next_serial": 122,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 121,
+        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
+        "title": "美光揪七車用夥伴 策略合作簽SCA",
+        "page": "A8",
+        "page_code": "A10AA8",
+        "previous_serial": 120,
+        "next_serial": 122,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 132,
+        "url": "https://www.ctee.com.tw/news/20260718700132-439901",
+        "title": "竹科生醫業 前進亞洲生技大展",
+        "page": "A9",
+        "page_code": "A11AA9",
+        "previous_serial": 130,
+        "next_serial": 133,
+        "inference_reason": "previous_page_boundary"
       },
       {
         "serial": 164,
@@ -885,7 +1061,8 @@
         "page": "B3",
         "page_code": "A27AB3",
         "previous_serial": 162,
-        "next_serial": 167
+        "next_serial": 167,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 166,
@@ -894,7 +1071,8 @@
         "page": "B3",
         "page_code": "A27AB3",
         "previous_serial": 164,
-        "next_serial": 167
+        "next_serial": 167,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 165,
@@ -903,7 +1081,8 @@
         "page": "B3",
         "page_code": "A27AB3",
         "previous_serial": 164,
-        "next_serial": 166
+        "next_serial": 166,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 179,
@@ -912,7 +1091,8 @@
         "page": "B4",
         "page_code": "A28AB4",
         "previous_serial": 176,
-        "next_serial": 180
+        "next_serial": 180,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 183,
@@ -921,7 +1101,8 @@
         "page": "B4",
         "page_code": "A28AB4",
         "previous_serial": 180,
-        "next_serial": 184
+        "next_serial": 184,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 182,
@@ -930,109 +1111,10 @@
         "page": "B4",
         "page_code": "A28AB4",
         "previous_serial": 180,
-        "next_serial": 183
+        "next_serial": 183,
+        "inference_reason": "same_page_neighbors"
       }
     ],
-    "unassigned_articles": [
-      {
-        "kind": "parse_failure",
-        "serial": 50,
-        "url": "https://www.ctee.com.tw/news/20260718700050-439901",
-        "title": "陳祖培想通了...才扛此董座重任",
-        "summary": "國泰世華銀行新任董座陳祖培受訪時，有問必答、妙語如珠，臉上始終掛著笑容，與媒體首次接觸極令人感受誠意滿滿。對於花了多少時間考慮，決定接下此一職務，他回應說，「花多少時間思考不要緊，想得通才要緊」，他已經想通了，過去團隊建立良好基礎，當今團隊相當堅強，在此基礎上，很快就可以取得突破。 提及個人的領導風...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 60,
-        "url": "https://www.ctee.com.tw/news/20260718700060-439901",
-        "title": "安聯投信海外投資首席許家豪：下半年 聚焦四關鍵發展",
-        "summary": "近期全球經濟呈現「成長有韌性、通膨仍具黏性、地緣風險未退、AI投資持續擴張」的格局。根據國際貨幣基金（IMF）7月最新展望，全球經濟成長維持穩定，但區域表現分化，AI相關投資與科技循環復甦，正抵銷部分能源衝擊與地緣政治帶來的負面影響。全球成長主要受惠於科技供應鏈國家，而高度依賴能源進口且未參與AI供...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 59,
-        "url": "https://www.ctee.com.tw/news/20260718700059-439901",
-        "title": "券商可動用資金淨額 證交所四大措施鬆綁",
-        "summary": "有鑑於近來台股成交量能大增，臺灣證券交易所17日宣布，證券商可動用資金淨額即日起有三大鬆綁精進措施，另一鬆綁是10月1日起上路，未來券商受託買賣額度若爆了遭停止委託，但投資人委託賣出是原有庫存，或撤銷委託/刪除未成交委託單等，可動態恢復證券商輸入買賣申報功能。 口袋證券5月26日因突然一筆委託大單致...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 83,
-        "url": "https://www.ctee.com.tw/news/20260718700083-439901",
-        "title": "SpaceX星艦試飛 臨時喊卡",
-        "summary": "馬斯克旗下太空探索技術公司SpaceX最新版「星艦V3」（Starship V3），原定當地時間16日進行關鍵試飛，但卻在升空前不到1秒鐘因引擎異常而緊急中止。由於這是SpaceX自6月IPO以來，首度進行重大的發射任務，然而這次試飛喊卡也讓近來表現疲弱的SpaceX股價再度承壓。 星艦V3原定美東...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 96,
-        "url": "https://www.ctee.com.tw/news/20260718700096-439901",
-        "title": "全球AI變現與地緣變局 陸港外貿結構升級",
-        "summary": "美國6月份ISM服務業指數為54，雖較上月微降，仍穩守於50的榮枯分水嶺上方，顯示服務業擴張動能猶在。深入剖析其分項指標，新訂單與就業數據皆具備實質支撐。然而，投入端價格壓力依然高企，美國聯準會6月會議紀錄釋放出偏鷹訊號，部分官員對通膨風險的擔憂升溫。在防範通膨反彈為首要政策目標的前提下，短期內貨幣...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 132,
-        "url": "https://www.ctee.com.tw/news/20260718700132-439901",
-        "title": "竹科生醫業 前進亞洲生技大展",
-        "summary": "2026亞洲生技大展竹科管理局會同十家竹科廠商及中科、南科、國家同步輻射中心聯合設立「科學園區主題館」，以「匯聚創新 鏈結全球」為主軸，持續推動北中南生醫廊帶發展與技術整合，展現臺灣生醫產業創新聚落實力。 國科會吳誠文主委及竹科管理局游靜秋副局長特別蒞臨展區，為參展廠商加油打氣，竹科今年聚焦「新藥研...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 95,
-        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
-        "title": "寧德拿下歐洲最大鈉電儲能案",
-        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 2
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 121,
-        "url": "https://www.ctee.com.tw/news/20260718700121-439901",
-        "title": "美光揪七車用夥伴 策略合作簽SCA",
-        "summary": "美光宣布，已與高通、偉世通、HARMAN、JOYNEXT、電裝、Astemo及現代Mobis等七家主要車用供應商與生態系夥伴，完成簽署策略性客戶協議（SCA），提高車用記憶體與儲存產品的供應能見度，支援下一世代智慧汽車平台長期發展。 汽車產品生命週期遠長於消費性電子，從平台開發、驗證到量產往往歷時多...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 2
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 120,
-        "url": "https://www.ctee.com.tw/news/20260718700120-439901",
-        "title": "科技廠辦助力 營造廠Q2毛利率升",
-        "summary": "營造廠雖面臨公共工程物料因通膨帶動成本上揚、房地產營建工程低迷、案量減少，但在毛利較高的廠辦建案工程案量增加、占比提升下，市場預期，達欣工、根基、建國工程第二季毛利率可望有1個百分點以上的季增。 達欣工於2025年的整體營收，廠房等的占比超過7成；目前達欣工手中在建承攬量超過900億元、在建工程待執...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 2
-      }
-    ]
+    "unassigned_articles": []
   }
 }
