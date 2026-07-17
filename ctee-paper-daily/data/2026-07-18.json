@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T06:01:30+08:00",
+  "generated_at": "2026-07-18T06:34:44+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -599,8 +599,8 @@
     "serial 59: parsed HTML but no target page code",
     "serial 60: parsed HTML but no target page code",
     "serial 83: parsed HTML but no target page code",
-    "serial 96: parsed HTML but no target page code",
     "serial 95: parsed HTML but no target page code",
+    "serial 96: parsed HTML but no target page code",
     "serial 120: parsed HTML but no target page code",
     "serial 121: parsed HTML but no target page code",
     "serial 132: parsed HTML but no target page code"
@@ -611,8 +611,8 @@
       "serial 59: parsed HTML but no target page code",
       "serial 60: parsed HTML but no target page code",
       "serial 83: parsed HTML but no target page code",
-      "serial 96: parsed HTML but no target page code",
       "serial 95: parsed HTML but no target page code",
+      "serial 96: parsed HTML but no target page code",
       "serial 120: parsed HTML but no target page code",
       "serial 121: parsed HTML but no target page code",
       "serial 132: parsed HTML but no target page code"
@@ -684,10 +684,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 96,
-        "url": "https://www.ctee.com.tw/news/20260718700096-439901",
-        "title": "全球AI變現與地緣變局 陸港外貿結構升級",
-        "summary": "美國6月份ISM服務業指數為54，雖較上月微降，仍穩守於50的榮枯分水嶺上方，顯示服務業擴張動能猶在。深入剖析其分項指標，新訂單與就業數據皆具備實質支撐。然而，投入端價格壓力依然高企，美國聯準會6月會議紀錄釋放出偏鷹訊號，部分官員對通膨風險的擔憂升溫。在防範通膨反彈為首要政策目標的前提下，短期內貨幣...",
+        "serial": 95,
+        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
+        "title": "寧德拿下歐洲最大鈉電儲能案",
+        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -695,10 +695,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 95,
-        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
-        "title": "寧德拿下歐洲最大鈉電儲能案",
-        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
+        "serial": 96,
+        "url": "https://www.ctee.com.tw/news/20260718700096-439901",
+        "title": "全球AI變現與地緣變局 陸港外貿結構升級",
+        "summary": "美國6月份ISM服務業指數為54，雖較上月微降，仍穩守於50的榮枯分水嶺上方，顯示服務業擴張動能猶在。深入剖析其分項指標，新訂單與就業數據皆具備實質支撐。然而，投入端價格壓力依然高企，美國聯準會6月會議紀錄釋放出偏鷹訊號，部分官員對通膨風險的擔憂升溫。在防範通膨反彈為首要政策目標的前提下，短期內貨幣...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -750,10 +750,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 166,
-        "url": "https://www.ctee.com.tw/news/20260718700166-439901",
-        "title": "利機 今年營收有望增3成",
-        "summary": "半導體封測材料與零組件供應商利機（3444）看好今年營運成長動能，除既有均熱片、載板及金屬材料業務需求穩健成長外，明鈞源股權交易案順利於7月1日完成交割，下半年將納入82％股權貢獻，法人預期將進一步推升集團營收與獲利表現，公司估全年營收有機會成長20％至30％，每股稅後純益（EPS）亦可望同步提升。...",
+        "serial": 165,
+        "url": "https://www.ctee.com.tw/news/20260718700165-439901",
+        "title": "傳大股東解質賣股 國巨駁斥",
+        "summary": "台股上演黑色星期五，17日指數爆殺將近3,000點，空頭謠言四起，而被動元件族群因短短二個月漲勢剽悍，加上太陽誘電、村田等日系被動元件股攜手跳水，成為台股殺盤重心，龍頭廠國巨*（2327）遭到影射高檔解質賣股，導致股價尖頭反轉，國巨發出新聞稿駁斥指出，大股東陳氏傳承公司並未申報轉讓持股。 針對近日市...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -772,21 +772,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 165,
-        "url": "https://www.ctee.com.tw/news/20260718700165-439901",
-        "title": "傳大股東解質賣股 國巨駁斥",
-        "summary": "台股上演黑色星期五，17日指數爆殺將近3,000點，空頭謠言四起，而被動元件族群因短短二個月漲勢剽悍，加上太陽誘電、村田等日系被動元件股攜手跳水，成為台股殺盤重心，龍頭廠國巨*（2327）遭到影射高檔解質賣股，導致股價尖頭反轉，國巨發出新聞稿駁斥指出，大股東陳氏傳承公司並未申報轉讓持股。 針對近日市...",
-        "published_at": "2026-07-18 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 182,
-        "url": "https://www.ctee.com.tw/news/20260718700182-439901",
-        "title": "橙的雙軌並進 衝刺Q3營運",
-        "summary": "胎壓偵測系統（TPMS）大廠橙的（4554）近年深化歐洲售後服務市場（AM）有成！橙的表示，公司透過「直營+經銷」雙軌策略，擴大營運效益已開始顯現，除上半年營收表現亮眼，第三季營運看法亦樂觀。 橙的6月營收5,529萬元，月增33.68％、年增56.28％，今年第二季營收1.52億元，季增33.16...",
+        "serial": 166,
+        "url": "https://www.ctee.com.tw/news/20260718700166-439901",
+        "title": "利機 今年營收有望增3成",
+        "summary": "半導體封測材料與零組件供應商利機（3444）看好今年營運成長動能，除既有均熱片、載板及金屬材料業務需求穩健成長外，明鈞源股權交易案順利於7月1日完成交割，下半年將納入82％股權貢獻，法人預期將進一步推升集團營收與獲利表現，公司估全年營收有機會成長20％至30％，每股稅後純益（EPS）亦可望同步提升。...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -798,6 +787,17 @@
         "url": "https://www.ctee.com.tw/news/20260718700179-439901",
         "title": "提升醫藥供應鏈韌性 中化控股提三策略",
         "summary": "全球醫藥供應鏈重組加速，中化控股（3716）執行長暨總經理王厚凱17日表示，台灣要提升醫藥供應鏈韌性，不能只追求供應鏈在地化，而應提升在國際供應鏈中的「不可取代性」，並從「保障（Protect）」、「鏈結（Connect）」及「規模化（Scale）」三大策略著手，打造具韌性且具國際競爭力的醫藥供應體...",
+        "published_at": "2026-07-18 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 182,
+        "url": "https://www.ctee.com.tw/news/20260718700182-439901",
+        "title": "橙的雙軌並進 衝刺Q3營運",
+        "summary": "胎壓偵測系統（TPMS）大廠橙的（4554）近年深化歐洲售後服務市場（AM）有成！橙的表示，公司透過「直營+經銷」雙軌策略，擴大營運效益已開始顯現，除上半年營收表現亮眼，第三季營運看法亦樂觀。 橙的6月營收5,529萬元，月增33.68％、年增56.28％，今年第二季營收1.52億元，季增33.16...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -836,9 +836,9 @@
         "next_serial": 116
       },
       {
-        "serial": 166,
-        "url": "https://www.ctee.com.tw/news/20260718700166-439901",
-        "title": "利機 今年營收有望增3成",
+        "serial": 165,
+        "url": "https://www.ctee.com.tw/news/20260718700165-439901",
+        "title": "傳大股東解質賣股 國巨駁斥",
         "page": "B3",
         "page_code": "A27AB3",
         "previous_serial": 162,
@@ -851,25 +851,16 @@
         "page": "B3",
         "page_code": "A27AB3",
         "previous_serial": 162,
-        "next_serial": 166
+        "next_serial": 165
       },
       {
-        "serial": 165,
-        "url": "https://www.ctee.com.tw/news/20260718700165-439901",
-        "title": "傳大股東解質賣股 國巨駁斥",
+        "serial": 166,
+        "url": "https://www.ctee.com.tw/news/20260718700166-439901",
+        "title": "利機 今年營收有望增3成",
         "page": "B3",
         "page_code": "A27AB3",
-        "previous_serial": 164,
-        "next_serial": 166
-      },
-      {
-        "serial": 182,
-        "url": "https://www.ctee.com.tw/news/20260718700182-439901",
-        "title": "橙的雙軌並進 衝刺Q3營運",
-        "page": "B4",
-        "page_code": "A28AB4",
-        "previous_serial": 180,
-        "next_serial": 184
+        "previous_serial": 165,
+        "next_serial": 167
       },
       {
         "serial": 179,
@@ -879,6 +870,15 @@
         "page_code": "A28AB4",
         "previous_serial": 176,
         "next_serial": 180
+      },
+      {
+        "serial": 182,
+        "url": "https://www.ctee.com.tw/news/20260718700182-439901",
+        "title": "橙的雙軌並進 衝刺Q3營運",
+        "page": "B4",
+        "page_code": "A28AB4",
+        "previous_serial": 180,
+        "next_serial": 184
       },
       {
         "serial": 183,
@@ -937,10 +937,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 96,
-        "url": "https://www.ctee.com.tw/news/20260718700096-439901",
-        "title": "全球AI變現與地緣變局 陸港外貿結構升級",
-        "summary": "美國6月份ISM服務業指數為54，雖較上月微降，仍穩守於50的榮枯分水嶺上方，顯示服務業擴張動能猶在。深入剖析其分項指標，新訂單與就業數據皆具備實質支撐。然而，投入端價格壓力依然高企，美國聯準會6月會議紀錄釋放出偏鷹訊號，部分官員對通膨風險的擔憂升溫。在防範通膨反彈為首要政策目標的前提下，短期內貨幣...",
+        "serial": 95,
+        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
+        "title": "寧德拿下歐洲最大鈉電儲能案",
+        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -948,10 +948,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 95,
-        "url": "https://www.ctee.com.tw/news/20260718700095-439901",
-        "title": "寧德拿下歐洲最大鈉電儲能案",
-        "summary": "全球動力電池龍頭寧德時代近日與荷蘭能源公司Alfen簽署諒解備忘錄，計畫自明年起在荷蘭等西歐國家建立5GWh（吉瓦時）的系統，為歐洲迄今大規模鈉電儲能計畫之一。 寧德時代6月才發表鈉電儲能解決方案「天恒納電」，預計9月在中國大陸進行首批交付，明年6月才會進攻全球市場。 在歐洲面臨儲能需求和能源轉型之...",
+        "serial": 96,
+        "url": "https://www.ctee.com.tw/news/20260718700096-439901",
+        "title": "全球AI變現與地緣變局 陸港外貿結構升級",
+        "summary": "美國6月份ISM服務業指數為54，雖較上月微降，仍穩守於50的榮枯分水嶺上方，顯示服務業擴張動能猶在。深入剖析其分項指標，新訂單與就業數據皆具備實質支撐。然而，投入端價格壓力依然高企，美國聯準會6月會議紀錄釋放出偏鷹訊號，部分官員對通膨風險的擔憂升溫。在防範通膨反彈為首要政策目標的前提下，短期內貨幣...",
         "published_at": "2026-07-18 03:00:00",
         "image_url": "",
         "status": "no_page_code",
