@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-19",
-  "generated_at": "2026-07-19T06:01:31+08:00",
+  "generated_at": "2026-07-19T07:01:13+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -431,6 +431,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 74,
+        "url": "https://www.ctee.com.tw/news/20260719700074-439901",
+        "title": "長飛光纖：PMF需求上看20倍",
+        "summary": "大陸光纖龍頭廠長飛光纖總裁莊丹18日表示，作為共封裝光學（CPO）最佳連接介質的「保偏光纖」（PMF），在新一代高性能CPU、矽光光組件等拉動下，未來1～2年需求將增長10倍甚至是20倍。 莊丹出席2026世界人工智能大會（WAIC）「曦智科技·光計算與光互聯雙輪驅動的AI基礎設施新範式論壇」時表示...",
+        "published_at": "2026-07-19 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 76,
         "url": "https://www.ctee.com.tw/news/20260719700076-439901",
         "title": "AI投資續發酵 新興市場迎新循環",
@@ -457,17 +468,6 @@
         "url": "https://www.ctee.com.tw/news/20260719700090-439901",
         "title": "人事異動站　7月10日至7月16日",
         "summary": "一、工商企業 ◎台亞半導體總經理蔡育軒卸任，由陳裕國新任。 ◎積亞半導體總經理、策略長李國光卸任，總經理由王敬龍新任，副總經理蔡育軒卸任。 ◎尼得科超眾科技董事長由澄川洋平新任，執行長三好昭宏卸任，由澄川洋平新任，財務長澄川洋平卸任，由淺野宜紀新任，公司治理主管由丁冠瑜新任。 ◎達新工業永續長吳子聰...",
-        "published_at": "2026-07-19 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 74,
-        "url": "https://www.ctee.com.tw/news/20260719700074-439901",
-        "title": "長飛光纖：PMF需求上看20倍",
-        "summary": "大陸光纖龍頭廠長飛光纖總裁莊丹18日表示，作為共封裝光學（CPO）最佳連接介質的「保偏光纖」（PMF），在新一代高性能CPU、矽光光組件等拉動下，未來1～2年需求將增長10倍甚至是20倍。 莊丹出席2026世界人工智能大會（WAIC）「曦智科技·光計算與光互聯雙輪驅動的AI基礎設施新範式論壇」時表示...",
         "published_at": "2026-07-19 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -507,12 +507,22 @@
         "inference_reason": "same_page_neighbors"
       },
       {
+        "serial": 74,
+        "url": "https://www.ctee.com.tw/news/20260719700074-439901",
+        "title": "長飛光纖：PMF需求上看20倍",
+        "page": "A5",
+        "page_code": "A05AA5",
+        "previous_serial": 72,
+        "next_serial": 77,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
         "serial": 76,
         "url": "https://www.ctee.com.tw/news/20260719700076-439901",
         "title": "AI投資續發酵 新興市場迎新循環",
         "page": "A5",
         "page_code": "A05AA5",
-        "previous_serial": 72,
+        "previous_serial": 74,
         "next_serial": 77,
         "inference_reason": "previous_page_boundary"
       },
@@ -522,7 +532,7 @@
         "title": "PC廠瘋搶！長鑫科技訂單排到2027",
         "page": "A5",
         "page_code": "A05AA5",
-        "previous_serial": 72,
+        "previous_serial": 74,
         "next_serial": 76,
         "inference_reason": "same_page_neighbors"
       },
@@ -535,16 +545,6 @@
         "previous_serial": 88,
         "next_serial": 91,
         "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 74,
-        "url": "https://www.ctee.com.tw/news/20260719700074-439901",
-        "title": "長飛光纖：PMF需求上看20倍",
-        "page": "A5",
-        "page_code": "A05AA5",
-        "previous_serial": 72,
-        "next_serial": 75,
-        "inference_reason": "same_page_neighbors"
       }
     ],
     "unassigned_articles": []
