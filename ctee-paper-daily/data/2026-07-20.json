@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T06:01:52+08:00",
+  "generated_at": "2026-07-20T07:01:09+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -136,7 +136,7 @@
       },
       {
         "serial": 56,
-        "title": "大摩挺台積 股價回檔就買進",
+        "title": "台股崩跌兇手不是台積電！法人5點解析 大摩挺神山：回檔就買進",
         "url": "https://www.ctee.com.tw/news/20260720700056-439901",
         "page_code": "A03AA3",
         "summary": "外資看好台積電理由及台股重挫主因台積電法說會看AI展望優異，各大外資券商攜手調升台積電目標價，最高見到4字頭，空方卻以第三季毛利率展望不及市場樂觀預期為藉口，宣洩賣壓。法人直指，台積電法說並非殺盤元凶，反而是五大原因造成台股崩跌，只待籌碼沉澱，台積電基本面將再度展現推升台股價值。 台積電法說會後，市...",
@@ -963,153 +963,32 @@
     ]
   },
   "errors": [
-    "serial 2231: failed after 3 attempts (TimeoutError)",
-    "serial 2232: failed after 3 attempts (TimeoutError)",
-    "serial 2233: failed after 3 attempts (TimeoutError)",
-    "serial 2239: failed after 3 attempts (TimeoutError)",
-    "serial 2236: failed after 3 attempts (TimeoutError)",
-    "serial 2238: failed after 3 attempts (TimeoutError)",
-    "serial 2240: failed after 3 attempts (TimeoutError)",
-    "serial 2242: failed after 3 attempts (TimeoutError)",
-    "serial 2244: failed after 3 attempts (TimeoutError)",
-    "serial 2241: failed after 3 attempts (TimeoutError)",
-    "serial 2243: failed after 3 attempts (TimeoutError)",
-    "serial 2247: failed after 3 attempts (TimeoutError)",
     "serial 263: parsed HTML but no target page code",
-    "serial 265: parsed HTML but no target page code",
-    "serial 267: parsed HTML but no target page code"
+    "serial 267: parsed HTML but no target page code",
+    "serial 265: parsed HTML but no target page code"
   ],
   "diagnostics": {
     "errors": [
-      "serial 2231: failed after 3 attempts (TimeoutError)",
-      "serial 2232: failed after 3 attempts (TimeoutError)",
-      "serial 2233: failed after 3 attempts (TimeoutError)",
-      "serial 2239: failed after 3 attempts (TimeoutError)",
-      "serial 2236: failed after 3 attempts (TimeoutError)",
-      "serial 2238: failed after 3 attempts (TimeoutError)",
-      "serial 2240: failed after 3 attempts (TimeoutError)",
-      "serial 2242: failed after 3 attempts (TimeoutError)",
-      "serial 2244: failed after 3 attempts (TimeoutError)",
-      "serial 2241: failed after 3 attempts (TimeoutError)",
-      "serial 2243: failed after 3 attempts (TimeoutError)",
-      "serial 2247: failed after 3 attempts (TimeoutError)",
       "serial 263: parsed HTML but no target page code",
-      "serial 265: parsed HTML but no target page code",
-      "serial 267: parsed HTML but no target page code"
+      "serial 267: parsed HTML but no target page code",
+      "serial 265: parsed HTML but no target page code"
     ],
     "counters": {
       "serials_scanned": 2500,
-      "not_found_count": 2386,
-      "fetch_failure_count": 12,
+      "not_found_count": 2398,
+      "fetch_failure_count": 0,
       "parse_failure_count": 35,
       "retry_success_count": 0,
       "inferred_page_count": 32
     },
-    "fetch_failures": [
-      {
-        "kind": "fetch_failure",
-        "serial": 2231,
-        "url": "https://www.ctee.com.tw/news/20260720702231-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2232,
-        "url": "https://www.ctee.com.tw/news/20260720702232-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2233,
-        "url": "https://www.ctee.com.tw/news/20260720702233-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2239,
-        "url": "https://www.ctee.com.tw/news/20260720702239-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2236,
-        "url": "https://www.ctee.com.tw/news/20260720702236-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2238,
-        "url": "https://www.ctee.com.tw/news/20260720702238-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2240,
-        "url": "https://www.ctee.com.tw/news/20260720702240-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2242,
-        "url": "https://www.ctee.com.tw/news/20260720702242-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2244,
-        "url": "https://www.ctee.com.tw/news/20260720702244-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2241,
-        "url": "https://www.ctee.com.tw/news/20260720702241-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2243,
-        "url": "https://www.ctee.com.tw/news/20260720702243-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      },
-      {
-        "kind": "fetch_failure",
-        "serial": 2247,
-        "url": "https://www.ctee.com.tw/news/20260720702247-439901",
-        "status": "failed",
-        "attempts": 3,
-        "error": "TimeoutError"
-      }
-    ],
+    "fetch_failures": [],
     "parse_failures": [
       {
         "kind": "parse_failure",
-        "serial": 45,
-        "url": "https://www.ctee.com.tw/news/20260720700045-439901",
-        "title": "央行跟進日韓升息？ Q3通膨成關鍵",
-        "summary": "日本央行在6月宣布升息，而韓國7月也跟進升息，為全球市場敲響警鐘，國內匯銀主管表示，韓國不僅貨幣基調緊縮，且是直接跟進升息，不排除影響主要亞洲央行決策，尤其台韓近期面臨同樣狀況，同樣受惠AI利多，股市表現亮眼且出口暢旺，加上中東戰爭有再次升溫跡象，台灣央行跟進升息的可能性仍未排除，第三季通膨走勢成為...",
+        "serial": 44,
+        "url": "https://www.ctee.com.tw/news/20260720700044-439901",
+        "title": "台股狂殺…三大銀行：長線仍看好",
+        "summary": "台股17日上演「史詩級重挫」，加權指數大跌2,953.71點，收在42,671.27點，創史上最大跌點紀錄。股市狂殺，令投資人如驚弓之鳥，不過，國泰世華、中信與台北富邦三大銀行均認為，儘管股市短期面臨震盪與去槓桿壓力，但長線趨勢依然向好，特別是AI驅動的成長動能仍是市場核心。 國泰世華銀指出，近期股...",
         "published_at": "2026-07-20 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1117,10 +996,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 44,
-        "url": "https://www.ctee.com.tw/news/20260720700044-439901",
-        "title": "台股狂殺…三大銀行：長線仍看好",
-        "summary": "台股17日上演「史詩級重挫」，加權指數大跌2,953.71點，收在42,671.27點，創史上最大跌點紀錄。股市狂殺，令投資人如驚弓之鳥，不過，國泰世華、中信與台北富邦三大銀行均認為，儘管股市短期面臨震盪與去槓桿壓力，但長線趨勢依然向好，特別是AI驅動的成長動能仍是市場核心。 國泰世華銀指出，近期股...",
+        "serial": 45,
+        "url": "https://www.ctee.com.tw/news/20260720700045-439901",
+        "title": "央行跟進日韓升息？ Q3通膨成關鍵",
+        "summary": "日本央行在6月宣布升息，而韓國7月也跟進升息，為全球市場敲響警鐘，國內匯銀主管表示，韓國不僅貨幣基調緊縮，且是直接跟進升息，不排除影響主要亞洲央行決策，尤其台韓近期面臨同樣狀況，同樣受惠AI利多，股市表現亮眼且出口暢旺，加上中東戰爭有再次升溫跡象，台灣央行跟進升息的可能性仍未排除，第三季通膨走勢成為...",
         "published_at": "2026-07-20 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1172,6 +1051,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 86,
+        "url": "https://www.ctee.com.tw/news/20260720700086-439901",
+        "title": "亞洲生技大會主席李鍾熙：新創生態系是台灣最大優勢",
+        "summary": "亞洲生技大會今年圓滿落幕，展覽規模、商機媒合均創新高，大會主席李鍾熙表示，台灣最大的優勢不是擁有跨國藥廠，而是活躍的新創與中小企業生態系。若能結合AI、類器官、CDMO及成熟資本市場，未來有機會成為亞洲最具影響力的生醫創新基地。以下是李鍾熙專訪紀要： 問：你認為台灣生技的競爭優勢為何？ 答：許多人認...",
+        "published_at": "2026-07-20 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 90,
         "url": "https://www.ctee.com.tw/news/20260720700090-439901",
         "title": "K型經濟化 非強勢產業缺工 靠三招解套",
@@ -1183,10 +1073,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 86,
-        "url": "https://www.ctee.com.tw/news/20260720700086-439901",
-        "title": "亞洲生技大會主席李鍾熙：新創生態系是台灣最大優勢",
-        "summary": "亞洲生技大會今年圓滿落幕，展覽規模、商機媒合均創新高，大會主席李鍾熙表示，台灣最大的優勢不是擁有跨國藥廠，而是活躍的新創與中小企業生態系。若能結合AI、類器官、CDMO及成熟資本市場，未來有機會成為亞洲最具影響力的生醫創新基地。以下是李鍾熙專訪紀要： 問：你認為台灣生技的競爭優勢為何？ 答：許多人認...",
+        "serial": 103,
+        "url": "https://www.ctee.com.tw/news/20260720700103-439901",
+        "title": "三星電子美國總部遷德州 裁逾700職位",
+        "summary": "路透報導，三星電子美國公司（SEA）將調整美國組織架構，準備把美國的消費電子事業總部，在年底前由紐澤西遷往德州，為此在紐澤西州恩格爾伍德克里夫斯（Englewood Cliffs）裁撤739個工作職務，占當地員工人數逾6成。 SEA負責三星電子在美國市場的顯示器、智慧手機、電視和家電等產品的銷售與行...",
         "published_at": "2026-07-20 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1216,17 +1106,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 103,
-        "url": "https://www.ctee.com.tw/news/20260720700103-439901",
-        "title": "三星電子美國總部遷德州 裁逾700職位",
-        "summary": "路透報導，三星電子美國公司（SEA）將調整美國組織架構，準備把美國的消費電子事業總部，在年底前由紐澤西遷往德州，為此在紐澤西州恩格爾伍德克里夫斯（Englewood Cliffs）裁撤739個工作職務，占當地員工人數逾6成。 SEA負責三星電子在美國市場的顯示器、智慧手機、電視和家電等產品的銷售與行...",
-        "published_at": "2026-07-20 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 110,
         "url": "https://www.ctee.com.tw/news/20260720700110-439901",
         "title": "大陸晶片崛起 可支援模型訓練",
@@ -1238,10 +1117,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 125,
-        "url": "https://www.ctee.com.tw/news/20260720700125-439901",
-        "title": "迎雙i時代 壽險籌資速度放緩",
-        "summary": "相較於證券商大舉籌資，保險業今年迎來「雙i時代」，包含負債會計IFRS 17與新一代清償能力制度（TW-ICS）正式上路，帶來挑戰與機會，壽險業前二年掀起籌資潮，連二年突破2,000億元後，今年上半年籌資速度稍微放緩。 金管會最新統計，上半年壽險業現金增資金額為「零」，發債金額為730億元，合計今年...",
+        "serial": 124,
+        "url": "https://www.ctee.com.tw/news/20260720700124-439901",
+        "title": "AI闖禍誰買單？ 國際共識：金融機構須負全責",
+        "summary": "AI代理時代興起，當AI代理自主執行的交易導致重大虧損時，究竟誰該負責？隨美國金融業監管局（FINRA）與證券交易委員會（SEC）逐步加強對AI代理的監理，國際間已達成一項明確共識：儘管AI具備自主性，但在法律上不具備獨立人格，其延伸的法律責任須由金融機構完全承擔。 立法院法制局認為，根據美國目前的...",
         "published_at": "2026-07-20 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1249,10 +1128,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 124,
-        "url": "https://www.ctee.com.tw/news/20260720700124-439901",
-        "title": "AI闖禍誰買單？ 國際共識：金融機構須負全責",
-        "summary": "AI代理時代興起，當AI代理自主執行的交易導致重大虧損時，究竟誰該負責？隨美國金融業監管局（FINRA）與證券交易委員會（SEC）逐步加強對AI代理的監理，國際間已達成一項明確共識：儘管AI具備自主性，但在法律上不具備獨立人格，其延伸的法律責任須由金融機構完全承擔。 立法院法制局認為，根據美國目前的...",
+        "serial": 125,
+        "url": "https://www.ctee.com.tw/news/20260720700125-439901",
+        "title": "迎雙i時代 壽險籌資速度放緩",
+        "summary": "相較於證券商大舉籌資，保險業今年迎來「雙i時代」，包含負債會計IFRS 17與新一代清償能力制度（TW-ICS）正式上路，帶來挑戰與機會，壽險業前二年掀起籌資潮，連二年突破2,000億元後，今年上半年籌資速度稍微放緩。 金管會最新統計，上半年壽險業現金增資金額為「零」，發債金額為730億元，合計今年...",
         "published_at": "2026-07-20 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1293,10 +1172,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 181,
-        "url": "https://www.ctee.com.tw/news/20260720700181-439901",
-        "title": "掌機大戰開打 品牌廠磨刀霍霍",
-        "summary": "搭載英特爾新一代Intel Arc G3 Extreme的掌上型電競主機新品，即將於七月底陸續上市，適逢暑期傳統電競旺季，品牌廠磨刀霍霍備戰。微星頂規MSI Claw 8 EX AI+電競掌機新品定價5.3萬元，已先展開預購，以Predator Atlas 8新機重返掌機市場的宏碁，雖未公布價格及上...",
+        "serial": 177,
+        "url": "https://www.ctee.com.tw/news/20260720700177-439901",
+        "title": "迎旺季 兩大NB鏡頭廠今年營運有看頭",
+        "summary": "受記憶體供給吃緊及價格波動影響，今年NB市場出貨下修。惟法人認為，先進光（3362）與久禾光（6498）兩大NB鏡頭供應商今年營運有撐，雖然NB市場總體出貨表現衰退，但高階機種滲透率續增，且鏡頭規格不斷升級，將帶動鏡頭平均售價（ASP），預期兩家業者下半年營運將優於上半年，全年營收有望勝於去年。 隨...",
         "published_at": "2026-07-20 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1304,10 +1183,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 177,
-        "url": "https://www.ctee.com.tw/news/20260720700177-439901",
-        "title": "迎旺季 兩大NB鏡頭廠今年營運有看頭",
-        "summary": "受記憶體供給吃緊及價格波動影響，今年NB市場出貨下修。惟法人認為，先進光（3362）與久禾光（6498）兩大NB鏡頭供應商今年營運有撐，雖然NB市場總體出貨表現衰退，但高階機種滲透率續增，且鏡頭規格不斷升級，將帶動鏡頭平均售價（ASP），預期兩家業者下半年營運將優於上半年，全年營收有望勝於去年。 隨...",
+        "serial": 181,
+        "url": "https://www.ctee.com.tw/news/20260720700181-439901",
+        "title": "掌機大戰開打 品牌廠磨刀霍霍",
+        "summary": "搭載英特爾新一代Intel Arc G3 Extreme的掌上型電競主機新品，即將於七月底陸續上市，適逢暑期傳統電競旺季，品牌廠磨刀霍霍備戰。微星頂規MSI Claw 8 EX AI+電競掌機新品定價5.3萬元，已先展開預購，以Predator Atlas 8新機重返掌機市場的宏碁，雖未公布價格及上...",
         "published_at": "2026-07-20 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1348,6 +1227,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 208,
+        "url": "https://www.ctee.com.tw/news/20260720700208-439901",
+        "title": "期交所調高信昌電期貨保證金",
+        "summary": "櫃買中心於17日至30日將信昌電（6173）列為處置股票，期交所依規定自20日至30日調高信昌電期貨（PKF）保證金適用比例為現行所屬級距適用比例之2倍；調整期間如遇休市、有價證券停止買賣、全日暫停交易，則恢復日順延執行。",
+        "published_at": "2026-07-20 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 201,
         "url": "https://www.ctee.com.tw/news/20260720700201-439901",
         "title": "證券F4 辦溫室氣體盤查實作工作坊",
@@ -1381,23 +1271,12 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 208,
-        "url": "https://www.ctee.com.tw/news/20260720700208-439901",
-        "title": "期交所調高信昌電期貨保證金",
-        "summary": "櫃買中心於17日至30日將信昌電（6173）列為處置股票，期交所依規定自20日至30日調高信昌電期貨（PKF）保證金適用比例為現行所屬級距適用比例之2倍；調整期間如遇休市、有價證券停止買賣、全日暫停交易，則恢復日順延執行。",
+        "serial": 209,
+        "url": "https://www.ctee.com.tw/news/20260720700209-439901",
+        "title": "去槓桿未歇 美股仍在陣痛期",
+        "summary": "近期美股正經歷由「去槓桿」與「半導體估值重估」主導陣痛期。美專業投資機構警告，自6月啟動市場降槓桿進程未結束，槓桿股票ETF、散戶看漲期權及融資帳戶均有進步收縮空間，預期未來3個月大盤將維持區間震盪；特別是半導體類股在標普500指數中的權重已攀升至20％以上，其走勢對大盤具備關鍵影響力。 儘管台積等...",
         "published_at": "2026-07-20 03:00:00",
         "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 212,
-        "url": "https://www.ctee.com.tw/news/20260720700212-439901",
-        "title": "無懼逆風 奇鋐、雙鴻權證搶鏡",
-        "summary": "奇鋐、雙鴻熱門權證權王台積電（2330）法說行情失靈，台股17日上演急殺行情，加權指數狂跌2,953點摜破季線支撐，然下周美股超級財報季即將迎來最高潮，四大雲端服務業者（CSP）財報將相繼出爐，台廠AI供應鏈押寶買盤蠢蠢欲動，散熱雙雄奇鋐（3017）、雙鴻（3324）表現相對抗跌，法人看好，美股科技...",
-        "published_at": "2026-07-20 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-20/1024/A32AB6_PictureItem_Clipping_01_5.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1425,34 +1304,34 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 221,
-        "url": "https://www.ctee.com.tw/news/20260720700221-439901",
-        "title": "仁寶 伺服器需求旺",
-        "summary": "仁寶相關權證台股17日經歷史詩級下殺，大跌摜破下檔季線支撐，然「老AI」族群老神在在，法人指出，台積電（2330）法說會透露AI需求持續攀升，未來可望一路強勁至2029、2030年，看好AI供應鏈下半年有望展開補漲，仁寶（2324）第二季伺服器營收繳出高雙位數季成長佳績，預期第三季有望再走揚。 受惠...",
-        "published_at": "2026-07-20 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-20/1024/A32AB6_PictureItem_Clipping_04_2.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 209,
-        "url": "https://www.ctee.com.tw/news/20260720700209-439901",
-        "title": "去槓桿未歇 美股仍在陣痛期",
-        "summary": "近期美股正經歷由「去槓桿」與「半導體估值重估」主導陣痛期。美專業投資機構警告，自6月啟動市場降槓桿進程未結束，槓桿股票ETF、散戶看漲期權及融資帳戶均有進步收縮空間，預期未來3個月大盤將維持區間震盪；特別是半導體類股在標普500指數中的權重已攀升至20％以上，其走勢對大盤具備關鍵影響力。 儘管台積等...",
-        "published_at": "2026-07-20 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 224,
         "url": "https://www.ctee.com.tw/news/20260720700224-439901",
         "title": "台積電 營運動能強",
         "summary": "台積電（2330）第二季營收及毛利率略優於財測上緣，整體先進製程維持滿載、成熟製程產能利用率則在約82％，處分世界持股利益約632億元，挹注業外收益，EPS達27.25元，營運表現優於預期。 展望第三季，新一代AI晶片正式放量、且從N4製程轉換至N3，新款旗艦手機AP也進入備貨期、並從N3轉換至N2...",
         "published_at": "2026-07-20 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-20/1024/A32AB6_Table_Clipping_05_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 212,
+        "url": "https://www.ctee.com.tw/news/20260720700212-439901",
+        "title": "無懼逆風 奇鋐、雙鴻權證搶鏡",
+        "summary": "奇鋐、雙鴻熱門權證權王台積電（2330）法說行情失靈，台股17日上演急殺行情，加權指數狂跌2,953點摜破季線支撐，然下周美股超級財報季即將迎來最高潮，四大雲端服務業者（CSP）財報將相繼出爐，台廠AI供應鏈押寶買盤蠢蠢欲動，散熱雙雄奇鋐（3017）、雙鴻（3324）表現相對抗跌，法人看好，美股科技...",
+        "published_at": "2026-07-20 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-20/1024/A32AB6_PictureItem_Clipping_01_5.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 221,
+        "url": "https://www.ctee.com.tw/news/20260720700221-439901",
+        "title": "仁寶 伺服器需求旺",
+        "summary": "仁寶相關權證台股17日經歷史詩級下殺，大跌摜破下檔季線支撐，然「老AI」族群老神在在，法人指出，台積電（2330）法說會透露AI需求持續攀升，未來可望一路強勁至2029、2030年，看好AI供應鏈下半年有望展開補漲，仁寶（2324）第二季伺服器營收繳出高雙位數季成長佳績，預期第三季有望再走揚。 受惠...",
+        "published_at": "2026-07-20 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-20/1024/A32AB6_PictureItem_Clipping_04_2.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1469,17 +1348,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 265,
-        "url": "https://www.ctee.com.tw/news/20260720700265-439901",
-        "title": "第一金人壽 推夏日輕零計畫",
-        "summary": "面對極端氣候與健康意識抬頭的雙重挑戰，如何讓永續行動融入日常生活已成為重要課題，第一金人壽Qwalker APP即日推出「夏日輕零計畫－減脂Q運動」，以走路累積步數為活動核心，鼓勵民眾以簡單淨零的方式維持健康體態及養成友善地球的生活態度。 第一金人壽總經理邢益華表示，永續其實不必從改變世界開始，而是...",
-        "published_at": "2026-07-20 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-20/1024/A40AC4_PictureItem_Clipping_01_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 267,
         "url": "https://www.ctee.com.tw/news/20260720700267-439901",
         "title": "大華韓國KOSPI50 ETF 8/3開募",
@@ -1488,20 +1356,21 @@
         "image_url": "",
         "status": "no_page_code",
         "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 265,
+        "url": "https://www.ctee.com.tw/news/20260720700265-439901",
+        "title": "第一金人壽 推夏日輕零計畫",
+        "summary": "面對極端氣候與健康意識抬頭的雙重挑戰，如何讓永續行動融入日常生活已成為重要課題，第一金人壽Qwalker APP即日推出「夏日輕零計畫－減脂Q運動」，以走路累積步數為活動核心，鼓勵民眾以簡單淨零的方式維持健康體態及養成友善地球的生活態度。 第一金人壽總經理邢益華表示，永續其實不必從改變世界開始，而是...",
+        "published_at": "2026-07-20 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-20/1024/A40AC4_PictureItem_Clipping_01_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
       }
     ],
     "retry_successes": [],
     "inferred_page_articles": [
-      {
-        "serial": 45,
-        "url": "https://www.ctee.com.tw/news/20260720700045-439901",
-        "title": "央行跟進日韓升息？ Q3通膨成關鍵",
-        "page": "A2",
-        "page_code": "A02AA2",
-        "previous_serial": 41,
-        "next_serial": 46,
-        "inference_reason": "same_page_neighbors"
-      },
       {
         "serial": 44,
         "url": "https://www.ctee.com.tw/news/20260720700044-439901",
@@ -1509,7 +1378,17 @@
         "page": "A2",
         "page_code": "A02AA2",
         "previous_serial": 41,
-        "next_serial": 45,
+        "next_serial": 46,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 45,
+        "url": "https://www.ctee.com.tw/news/20260720700045-439901",
+        "title": "央行跟進日韓升息？ Q3通膨成關鍵",
+        "page": "A2",
+        "page_code": "A02AA2",
+        "previous_serial": 44,
+        "next_serial": 46,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1553,16 +1432,6 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 90,
-        "url": "https://www.ctee.com.tw/news/20260720700090-439901",
-        "title": "K型經濟化 非強勢產業缺工 靠三招解套",
-        "page": "A6",
-        "page_code": "A06AA6",
-        "previous_serial": 87,
-        "next_serial": 91,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
         "serial": 86,
         "url": "https://www.ctee.com.tw/news/20260720700086-439901",
         "title": "亞洲生技大會主席李鍾熙：新創生態系是台灣最大優勢",
@@ -1573,24 +1442,14 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 102,
-        "url": "https://www.ctee.com.tw/news/20260720700102-439901",
-        "title": "Fed口風趨緊 華爾街靠AI解碼",
-        "page": "A7",
-        "page_code": "A07AA7",
-        "previous_serial": 99,
-        "next_serial": 106,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 104,
-        "url": "https://www.ctee.com.tw/news/20260720700104-439901",
-        "title": "與美司法部展開協商 蘋果反壟斷案 有望和解",
-        "page": "A7",
-        "page_code": "A07AA7",
-        "previous_serial": 102,
-        "next_serial": 106,
-        "inference_reason": "previous_page_boundary"
+        "serial": 90,
+        "url": "https://www.ctee.com.tw/news/20260720700090-439901",
+        "title": "K型經濟化 非強勢產業缺工 靠三招解套",
+        "page": "A6",
+        "page_code": "A06AA6",
+        "previous_serial": 87,
+        "next_serial": 91,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 103,
@@ -1598,9 +1457,29 @@
         "title": "三星電子美國總部遷德州 裁逾700職位",
         "page": "A7",
         "page_code": "A07AA7",
-        "previous_serial": 102,
-        "next_serial": 104,
+        "previous_serial": 99,
+        "next_serial": 106,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 102,
+        "url": "https://www.ctee.com.tw/news/20260720700102-439901",
+        "title": "Fed口風趨緊 華爾街靠AI解碼",
+        "page": "A7",
+        "page_code": "A07AA7",
+        "previous_serial": 99,
+        "next_serial": 103,
         "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 104,
+        "url": "https://www.ctee.com.tw/news/20260720700104-439901",
+        "title": "與美司法部展開協商 蘋果反壟斷案 有望和解",
+        "page": "A7",
+        "page_code": "A07AA7",
+        "previous_serial": 103,
+        "next_serial": 106,
+        "inference_reason": "previous_page_boundary"
       },
       {
         "serial": 110,
@@ -1613,9 +1492,9 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 125,
-        "url": "https://www.ctee.com.tw/news/20260720700125-439901",
-        "title": "迎雙i時代 壽險籌資速度放緩",
+        "serial": 124,
+        "url": "https://www.ctee.com.tw/news/20260720700124-439901",
+        "title": "AI闖禍誰買單？ 國際共識：金融機構須負全責",
         "page": "A9",
         "page_code": "A09AA9",
         "previous_serial": 121,
@@ -1623,13 +1502,13 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 124,
-        "url": "https://www.ctee.com.tw/news/20260720700124-439901",
-        "title": "AI闖禍誰買單？ 國際共識：金融機構須負全責",
+        "serial": 125,
+        "url": "https://www.ctee.com.tw/news/20260720700125-439901",
+        "title": "迎雙i時代 壽險籌資速度放緩",
         "page": "A9",
         "page_code": "A09AA9",
-        "previous_serial": 121,
-        "next_serial": 125,
+        "previous_serial": 124,
+        "next_serial": 126,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1663,16 +1542,6 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 181,
-        "url": "https://www.ctee.com.tw/news/20260720700181-439901",
-        "title": "掌機大戰開打 品牌廠磨刀霍霍",
-        "page": "B3",
-        "page_code": "A27AB3",
-        "previous_serial": 178,
-        "next_serial": 182,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
         "serial": 177,
         "url": "https://www.ctee.com.tw/news/20260720700177-439901",
         "title": "迎旺季 兩大NB鏡頭廠今年營運有看頭",
@@ -1680,6 +1549,16 @@
         "page_code": "A27AB3",
         "previous_serial": 174,
         "next_serial": 178,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 181,
+        "url": "https://www.ctee.com.tw/news/20260720700181-439901",
+        "title": "掌機大戰開打 品牌廠磨刀霍霍",
+        "page": "B3",
+        "page_code": "A27AB3",
+        "previous_serial": 178,
+        "next_serial": 182,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1713,6 +1592,16 @@
         "inference_reason": "previous_page_boundary"
       },
       {
+        "serial": 208,
+        "url": "https://www.ctee.com.tw/news/20260720700208-439901",
+        "title": "期交所調高信昌電期貨保證金",
+        "page": "B5",
+        "page_code": "A31AB5",
+        "previous_serial": 206,
+        "next_serial": 230,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
         "serial": 201,
         "url": "https://www.ctee.com.tw/news/20260720700201-439901",
         "title": "證券F4 辦溫室氣體盤查實作工作坊",
@@ -1738,57 +1627,7 @@
         "title": "Fed鷹聲再起 美元看俏",
         "page": "B5",
         "page_code": "A31AB5",
-        "previous_serial": 206,
-        "next_serial": 230,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 208,
-        "url": "https://www.ctee.com.tw/news/20260720700208-439901",
-        "title": "期交所調高信昌電期貨保證金",
-        "page": "B5",
-        "page_code": "A31AB5",
-        "previous_serial": 206,
-        "next_serial": 210,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 212,
-        "url": "https://www.ctee.com.tw/news/20260720700212-439901",
-        "title": "無懼逆風 奇鋐、雙鴻權證搶鏡",
-        "page": "B5",
-        "page_code": "A31AB5",
-        "previous_serial": 210,
-        "next_serial": 230,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 218,
-        "url": "https://www.ctee.com.tw/news/20260720700218-439901",
-        "title": "鴻海、緯創 法人力挺",
-        "page": "B5",
-        "page_code": "A31AB5",
-        "previous_serial": 212,
-        "next_serial": 230,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 215,
-        "url": "https://www.ctee.com.tw/news/20260720700215-439901",
-        "title": "台塑、巨大 低接買盤進駐",
-        "page": "B5",
-        "page_code": "A31AB5",
-        "previous_serial": 212,
-        "next_serial": 218,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 221,
-        "url": "https://www.ctee.com.tw/news/20260720700221-439901",
-        "title": "仁寶 伺服器需求旺",
-        "page": "B5",
-        "page_code": "A31AB5",
-        "previous_serial": 218,
+        "previous_serial": 208,
         "next_serial": 230,
         "inference_reason": "previous_page_boundary"
       },
@@ -1803,14 +1642,54 @@
         "inference_reason": "same_page_neighbors"
       },
       {
+        "serial": 218,
+        "url": "https://www.ctee.com.tw/news/20260720700218-439901",
+        "title": "鴻海、緯創 法人力挺",
+        "page": "B5",
+        "page_code": "A31AB5",
+        "previous_serial": 210,
+        "next_serial": 230,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 215,
+        "url": "https://www.ctee.com.tw/news/20260720700215-439901",
+        "title": "台塑、巨大 低接買盤進駐",
+        "page": "B5",
+        "page_code": "A31AB5",
+        "previous_serial": 210,
+        "next_serial": 218,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
         "serial": 224,
         "url": "https://www.ctee.com.tw/news/20260720700224-439901",
         "title": "台積電 營運動能強",
         "page": "B5",
         "page_code": "A31AB5",
-        "previous_serial": 221,
+        "previous_serial": 218,
         "next_serial": 230,
         "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 212,
+        "url": "https://www.ctee.com.tw/news/20260720700212-439901",
+        "title": "無懼逆風 奇鋐、雙鴻權證搶鏡",
+        "page": "B5",
+        "page_code": "A31AB5",
+        "previous_serial": 210,
+        "next_serial": 215,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 221,
+        "url": "https://www.ctee.com.tw/news/20260720700221-439901",
+        "title": "仁寶 伺服器需求旺",
+        "page": "B5",
+        "page_code": "A31AB5",
+        "previous_serial": 218,
+        "next_serial": 224,
+        "inference_reason": "same_page_neighbors"
       }
     ],
     "unassigned_articles": [
@@ -1827,23 +1706,23 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 265,
-        "url": "https://www.ctee.com.tw/news/20260720700265-439901",
-        "title": "第一金人壽 推夏日輕零計畫",
-        "summary": "面對極端氣候與健康意識抬頭的雙重挑戰，如何讓永續行動融入日常生活已成為重要課題，第一金人壽Qwalker APP即日推出「夏日輕零計畫－減脂Q運動」，以走路累積步數為活動核心，鼓勵民眾以簡單淨零的方式維持健康體態及養成友善地球的生活態度。 第一金人壽總經理邢益華表示，永續其實不必從改變世界開始，而是...",
-        "published_at": "2026-07-20 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-20/1024/A40AC4_PictureItem_Clipping_01_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 267,
         "url": "https://www.ctee.com.tw/news/20260720700267-439901",
         "title": "大華韓國KOSPI50 ETF 8/3開募",
         "summary": "大華銀投信看準美、台、韓三強共組的AI硬體黃金供應鏈，宣布推出「大華韓國KOSPI50 ETF」（009829），發行價格每股新臺幣10元，預計於8月3日至8月7日正式展開募集，幫助投資人一手掌握韓國最強50大企業的成長紅利。 黃仁勳曾多次指出，AI基礎建設是人類歷史上規模最大的基礎建設，預估將耗費...",
         "published_at": "2026-07-20 03:00:00",
         "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 265,
+        "url": "https://www.ctee.com.tw/news/20260720700265-439901",
+        "title": "第一金人壽 推夏日輕零計畫",
+        "summary": "面對極端氣候與健康意識抬頭的雙重挑戰，如何讓永續行動融入日常生活已成為重要課題，第一金人壽Qwalker APP即日推出「夏日輕零計畫－減脂Q運動」，以走路累積步數為活動核心，鼓勵民眾以簡單淨零的方式維持健康體態及養成友善地球的生活態度。 第一金人壽總經理邢益華表示，永續其實不必從改變世界開始，而是...",
+        "published_at": "2026-07-20 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-20/1024/A40AC4_PictureItem_Clipping_01_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       }
