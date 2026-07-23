@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T06:01:11+08:00",
+  "generated_at": "2026-07-24T07:01:02+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -1270,24 +1270,24 @@
   },
   "errors": [
     "serial 340: parsed HTML but no target page code",
-    "serial 339: parsed HTML but no target page code",
-    "serial 342: parsed HTML but no target page code",
-    "serial 343: parsed HTML but no target page code",
     "serial 345: parsed HTML but no target page code",
+    "serial 339: parsed HTML but no target page code",
+    "serial 343: parsed HTML but no target page code",
+    "serial 342: parsed HTML but no target page code",
+    "serial 351: parsed HTML but no target page code",
     "serial 353: parsed HTML but no target page code",
-    "serial 355: parsed HTML but no target page code",
-    "serial 351: parsed HTML but no target page code"
+    "serial 355: parsed HTML but no target page code"
   ],
   "diagnostics": {
     "errors": [
       "serial 340: parsed HTML but no target page code",
-      "serial 339: parsed HTML but no target page code",
-      "serial 342: parsed HTML but no target page code",
-      "serial 343: parsed HTML but no target page code",
       "serial 345: parsed HTML but no target page code",
+      "serial 339: parsed HTML but no target page code",
+      "serial 343: parsed HTML but no target page code",
+      "serial 342: parsed HTML but no target page code",
+      "serial 351: parsed HTML but no target page code",
       "serial 353: parsed HTML but no target page code",
-      "serial 355: parsed HTML but no target page code",
-      "serial 351: parsed HTML but no target page code"
+      "serial 355: parsed HTML but no target page code"
     ],
     "counters": {
       "serials_scanned": 2500,
@@ -1312,6 +1312,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 82,
+        "url": "https://www.ctee.com.tw/news/20260724700082-439901",
+        "title": "出口商滿手美元 考驗央行接招、企業避險",
+        "summary": "近期台股走勢震盪，外資獲利了結加上股利匯出需求旺盛，新台幣匯率持續走貶，7月以來已逐步逼近32.5元重要關卡，貶值之際，市場更關注滿手美元的出口商拋匯潮是否再起，若後續外資回頭匯入，出口商恐加入「搶速度」拋匯，新台幣將面臨強升壓力，中央銀行介入匯市調節穩匯頻率將提升，企業避險更是下半年重大考驗。 據...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 96,
         "url": "https://www.ctee.com.tw/news/20260724700096-439901",
         "title": "特別盈餘公積提存時點 成唯一共識",
@@ -1323,10 +1334,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 82,
-        "url": "https://www.ctee.com.tw/news/20260724700082-439901",
-        "title": "出口商滿手美元 考驗央行接招、企業避險",
-        "summary": "近期台股走勢震盪，外資獲利了結加上股利匯出需求旺盛，新台幣匯率持續走貶，7月以來已逐步逼近32.5元重要關卡，貶值之際，市場更關注滿手美元的出口商拋匯潮是否再起，若後續外資回頭匯入，出口商恐加入「搶速度」拋匯，新台幣將面臨強升壓力，中央銀行介入匯市調節穩匯頻率將提升，企業避險更是下半年重大考驗。 據...",
+        "serial": 105,
+        "url": "https://www.ctee.com.tw/news/20260724700105-439901",
+        "title": "美伊衝突升溫推高油價 美30年期債殖利率逾5％",
+        "summary": "美伊衝突升溫推高油價，增添通膨壓力，市場對財政赤字惡化的擔憂加劇，加上企業為替AI支出籌資大舉發債，今年來，美國30年期公債殖利率高於5％的天數，創近20年來新高，引發「債券義和團」（bond vigilantes）重出江湖的聯想。 開年以來30年期美債殖利率逾5％的天數，已有27天，占所有交易日的...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1349,17 +1360,6 @@
         "url": "https://www.ctee.com.tw/news/20260724700117-439901",
         "title": "H1清逾千萬立方公尺 水庫清淤量達全年目標5成",
         "summary": "水利署統計2026年上半年全國主要供水水庫已完成清淤1,020萬立方公尺，約達全年清淤目標2,006萬立方公尺的5成，整體執行進度超前。 水利署指出，今年上半年因應春季水情及供水需求，中部鯉魚潭水庫及南部曾文、烏山頭、南化等水庫曾配合供水調度調整抽泥作業，待6月梅雨挹注、水情回穩後，即全面恢復抽泥並...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 105,
-        "url": "https://www.ctee.com.tw/news/20260724700105-439901",
-        "title": "美伊衝突升溫推高油價 美30年期債殖利率逾5％",
-        "summary": "美伊衝突升溫推高油價，增添通膨壓力，市場對財政赤字惡化的擔憂加劇，加上企業為替AI支出籌資大舉發債，今年來，美國30年期公債殖利率高於5％的天數，創近20年來新高，引發「債券義和團」（bond vigilantes）重出江湖的聯想。 開年以來30年期美債殖利率逾5％的天數，已有27天，占所有交易日的...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1400,6 +1400,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 157,
+        "url": "https://www.ctee.com.tw/news/20260724700157-439901",
+        "title": "美FCC禁令升級 封殺華為等零件",
+        "summary": "美國聯邦通訊委員會（FCC）於當地時間22日表決通過新規，即刻全面禁止在美國銷售含有華為、中興通訊等被認定具國家安全風險之中國企業關鍵零件設備。此舉意味美國從過去針對終端產品的整機封禁，全面升級為針對零件供應鏈的全面封堵。 FCC此次通過的新規，明確禁止授權任何含有華為、中興通訊、海康威視、大華股份...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 158,
         "url": "https://www.ctee.com.tw/news/20260724700158-439901",
         "title": "陸鼓勵外商 投資先進製造業",
@@ -1422,43 +1433,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 157,
-        "url": "https://www.ctee.com.tw/news/20260724700157-439901",
-        "title": "美FCC禁令升級 封殺華為等零件",
-        "summary": "美國聯邦通訊委員會（FCC）於當地時間22日表決通過新規，即刻全面禁止在美國銷售含有華為、中興通訊等被認定具國家安全風險之中國企業關鍵零件設備。此舉意味美國從過去針對終端產品的整機封禁，全面升級為針對零件供應鏈的全面封堵。 FCC此次通過的新規，明確禁止授權任何含有華為、中興通訊、海康威視、大華股份...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 169,
         "url": "https://www.ctee.com.tw/news/20260724700169-439901",
         "title": "寬限期到期效應 公股銀 H1轉貸案件增加",
         "summary": "根據公股銀行統計，今年上半年個人房貸新承作案件中，轉貸案件占比較去年上半年有些微增加。公股銀主管強調，現在房貸業務是以首購自住客群為主要目標客群，對於轉貸案件則是輔助為主，轉貸主要依擔保品座落區域、客戶條件、貸款成數及整體授信風險等因素，審慎評估並擇優承作。 為配合央行選擇性信用管制措施並降低銀行授...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 166,
-        "url": "https://www.ctee.com.tw/news/20260724700166-439901",
-        "title": "公股銀預期台美利差擴大 SWAP收益看增",
-        "summary": "美國聯準會（Fed）先前啟動降息影響，公股銀行SWAP（換匯交易）收益逐年下滑，今年上半年持續縮減，但下半年因中東地緣政治衝突反覆，國際油價上漲影響，全球通膨降溫受阻，Fed緊縮預期再度升溫。公股銀指出，若未來Fed升息，台美利差擴大，將伺機建立SWAP部位，並靈活調整承作天期。 臺灣銀行表示，中東...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 170,
-        "url": "https://www.ctee.com.tw/news/20260724700170-439901",
-        "title": "城鎮韌性演習 金管會籲重大交易提前操作",
-        "summary": "今年城鎮韌性（防空）演習，參考日本、韓國等國家經驗，首度加入大規模「行動網路降速演練」，外界擔心衝擊金融交易。金管會銀行局副局長張嘉魁指出，這次降速為「行動網路」，因此使用行動網路、行動銀行、網路銀行、網路ATM等將會受影響，建議民眾有重大交易需求可提前操作，或使用Wi-Fi或有線網路即不受影響，也...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1477,10 +1455,21 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 180,
-        "url": "https://www.ctee.com.tw/news/20260724700180-439901",
-        "title": "攻智慧醫療 宇瞻AI視覺辨識落地",
-        "summary": "宇瞻積極拓展AI智慧視覺辨識業務，將技術導入生技食品、製藥及醫療器材等領域，已完成透明藥液異物辨識、鋁箔包裝瑕疵檢測等應用案例，藉由AI模型、專用取像及自動化設備整合，協助客戶提升檢測效率與穩定性。 宇瞻指出，生技醫藥及醫材產品因材質、外觀與製程條件差異大，部分瑕疵難以透過固定規則建立辨識標準，使傳...",
+        "serial": 170,
+        "url": "https://www.ctee.com.tw/news/20260724700170-439901",
+        "title": "城鎮韌性演習 金管會籲重大交易提前操作",
+        "summary": "今年城鎮韌性（防空）演習，參考日本、韓國等國家經驗，首度加入大規模「行動網路降速演練」，外界擔心衝擊金融交易。金管會銀行局副局長張嘉魁指出，這次降速為「行動網路」，因此使用行動網路、行動銀行、網路銀行、網路ATM等將會受影響，建議民眾有重大交易需求可提前操作，或使用Wi-Fi或有線網路即不受影響，也...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 182,
+        "url": "https://www.ctee.com.tw/news/20260724700182-439901",
+        "title": "7成企業OT環境一年遭多次入侵 Fortinet:資安威脅持續升高",
+        "summary": "Fortinet公布「2026年OT與網路資安現況調查報告」指出，全球企業對OT資安的認知，由過去偏向樂觀，逐步轉向更務實的風險管理，其中高達71％企業表示，過去一年曾偵測到多起OT環境入侵事件，顯示威脅持續升高。 此次調查共訪問全球超過700位來自製造、能源及交通等關鍵基礎設施產業的OT專業人士。...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1499,10 +1488,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 182,
-        "url": "https://www.ctee.com.tw/news/20260724700182-439901",
-        "title": "7成企業OT環境一年遭多次入侵 Fortinet:資安威脅持續升高",
-        "summary": "Fortinet公布「2026年OT與網路資安現況調查報告」指出，全球企業對OT資安的認知，由過去偏向樂觀，逐步轉向更務實的風險管理，其中高達71％企業表示，過去一年曾偵測到多起OT環境入侵事件，顯示威脅持續升高。 此次調查共訪問全球超過700位來自製造、能源及交通等關鍵基礎設施產業的OT專業人士。...",
+        "serial": 180,
+        "url": "https://www.ctee.com.tw/news/20260724700180-439901",
+        "title": "攻智慧醫療 宇瞻AI視覺辨識落地",
+        "summary": "宇瞻積極拓展AI智慧視覺辨識業務，將技術導入生技食品、製藥及醫療器材等領域，已完成透明藥液異物辨識、鋁箔包裝瑕疵檢測等應用案例，藉由AI模型、專用取像及自動化設備整合，協助客戶提升檢測效率與穩定性。 宇瞻指出，生技醫藥及醫材產品因材質、外觀與製程條件差異大，部分瑕疵難以透過固定規則建立辨識標準，使傳...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1532,6 +1521,39 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 166,
+        "url": "https://www.ctee.com.tw/news/20260724700166-439901",
+        "title": "公股銀預期台美利差擴大 SWAP收益看增",
+        "summary": "美國聯準會（Fed）先前啟動降息影響，公股銀行SWAP（換匯交易）收益逐年下滑，今年上半年持續縮減，但下半年因中東地緣政治衝突反覆，國際油價上漲影響，全球通膨降溫受阻，Fed緊縮預期再度升溫。公股銀指出，若未來Fed升息，台美利差擴大，將伺機建立SWAP部位，並靈活調整承作天期。 臺灣銀行表示，中東...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 188,
+        "url": "https://www.ctee.com.tw/news/20260724700188-439901",
+        "title": "台人赴日置產熱度升溫 三菱地所設House Net 搶商機",
+        "summary": "台灣人跨海赴日本投資置產熱度升溫，相關服務商機應運而生，日商三菱地所看好台灣投資客需求，設立「三菱地所House Net國際服務部」，搶攻潛在商機。據日本國土交通省資料，東京23區新公寓海外買家中，以台灣人取得件數最多，光去年上半年就達192件，已超越2024全年。不過台人在日置產也面臨五大痛點，三...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 192,
+        "url": "https://www.ctee.com.tw/news/20260724700192-439901",
+        "title": "碳基爭無人機訂單 拓全球非紅供應鏈",
+        "summary": "無人機業者碳基科技積極與國外非紅供應鏈建立合作夥伴關係，目前已與日本、美國、歐洲及東南亞等業者推動技術整合、共同開發，及產品外銷，逐步建立全球非紅供應鏈合作網絡。 碳基執行長游沛文指出，未來全球無人機產業，將朝向跨國供應鏈分工與在地製造發展，製造商的核心競爭力，不再只是機體性能，而是快速整合技術、供...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A15AA13_PictureItem_Clipping_06_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 190,
         "url": "https://www.ctee.com.tw/news/20260724700190-439901",
         "title": "屏東高鐵特區公辦都更 邁執行階段",
@@ -1543,10 +1565,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 188,
-        "url": "https://www.ctee.com.tw/news/20260724700188-439901",
-        "title": "台人赴日置產熱度升溫 三菱地所設House Net 搶商機",
-        "summary": "台灣人跨海赴日本投資置產熱度升溫，相關服務商機應運而生，日商三菱地所看好台灣投資客需求，設立「三菱地所House Net國際服務部」，搶攻潛在商機。據日本國土交通省資料，東京23區新公寓海外買家中，以台灣人取得件數最多，光去年上半年就達192件，已超越2024全年。不過台人在日置產也面臨五大痛點，三...",
+        "serial": 189,
+        "url": "https://www.ctee.com.tw/news/20260724700189-439901",
+        "title": "工業地產H1交易額 近1,400億元",
+        "summary": "科技半導體供應鏈擴廠動能發威，近期包括美光、日月光、台光電等科技大廠出手，帶動台灣工業地產市場熱度。信義全球資產調查，今年上半年全台工業地產交易額達1,392億元，創下同期新高。 信義全球資產發布第二季商用不動產市場調查，第二季上市櫃法人商用不動產交易金額為548億元，累計上半年為1,598億元，其...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1565,56 +1587,12 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 192,
-        "url": "https://www.ctee.com.tw/news/20260724700192-439901",
-        "title": "碳基爭無人機訂單 拓全球非紅供應鏈",
-        "summary": "無人機業者碳基科技積極與國外非紅供應鏈建立合作夥伴關係，目前已與日本、美國、歐洲及東南亞等業者推動技術整合、共同開發，及產品外銷，逐步建立全球非紅供應鏈合作網絡。 碳基執行長游沛文指出，未來全球無人機產業，將朝向跨國供應鏈分工與在地製造發展，製造商的核心競爭力，不再只是機體性能，而是快速整合技術、供...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A15AA13_PictureItem_Clipping_06_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 205,
-        "url": "https://www.ctee.com.tw/news/20260724700205-439901",
-        "title": "2027台北自行車展 開放參展報名",
-        "summary": "台北國際自行車展（TAIPEI CYCLE）迎向新的發展階段，正式發布《TAIPEI CYCLE 2027品牌策略》，以「以信任驅動未來」作為全新品牌主張，重新定義展覽價值與未來發展方向，並於2026年7月22日宣布2027年展覽全球徵展正式啟動開放參展報名，邀請全球自行車產業夥伴齊聚臺灣，共同掌握...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 201,
-        "url": "https://www.ctee.com.tw/news/20260724700201-439901",
-        "title": "節能標竿觀摩會 鼎霖國際談智慧工廠實戰經驗",
-        "summary": "經濟部能源署7月22日舉辦「115年節能標竿觀摩研討會」，邀請節能標竿獎金獎得主鼎霖國際有限公司，分享從傳統零件加工走向數位管理、智慧製造，打造兼具節能與國際競爭力的「智慧節能工廠」。 能源署表示，行政院推動「深度節能計畫」成效持續顯現，截至115年6月累計節電132.4億度，達成率109％，相當於...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A16AA14_PictureItem_Clipping_03_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 197,
         "url": "https://www.ctee.com.tw/news/20260724700197-439901",
         "title": "北投麗禧 蟬聯最美慢活渡假獎",
         "summary": "坐擁北投山城自然景致，北投麗禧溫泉酒店再獲旅客高度肯定，於知名旅遊平台網友公開票選的「最美飯店大賞」中，北投麗禧連續兩年榮獲「最美慢活渡假獎」，更成為該獎項唯一獲獎的北部頂級溫泉飯店，不僅展現其在台灣頂級溫泉渡假市場的代表性，也反映旅客對飯店住宿品質、服務體驗與療癒氛圍的高度認同。 為迎接旅人尋求慢...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A16AA14_PictureItem_Clipping_01_3.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 203,
-        "url": "https://www.ctee.com.tw/news/20260724700203-439901",
-        "title": "三菱電機智慧自動化競賽 落幕",
-        "summary": "第二屆「三菱電機智慧自動化設備創新實作競賽」決賽於國立臺中科技大學民生校區禮堂圓滿落幕。本屆賽事由經濟部產業發展署指導、台灣三菱電機自動化股份有限公司主辦、國立臺中科技大學智慧產業學院協辦、台灣智慧自動化與機器人協會承辦，共吸引全台大專院校30支隊伍報名，最終由9組團隊、共43位師生挺進決賽，共同角...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A16AA14_PictureItem_Clipping_04_2.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1631,10 +1609,43 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 189,
-        "url": "https://www.ctee.com.tw/news/20260724700189-439901",
-        "title": "工業地產H1交易額 近1,400億元",
-        "summary": "科技半導體供應鏈擴廠動能發威，近期包括美光、日月光、台光電等科技大廠出手，帶動台灣工業地產市場熱度。信義全球資產調查，今年上半年全台工業地產交易額達1,392億元，創下同期新高。 信義全球資產發布第二季商用不動產市場調查，第二季上市櫃法人商用不動產交易金額為548億元，累計上半年為1,598億元，其...",
+        "serial": 203,
+        "url": "https://www.ctee.com.tw/news/20260724700203-439901",
+        "title": "三菱電機智慧自動化競賽 落幕",
+        "summary": "第二屆「三菱電機智慧自動化設備創新實作競賽」決賽於國立臺中科技大學民生校區禮堂圓滿落幕。本屆賽事由經濟部產業發展署指導、台灣三菱電機自動化股份有限公司主辦、國立臺中科技大學智慧產業學院協辦、台灣智慧自動化與機器人協會承辦，共吸引全台大專院校30支隊伍報名，最終由9組團隊、共43位師生挺進決賽，共同角...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A16AA14_PictureItem_Clipping_04_2.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 201,
+        "url": "https://www.ctee.com.tw/news/20260724700201-439901",
+        "title": "節能標竿觀摩會 鼎霖國際談智慧工廠實戰經驗",
+        "summary": "經濟部能源署7月22日舉辦「115年節能標竿觀摩研討會」，邀請節能標竿獎金獎得主鼎霖國際有限公司，分享從傳統零件加工走向數位管理、智慧製造，打造兼具節能與國際競爭力的「智慧節能工廠」。 能源署表示，行政院推動「深度節能計畫」成效持續顯現，截至115年6月累計節電132.4億度，達成率109％，相當於...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A16AA14_PictureItem_Clipping_03_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 205,
+        "url": "https://www.ctee.com.tw/news/20260724700205-439901",
+        "title": "2027台北自行車展 開放參展報名",
+        "summary": "台北國際自行車展（TAIPEI CYCLE）迎向新的發展階段，正式發布《TAIPEI CYCLE 2027品牌策略》，以「以信任驅動未來」作為全新品牌主張，重新定義展覽價值與未來發展方向，並於2026年7月22日宣布2027年展覽全球徵展正式啟動開放參展報名，邀請全球自行車產業夥伴齊聚臺灣，共同掌握...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 227,
+        "url": "https://www.ctee.com.tw/news/20260724700227-439901",
+        "title": "千金股除息秀 3檔同場較勁",
+        "summary": "千金股昇達科（3491）、兆聯實業（6944）和準千金股旭隼（6409）除權息秀23日同場較勁，昇達科和旭隼盤中均實現秒填息，兆聯實業亦飆出逾半根漲停，交出填權息率近二成的佳績，呈三贏格局，其中尤以旭隼表態最為積極，不但完成一日填息，還從準千金股晉升為千金股，填息率達106％。 台股23日早盤攻堅4...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1664,10 +1675,21 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 227,
-        "url": "https://www.ctee.com.tw/news/20260724700227-439901",
-        "title": "千金股除息秀 3檔同場較勁",
-        "summary": "千金股昇達科（3491）、兆聯實業（6944）和準千金股旭隼（6409）除權息秀23日同場較勁，昇達科和旭隼盤中均實現秒填息，兆聯實業亦飆出逾半根漲停，交出填權息率近二成的佳績，呈三贏格局，其中尤以旭隼表態最為積極，不但完成一日填息，還從準千金股晉升為千金股，填息率達106％。 台股23日早盤攻堅4...",
+        "serial": 253,
+        "url": "https://www.ctee.com.tw/news/20260724700253-439901",
+        "title": "強生上半年每股賺1.71元",
+        "summary": "強生（4747）受惠高齡化社會帶動慢性病用藥需求持續成長，加上通路市占率提升，上半年稅後純益7,779.6萬元、年增90％，每股稅後純益（EPS）1.71元。強生董事會規劃於8月31日完成股票面額由10元改為5元的股權分割（一拆二），以因應未來籌資及提升股票流動性。 強生自結第二季合併營收1.47億...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 250,
+        "url": "https://www.ctee.com.tw/news/20260724700250-439901",
+        "title": "需求回溫 君帆拚H2營收成長",
+        "summary": "君帆（4584）因輪胎設備—硫化機對油壓機需求第二季起回溫，半導體及大陸工具機業對油壓機需求增加，加上醫療及休閒船舶訂單穩定，下半年營運審慎樂觀看待。惟上半年營收年減21.66％，已將全年營收力拚兩位數成長下修為下半年營收追求成長，全年營收持平。 君帆表示，君帆去年營收創歷史次高，今年營收成長動能將...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1686,32 +1708,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 253,
-        "url": "https://www.ctee.com.tw/news/20260724700253-439901",
-        "title": "強生上半年每股賺1.71元",
-        "summary": "強生（4747）受惠高齡化社會帶動慢性病用藥需求持續成長，加上通路市占率提升，上半年稅後純益7,779.6萬元、年增90％，每股稅後純益（EPS）1.71元。強生董事會規劃於8月31日完成股票面額由10元改為5元的股權分割（一拆二），以因應未來籌資及提升股票流動性。 強生自結第二季合併營收1.47億...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 263,
         "url": "https://www.ctee.com.tw/news/20260724700263-439901",
         "title": "ASIC液冷動能熱 邁科H2營運看好",
         "summary": "AI ASIC伺服器液冷專案持續推進，散熱模組廠邁科（6831）下半年營運動能受市場關注。法人指出，主要ODM客戶訂單增加，公司AI ASIC液冷專案亦持續擴大，今年接單動能維持穩健；2027年客戶加快由氣冷轉向液冷後，產品平均售價及毛利率均有改善空間，營運成長能見度可望延續至2028年。 邁科近年...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 250,
-        "url": "https://www.ctee.com.tw/news/20260724700250-439901",
-        "title": "需求回溫 君帆拚H2營收成長",
-        "summary": "君帆（4584）因輪胎設備—硫化機對油壓機需求第二季起回溫，半導體及大陸工具機業對油壓機需求增加，加上醫療及休閒船舶訂單穩定，下半年營運審慎樂觀看待。惟上半年營收年減21.66％，已將全年營收力拚兩位數成長下修為下半年營收追求成長，全年營收持平。 君帆表示，君帆去年營收創歷史次高，今年營收成長動能將...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1785,6 +1785,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 294,
+        "url": "https://www.ctee.com.tw/news/20260724700294-439901",
+        "title": "大立光 Q3營收大增",
+        "summary": "大立光相關權證大立光（3008）23日股價勁揚140元或3.5％，收4,140元，站回10日均線之上。檢視基本面，大立光今年上半年合併營收292.09億元，較去年同期成長11％，大立光曾於法說會上表示，7月出貨動能優於6月，8月會高於7月。 法人表示，大立光第三季受惠於美系客戶新機拉貨、可變光圈及高...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A31AB7_PictureItem_Clipping_04_2.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 285,
         "url": "https://www.ctee.com.tw/news/20260724700285-439901",
         "title": "表現抗震 大成鋼、巨大權證靚",
@@ -1802,6 +1813,17 @@
         "summary": "近期匯率期貨仍以美元偏強、非美貨幣震盪偏弱，若油價維持高檔、美聯準會態度偏鷹，美元期貨仍有續強機會；若地緣政治風險降溫，或經濟數據顯示景氣明顯放緩，美元漲勢可能暫時收斂，主要貨幣也有機會展開跌深反彈。 近期油價上漲，可能推高能源、運輸及企業生產成本，市場對通膨的擔憂再度增加，部分交易人重估聯準會升息...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A30AB6_PictureItem_Clipping_07_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 297,
+        "url": "https://www.ctee.com.tw/news/20260724700297-439901",
+        "title": "貿聯 併購效益發酵",
+        "summary": "貿聯-KY（3665）第一季毛利率低於市場預期，第二季隨HPC營收持續成長，法人對毛利率展望持正向看法。投顧研究機構指出，貿聯-KY第一季HPC營收占比46％，預期第二季HPC比重持續提升，觀察6月營收表現，隱含高單價產品出貨顯著增加，動能一路延續至第三季。 貿聯-KY董事會日前通過，將斥資9億美元...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A31AB7_Table_Clipping_05_5.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1829,28 +1851,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 294,
-        "url": "https://www.ctee.com.tw/news/20260724700294-439901",
-        "title": "大立光 Q3營收大增",
-        "summary": "大立光相關權證大立光（3008）23日股價勁揚140元或3.5％，收4,140元，站回10日均線之上。檢視基本面，大立光今年上半年合併營收292.09億元，較去年同期成長11％，大立光曾於法說會上表示，7月出貨動能優於6月，8月會高於7月。 法人表示，大立光第三季受惠於美系客戶新機拉貨、可變光圈及高...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A31AB7_PictureItem_Clipping_04_2.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 297,
-        "url": "https://www.ctee.com.tw/news/20260724700297-439901",
-        "title": "貿聯 併購效益發酵",
-        "summary": "貿聯-KY（3665）第一季毛利率低於市場預期，第二季隨HPC營收持續成長，法人對毛利率展望持正向看法。投顧研究機構指出，貿聯-KY第一季HPC營收占比46％，預期第二季HPC比重持續提升，觀察6月營收表現，隱含高單價產品出貨顯著增加，動能一路延續至第三季。 貿聯-KY董事會日前通過，將斥資9億美元...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A31AB7_Table_Clipping_05_5.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 315,
         "url": "https://www.ctee.com.tw/news/20260724700315-439901",
         "title": "全國技能競賽 桃竹苗分署171位選手上陣",
@@ -1873,21 +1873,21 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 339,
-        "url": "https://www.ctee.com.tw/news/20260724700339-439901",
-        "title": "玉山009827 聚焦AI算力三支柱",
-        "summary": "面對AI應用快速擴展及全球算力需求持續攀升，玉山投信宣布推出全臺首檔聚焦全球算力產業的「玉山未來全球算力ETF」（009827），鎖定AI科技、AI基礎建設及太空衛星三大支柱，涵蓋七大產業鏈，精選全球50家指標企業，協助投資人掌握AI浪潮下的長期成長契機，該基金預計8月10日至14日募集、8月24日...",
+        "serial": 345,
+        "url": "https://www.ctee.com.tw/news/20260724700345-439901",
+        "title": "永達：保險、安養信託 完備失智防護網",
+        "summary": "金管會主委彭金隆日前公開鼓勵業者開發失智者專屬保單，將「失智症照護」推上社會關注的風口浪尖。 依據台灣失智症協會與衛生福利部最新調查推估，當前台灣失智症人口已突破38萬人。失智症是長達五至十五年的進行性退化疾病，面對漫長的照護期，理賠金固然能讓家庭依需求彈性運用（如支付藥費、聘請看護或補貼日照中心）...",
         "published_at": "2026-07-24 03:00:00",
-        "image_url": "",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A41AC5_PictureItem_Clipping_02_2.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
       {
         "kind": "parse_failure",
-        "serial": 342,
-        "url": "https://www.ctee.com.tw/news/20260724700342-439901",
-        "title": "AIA友邦人壽 獲失智友善組織認證",
-        "summary": "隨著台灣邁入超高齡社會，高齡人口持續增加，失智症議題也逐漸成為金融保險服務業關注的重要課題。為落實公平待客原則，並回應高齡者、失智者等脆弱性客戶的金融服務需求，AIA友邦人壽持續推動高齡與失智友善服務，透過員工教育訓練、服務流程優化及友善環境建置，降低客戶取得金融服務的障礙，打造更具包容性與可近性的...",
+        "serial": 339,
+        "url": "https://www.ctee.com.tw/news/20260724700339-439901",
+        "title": "玉山009827 聚焦AI算力三支柱",
+        "summary": "面對AI應用快速擴展及全球算力需求持續攀升，玉山投信宣布推出全臺首檔聚焦全球算力產業的「玉山未來全球算力ETF」（009827），鎖定AI科技、AI基礎建設及太空衛星三大支柱，涵蓋七大產業鏈，精選全球50家指標企業，協助投資人掌握AI浪潮下的長期成長契機，該基金預計8月10日至14日募集、8月24日...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1906,12 +1906,23 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 345,
-        "url": "https://www.ctee.com.tw/news/20260724700345-439901",
-        "title": "永達：保險、安養信託 完備失智防護網",
-        "summary": "金管會主委彭金隆日前公開鼓勵業者開發失智者專屬保單，將「失智症照護」推上社會關注的風口浪尖。 依據台灣失智症協會與衛生福利部最新調查推估，當前台灣失智症人口已突破38萬人。失智症是長達五至十五年的進行性退化疾病，面對漫長的照護期，理賠金固然能讓家庭依需求彈性運用（如支付藥費、聘請看護或補貼日照中心）...",
+        "serial": 342,
+        "url": "https://www.ctee.com.tw/news/20260724700342-439901",
+        "title": "AIA友邦人壽 獲失智友善組織認證",
+        "summary": "隨著台灣邁入超高齡社會，高齡人口持續增加，失智症議題也逐漸成為金融保險服務業關注的重要課題。為落實公平待客原則，並回應高齡者、失智者等脆弱性客戶的金融服務需求，AIA友邦人壽持續推動高齡與失智友善服務，透過員工教育訓練、服務流程優化及友善環境建置，降低客戶取得金融服務的障礙，打造更具包容性與可近性的...",
         "published_at": "2026-07-24 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A41AC5_PictureItem_Clipping_02_2.jpg",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 351,
+        "url": "https://www.ctee.com.tw/news/20260724700351-439901",
+        "title": "鴻林堂生技 7/24登錄興櫃",
+        "summary": "專注於生命科學試劑與生技原材料研發的鴻林堂生技（7422）於7月24日正式登錄興櫃。公司自2014年成立以來，憑藉超螺旋DNA、蛋白質純化及有機化合物合成等核心技術切入全球市場，近年營收穩定維持約300萬美元水準。 鴻林堂旗下預鑄膠（Precast Gel）產品獲得國際生技企業青睞，並積極洽談貼牌合...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A44AC8_PictureItem_Clipping_01_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1936,17 +1947,6 @@
         "image_url": "",
         "status": "no_page_code",
         "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 351,
-        "url": "https://www.ctee.com.tw/news/20260724700351-439901",
-        "title": "鴻林堂生技 7/24登錄興櫃",
-        "summary": "專注於生命科學試劑與生技原材料研發的鴻林堂生技（7422）於7月24日正式登錄興櫃。公司自2014年成立以來，憑藉超螺旋DNA、蛋白質純化及有機化合物合成等核心技術切入全球市場，近年營收穩定維持約300萬美元水準。 鴻林堂旗下預鑄膠（Precast Gel）產品獲得國際生技企業青睞，並積極洽談貼牌合...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A44AC8_PictureItem_Clipping_01_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
       }
     ],
     "retry_successes": [],
@@ -1962,6 +1962,16 @@
         "inference_reason": "same_page_neighbors"
       },
       {
+        "serial": 82,
+        "url": "https://www.ctee.com.tw/news/20260724700082-439901",
+        "title": "出口商滿手美元 考驗央行接招、企業避險",
+        "page": "A4",
+        "page_code": "A04AA4",
+        "previous_serial": 79,
+        "next_serial": 83,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
         "serial": 96,
         "url": "https://www.ctee.com.tw/news/20260724700096-439901",
         "title": "特別盈餘公積提存時點 成唯一共識",
@@ -1972,14 +1982,14 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 82,
-        "url": "https://www.ctee.com.tw/news/20260724700082-439901",
-        "title": "出口商滿手美元 考驗央行接招、企業避險",
-        "page": "A4",
-        "page_code": "A04AA4",
-        "previous_serial": 79,
-        "next_serial": 83,
-        "inference_reason": "same_page_neighbors"
+        "serial": 105,
+        "url": "https://www.ctee.com.tw/news/20260724700105-439901",
+        "title": "美伊衝突升溫推高油價 美30年期債殖利率逾5％",
+        "page": "A5",
+        "page_code": "A05AA5",
+        "previous_serial": 103,
+        "next_serial": 106,
+        "inference_reason": "previous_page_boundary"
       },
       {
         "serial": 118,
@@ -2000,16 +2010,6 @@
         "previous_serial": 115,
         "next_serial": 118,
         "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 105,
-        "url": "https://www.ctee.com.tw/news/20260724700105-439901",
-        "title": "美伊衝突升溫推高油價 美30年期債殖利率逾5％",
-        "page": "A5",
-        "page_code": "A05AA5",
-        "previous_serial": 103,
-        "next_serial": 106,
-        "inference_reason": "previous_page_boundary"
       },
       {
         "serial": 132,
@@ -2042,12 +2042,22 @@
         "inference_reason": "same_page_neighbors"
       },
       {
+        "serial": 157,
+        "url": "https://www.ctee.com.tw/news/20260724700157-439901",
+        "title": "美FCC禁令升級 封殺華為等零件",
+        "page": "A10",
+        "page_code": "A10AA10",
+        "previous_serial": 155,
+        "next_serial": 160,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
         "serial": 158,
         "url": "https://www.ctee.com.tw/news/20260724700158-439901",
         "title": "陸鼓勵外商 投資先進製造業",
         "page": "A10",
         "page_code": "A10AA10",
-        "previous_serial": 155,
+        "previous_serial": 157,
         "next_serial": 160,
         "inference_reason": "previous_page_boundary"
       },
@@ -2062,42 +2072,12 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 157,
-        "url": "https://www.ctee.com.tw/news/20260724700157-439901",
-        "title": "美FCC禁令升級 封殺華為等零件",
-        "page": "A10",
-        "page_code": "A10AA10",
-        "previous_serial": 155,
-        "next_serial": 158,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
         "serial": 169,
         "url": "https://www.ctee.com.tw/news/20260724700169-439901",
         "title": "寬限期到期效應 公股銀 H1轉貸案件增加",
         "page": "A11",
         "page_code": "A13AA11",
         "previous_serial": 167,
-        "next_serial": 171,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 166,
-        "url": "https://www.ctee.com.tw/news/20260724700166-439901",
-        "title": "公股銀預期台美利差擴大 SWAP收益看增",
-        "page": "A11",
-        "page_code": "A13AA11",
-        "previous_serial": 163,
-        "next_serial": 167,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 170,
-        "url": "https://www.ctee.com.tw/news/20260724700170-439901",
-        "title": "城鎮韌性演習 金管會籲重大交易提前操作",
-        "page": "A11",
-        "page_code": "A13AA11",
-        "previous_serial": 169,
         "next_serial": 171,
         "inference_reason": "previous_page_boundary"
       },
@@ -2112,9 +2092,19 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 180,
-        "url": "https://www.ctee.com.tw/news/20260724700180-439901",
-        "title": "攻智慧醫療 宇瞻AI視覺辨識落地",
+        "serial": 170,
+        "url": "https://www.ctee.com.tw/news/20260724700170-439901",
+        "title": "城鎮韌性演習 金管會籲重大交易提前操作",
+        "page": "A11",
+        "page_code": "A13AA11",
+        "previous_serial": 169,
+        "next_serial": 171,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 182,
+        "url": "https://www.ctee.com.tw/news/20260724700182-439901",
+        "title": "7成企業OT環境一年遭多次入侵 Fortinet:資安威脅持續升高",
         "page": "A12",
         "page_code": "A14AA12",
         "previous_serial": 179,
@@ -2127,19 +2117,19 @@
         "title": "電玩展、漫博展啟動 遊戲公司攻暑假玩家商機",
         "page": "A12",
         "page_code": "A14AA12",
-        "previous_serial": 180,
-        "next_serial": 206,
-        "inference_reason": "previous_page_boundary"
+        "previous_serial": 179,
+        "next_serial": 182,
+        "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 182,
-        "url": "https://www.ctee.com.tw/news/20260724700182-439901",
-        "title": "7成企業OT環境一年遭多次入侵 Fortinet:資安威脅持續升高",
+        "serial": 180,
+        "url": "https://www.ctee.com.tw/news/20260724700180-439901",
+        "title": "攻智慧醫療 宇瞻AI視覺辨識落地",
         "page": "A12",
         "page_code": "A14AA12",
-        "previous_serial": 181,
-        "next_serial": 206,
-        "inference_reason": "previous_page_boundary"
+        "previous_serial": 179,
+        "next_serial": 181,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 187,
@@ -2162,14 +2152,14 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 190,
-        "url": "https://www.ctee.com.tw/news/20260724700190-439901",
-        "title": "屏東高鐵特區公辦都更 邁執行階段",
-        "page": "A12",
-        "page_code": "A14AA12",
-        "previous_serial": 187,
-        "next_serial": 206,
-        "inference_reason": "previous_page_boundary"
+        "serial": 166,
+        "url": "https://www.ctee.com.tw/news/20260724700166-439901",
+        "title": "公股銀預期台美利差擴大 SWAP收益看增",
+        "page": "A11",
+        "page_code": "A13AA11",
+        "previous_serial": 163,
+        "next_serial": 167,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 188,
@@ -2178,16 +2168,6 @@
         "page": "A12",
         "page_code": "A14AA12",
         "previous_serial": 187,
-        "next_serial": 190,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 194,
-        "url": "https://www.ctee.com.tw/news/20260724700194-439901",
-        "title": "啖高端私密餐飲大餅 宇方圓插旗信義區",
-        "page": "A12",
-        "page_code": "A14AA12",
-        "previous_serial": 190,
         "next_serial": 206,
         "inference_reason": "previous_page_boundary"
       },
@@ -2197,58 +2177,18 @@
         "title": "碳基爭無人機訂單 拓全球非紅供應鏈",
         "page": "A12",
         "page_code": "A14AA12",
-        "previous_serial": 190,
-        "next_serial": 194,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 205,
-        "url": "https://www.ctee.com.tw/news/20260724700205-439901",
-        "title": "2027台北自行車展 開放參展報名",
-        "page": "A12",
-        "page_code": "A14AA12",
-        "previous_serial": 194,
+        "previous_serial": 188,
         "next_serial": 206,
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 201,
-        "url": "https://www.ctee.com.tw/news/20260724700201-439901",
-        "title": "節能標竿觀摩會 鼎霖國際談智慧工廠實戰經驗",
+        "serial": 190,
+        "url": "https://www.ctee.com.tw/news/20260724700190-439901",
+        "title": "屏東高鐵特區公辦都更 邁執行階段",
         "page": "A12",
         "page_code": "A14AA12",
-        "previous_serial": 194,
-        "next_serial": 205,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 197,
-        "url": "https://www.ctee.com.tw/news/20260724700197-439901",
-        "title": "北投麗禧 蟬聯最美慢活渡假獎",
-        "page": "A12",
-        "page_code": "A14AA12",
-        "previous_serial": 194,
-        "next_serial": 201,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 203,
-        "url": "https://www.ctee.com.tw/news/20260724700203-439901",
-        "title": "三菱電機智慧自動化競賽 落幕",
-        "page": "A12",
-        "page_code": "A14AA12",
-        "previous_serial": 201,
-        "next_serial": 205,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 199,
-        "url": "https://www.ctee.com.tw/news/20260724700199-439901",
-        "title": "國家建築金獎 7月底截止報名",
-        "page": "A12",
-        "page_code": "A14AA12",
-        "previous_serial": 197,
-        "next_serial": 201,
+        "previous_serial": 188,
+        "next_serial": 192,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -2259,6 +2199,76 @@
         "page_code": "A14AA12",
         "previous_serial": 188,
         "next_serial": 190,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 194,
+        "url": "https://www.ctee.com.tw/news/20260724700194-439901",
+        "title": "啖高端私密餐飲大餅 宇方圓插旗信義區",
+        "page": "A12",
+        "page_code": "A14AA12",
+        "previous_serial": 192,
+        "next_serial": 206,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 197,
+        "url": "https://www.ctee.com.tw/news/20260724700197-439901",
+        "title": "北投麗禧 蟬聯最美慢活渡假獎",
+        "page": "A12",
+        "page_code": "A14AA12",
+        "previous_serial": 194,
+        "next_serial": 206,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 199,
+        "url": "https://www.ctee.com.tw/news/20260724700199-439901",
+        "title": "國家建築金獎 7月底截止報名",
+        "page": "A12",
+        "page_code": "A14AA12",
+        "previous_serial": 197,
+        "next_serial": 206,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 203,
+        "url": "https://www.ctee.com.tw/news/20260724700203-439901",
+        "title": "三菱電機智慧自動化競賽 落幕",
+        "page": "A12",
+        "page_code": "A14AA12",
+        "previous_serial": 199,
+        "next_serial": 206,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 201,
+        "url": "https://www.ctee.com.tw/news/20260724700201-439901",
+        "title": "節能標竿觀摩會 鼎霖國際談智慧工廠實戰經驗",
+        "page": "A12",
+        "page_code": "A14AA12",
+        "previous_serial": 199,
+        "next_serial": 203,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 205,
+        "url": "https://www.ctee.com.tw/news/20260724700205-439901",
+        "title": "2027台北自行車展 開放參展報名",
+        "page": "A12",
+        "page_code": "A14AA12",
+        "previous_serial": 203,
+        "next_serial": 206,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 227,
+        "url": "https://www.ctee.com.tw/news/20260724700227-439901",
+        "title": "千金股除息秀 3檔同場較勁",
+        "page": "B2",
+        "page_code": "A26AB2",
+        "previous_serial": 225,
+        "next_serial": 228,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -2282,43 +2292,13 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 227,
-        "url": "https://www.ctee.com.tw/news/20260724700227-439901",
-        "title": "千金股除息秀 3檔同場較勁",
-        "page": "B2",
-        "page_code": "A26AB2",
-        "previous_serial": 225,
-        "next_serial": 228,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 254,
-        "url": "https://www.ctee.com.tw/news/20260724700254-439901",
-        "title": "鈺齊Q2 EPS 0.89元",
-        "page": "B4",
-        "page_code": "A28AB4",
-        "previous_serial": 251,
-        "next_serial": 255,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
         "serial": 253,
         "url": "https://www.ctee.com.tw/news/20260724700253-439901",
         "title": "強生上半年每股賺1.71元",
         "page": "B4",
         "page_code": "A28AB4",
         "previous_serial": 251,
-        "next_serial": 254,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 263,
-        "url": "https://www.ctee.com.tw/news/20260724700263-439901",
-        "title": "ASIC液冷動能熱 邁科H2營運看好",
-        "page": "B5",
-        "page_code": "A29AB5",
-        "previous_serial": 260,
-        "next_serial": 265,
+        "next_serial": 255,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -2329,6 +2309,26 @@
         "page_code": "A28AB4",
         "previous_serial": 247,
         "next_serial": 251,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 254,
+        "url": "https://www.ctee.com.tw/news/20260724700254-439901",
+        "title": "鈺齊Q2 EPS 0.89元",
+        "page": "B4",
+        "page_code": "A28AB4",
+        "previous_serial": 253,
+        "next_serial": 255,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 263,
+        "url": "https://www.ctee.com.tw/news/20260724700263-439901",
+        "title": "ASIC液冷動能熱 邁科H2營運看好",
+        "page": "B5",
+        "page_code": "A29AB5",
+        "previous_serial": 260,
+        "next_serial": 265,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -2392,14 +2392,24 @@
         "inference_reason": "previous_page_boundary"
       },
       {
+        "serial": 294,
+        "url": "https://www.ctee.com.tw/news/20260724700294-439901",
+        "title": "大立光 Q3營收大增",
+        "page": "B5",
+        "page_code": "A29AB5",
+        "previous_serial": 281,
+        "next_serial": 305,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
         "serial": 285,
         "url": "https://www.ctee.com.tw/news/20260724700285-439901",
         "title": "表現抗震 大成鋼、巨大權證靚",
         "page": "B5",
         "page_code": "A29AB5",
         "previous_serial": 281,
-        "next_serial": 305,
-        "inference_reason": "previous_page_boundary"
+        "next_serial": 294,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 282,
@@ -2412,36 +2422,6 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 288,
-        "url": "https://www.ctee.com.tw/news/20260724700288-439901",
-        "title": "領先大盤 研華、千附法人看好",
-        "page": "B5",
-        "page_code": "A29AB5",
-        "previous_serial": 285,
-        "next_serial": 305,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 291,
-        "url": "https://www.ctee.com.tw/news/20260724700291-439901",
-        "title": "鴻海、緯創 人氣回籠",
-        "page": "B5",
-        "page_code": "A29AB5",
-        "previous_serial": 288,
-        "next_serial": 305,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 294,
-        "url": "https://www.ctee.com.tw/news/20260724700294-439901",
-        "title": "大立光 Q3營收大增",
-        "page": "B5",
-        "page_code": "A29AB5",
-        "previous_serial": 291,
-        "next_serial": 305,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
         "serial": 297,
         "url": "https://www.ctee.com.tw/news/20260724700297-439901",
         "title": "貿聯 併購效益發酵",
@@ -2450,6 +2430,26 @@
         "previous_serial": 294,
         "next_serial": 305,
         "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 288,
+        "url": "https://www.ctee.com.tw/news/20260724700288-439901",
+        "title": "領先大盤 研華、千附法人看好",
+        "page": "B5",
+        "page_code": "A29AB5",
+        "previous_serial": 285,
+        "next_serial": 294,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 291,
+        "url": "https://www.ctee.com.tw/news/20260724700291-439901",
+        "title": "鴻海、緯創 人氣回籠",
+        "page": "B5",
+        "page_code": "A29AB5",
+        "previous_serial": 288,
+        "next_serial": 294,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 315,
@@ -2476,21 +2476,21 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 339,
-        "url": "https://www.ctee.com.tw/news/20260724700339-439901",
-        "title": "玉山009827 聚焦AI算力三支柱",
-        "summary": "面對AI應用快速擴展及全球算力需求持續攀升，玉山投信宣布推出全臺首檔聚焦全球算力產業的「玉山未來全球算力ETF」（009827），鎖定AI科技、AI基礎建設及太空衛星三大支柱，涵蓋七大產業鏈，精選全球50家指標企業，協助投資人掌握AI浪潮下的長期成長契機，該基金預計8月10日至14日募集、8月24日...",
+        "serial": 345,
+        "url": "https://www.ctee.com.tw/news/20260724700345-439901",
+        "title": "永達：保險、安養信託 完備失智防護網",
+        "summary": "金管會主委彭金隆日前公開鼓勵業者開發失智者專屬保單，將「失智症照護」推上社會關注的風口浪尖。 依據台灣失智症協會與衛生福利部最新調查推估，當前台灣失智症人口已突破38萬人。失智症是長達五至十五年的進行性退化疾病，面對漫長的照護期，理賠金固然能讓家庭依需求彈性運用（如支付藥費、聘請看護或補貼日照中心）...",
         "published_at": "2026-07-24 03:00:00",
-        "image_url": "",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A41AC5_PictureItem_Clipping_02_2.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
       {
         "kind": "parse_failure",
-        "serial": 342,
-        "url": "https://www.ctee.com.tw/news/20260724700342-439901",
-        "title": "AIA友邦人壽 獲失智友善組織認證",
-        "summary": "隨著台灣邁入超高齡社會，高齡人口持續增加，失智症議題也逐漸成為金融保險服務業關注的重要課題。為落實公平待客原則，並回應高齡者、失智者等脆弱性客戶的金融服務需求，AIA友邦人壽持續推動高齡與失智友善服務，透過員工教育訓練、服務流程優化及友善環境建置，降低客戶取得金融服務的障礙，打造更具包容性與可近性的...",
+        "serial": 339,
+        "url": "https://www.ctee.com.tw/news/20260724700339-439901",
+        "title": "玉山009827 聚焦AI算力三支柱",
+        "summary": "面對AI應用快速擴展及全球算力需求持續攀升，玉山投信宣布推出全臺首檔聚焦全球算力產業的「玉山未來全球算力ETF」（009827），鎖定AI科技、AI基礎建設及太空衛星三大支柱，涵蓋七大產業鏈，精選全球50家指標企業，協助投資人掌握AI浪潮下的長期成長契機，該基金預計8月10日至14日募集、8月24日...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -2509,12 +2509,23 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 345,
-        "url": "https://www.ctee.com.tw/news/20260724700345-439901",
-        "title": "永達：保險、安養信託 完備失智防護網",
-        "summary": "金管會主委彭金隆日前公開鼓勵業者開發失智者專屬保單，將「失智症照護」推上社會關注的風口浪尖。 依據台灣失智症協會與衛生福利部最新調查推估，當前台灣失智症人口已突破38萬人。失智症是長達五至十五年的進行性退化疾病，面對漫長的照護期，理賠金固然能讓家庭依需求彈性運用（如支付藥費、聘請看護或補貼日照中心）...",
+        "serial": 342,
+        "url": "https://www.ctee.com.tw/news/20260724700342-439901",
+        "title": "AIA友邦人壽 獲失智友善組織認證",
+        "summary": "隨著台灣邁入超高齡社會，高齡人口持續增加，失智症議題也逐漸成為金融保險服務業關注的重要課題。為落實公平待客原則，並回應高齡者、失智者等脆弱性客戶的金融服務需求，AIA友邦人壽持續推動高齡與失智友善服務，透過員工教育訓練、服務流程優化及友善環境建置，降低客戶取得金融服務的障礙，打造更具包容性與可近性的...",
         "published_at": "2026-07-24 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A41AC5_PictureItem_Clipping_02_2.jpg",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 351,
+        "url": "https://www.ctee.com.tw/news/20260724700351-439901",
+        "title": "鴻林堂生技 7/24登錄興櫃",
+        "summary": "專注於生命科學試劑與生技原材料研發的鴻林堂生技（7422）於7月24日正式登錄興櫃。公司自2014年成立以來，憑藉超螺旋DNA、蛋白質純化及有機化合物合成等核心技術切入全球市場，近年營收穩定維持約300萬美元水準。 鴻林堂旗下預鑄膠（Precast Gel）產品獲得國際生技企業青睞，並積極洽談貼牌合...",
+        "published_at": "2026-07-24 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A44AC8_PictureItem_Clipping_01_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -2537,17 +2548,6 @@
         "summary": "隨著全球無人機應用快速擴大，從國防、救災到物流巡檢需求持續升溫，台灣傳統紡織大廠－台灣百和（9938）積極布局無人機產業，結合材料研發與精密加工能力，投入複合材料、AR穿戴裝置等新領域，為無人機供應鏈提供更多元解決方案。 台灣百和近年持續發展高性能材料，最新推出的PP（聚丙烯）纖維板採用熱塑成型技術...",
         "published_at": "2026-07-24 03:00:00",
         "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 351,
-        "url": "https://www.ctee.com.tw/news/20260724700351-439901",
-        "title": "鴻林堂生技 7/24登錄興櫃",
-        "summary": "專注於生命科學試劑與生技原材料研發的鴻林堂生技（7422）於7月24日正式登錄興櫃。公司自2014年成立以來，憑藉超螺旋DNA、蛋白質純化及有機化合物合成等核心技術切入全球市場，近年營收穩定維持約300萬美元水準。 鴻林堂旗下預鑄膠（Precast Gel）產品獲得國際生技企業青睞，並積極洽談貼牌合...",
-        "published_at": "2026-07-24 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-24/1024/A44AC8_PictureItem_Clipping_01_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       }
