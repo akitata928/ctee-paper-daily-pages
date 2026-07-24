@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-25",
-  "generated_at": "2026-07-25T06:01:34+08:00",
+  "generated_at": "2026-07-25T07:01:22+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -762,22 +762,11 @@
       "not_found_count": 2423,
       "fetch_failure_count": 0,
       "parse_failure_count": 18,
-      "retry_success_count": 1,
+      "retry_success_count": 0,
       "inferred_page_count": 17
     },
     "fetch_failures": [],
     "parse_failures": [
-      {
-        "kind": "parse_failure",
-        "serial": 70,
-        "url": "https://www.ctee.com.tw/news/20260725700070-439901",
-        "title": "華新航太布局報捷 獲2.4億美元大單",
-        "summary": "華新布局航太產業大突破，24日宣布旗下英國Special Melted Products（SMP）與英國勞斯萊斯，簽署兩項重要多年期合約，金額總計2.4億美元，進一步鞏固雙方長期合作夥伴關係。 華新指出，SMP在英國鋼鐵發源地雪菲爾（Sheffield）成立，是歐洲高端不銹鋼暨鎳基超合金材料領導廠商...",
-        "published_at": "2026-07-25 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
       {
         "kind": "parse_failure",
         "serial": 83,
@@ -791,10 +780,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 94,
-        "url": "https://www.ctee.com.tw/news/20260725700094-439901",
-        "title": "Kimi K3月之暗面 獲國家隊力挺",
-        "summary": "正加快上市步伐、近日發表Kimi K3受全球關注的中國人工智慧新創公司月之暗面，陸媒挖掘其股東名單後發現，國資陣營正成為月之暗面的核心參與者。 綜合陸媒報導，月之暗面計畫於8月啟動上市前最後一輪融資談判，目標估值達人民幣3,385億元，最快6個月內在香港上市。雖然具體股東名單沒有流出，但整理過往投資...",
+        "serial": 70,
+        "url": "https://www.ctee.com.tw/news/20260725700070-439901",
+        "title": "華新航太布局報捷 獲2.4億美元大單",
+        "summary": "華新布局航太產業大突破，24日宣布旗下英國Special Melted Products（SMP）與英國勞斯萊斯，簽署兩項重要多年期合約，金額總計2.4億美元，進一步鞏固雙方長期合作夥伴關係。 華新指出，SMP在英國鋼鐵發源地雪菲爾（Sheffield）成立，是歐洲高端不銹鋼暨鎳基超合金材料領導廠商...",
         "published_at": "2026-07-25 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -813,6 +802,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 94,
+        "url": "https://www.ctee.com.tw/news/20260725700094-439901",
+        "title": "Kimi K3月之暗面 獲國家隊力挺",
+        "summary": "正加快上市步伐、近日發表Kimi K3受全球關注的中國人工智慧新創公司月之暗面，陸媒挖掘其股東名單後發現，國資陣營正成為月之暗面的核心參與者。 綜合陸媒報導，月之暗面計畫於8月啟動上市前最後一輪融資談判，目標估值達人民幣3,385億元，最快6個月內在香港上市。雖然具體股東名單沒有流出，但整理過往投資...",
+        "published_at": "2026-07-25 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 95,
         "url": "https://www.ctee.com.tw/news/20260725700095-439901",
         "title": "全球通膨分化下的投資策略再平衡",
@@ -824,10 +824,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 99,
-        "url": "https://www.ctee.com.tw/news/20260725700099-439901",
-        "title": "新光產建北大樓 27.6億賣新壽",
-        "summary": "新光產物24日董事會決議，將位於台北市建國北路二段的不動產出售予新光人壽，交易總金額為新台幣27.6億元，預估處分利益約22.3億元，實際金額仍以會計師查核結果為準。針對外界關注建北大樓原規劃都市更新，為何改採議價方式出售新光人壽，新光產物表示，該次交易已將都更容積獎勵後的開發價值納入協商，經評估後...",
+        "serial": 103,
+        "url": "https://www.ctee.com.tw/news/20260725700103-439901",
+        "title": "中租H1獲利 東協地區增最多",
+        "summary": "中租-KY公布2026年6月自結財務數字，上半年合併稅後純益達108.3億元，較去年同期成長3％，每股稅後純益（EPS）為5.84元。分營運地區來看，台灣、中國大陸及東協地區累計獲利分別較去年同期成長3％、2％及21％，其中東協地區增幅較為明顯。 營收方面，中租6月自結合併營收為79.8億元，較去年...",
         "published_at": "2026-07-25 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -835,10 +835,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 103,
-        "url": "https://www.ctee.com.tw/news/20260725700103-439901",
-        "title": "中租H1獲利 東協地區增最多",
-        "summary": "中租-KY公布2026年6月自結財務數字，上半年合併稅後純益達108.3億元，較去年同期成長3％，每股稅後純益（EPS）為5.84元。分營運地區來看，台灣、中國大陸及東協地區累計獲利分別較去年同期成長3％、2％及21％，其中東協地區增幅較為明顯。 營收方面，中租6月自結合併營收為79.8億元，較去年...",
+        "serial": 99,
+        "url": "https://www.ctee.com.tw/news/20260725700099-439901",
+        "title": "新光產建北大樓 27.6億賣新壽",
+        "summary": "新光產物24日董事會決議，將位於台北市建國北路二段的不動產出售予新光人壽，交易總金額為新台幣27.6億元，預估處分利益約22.3億元，實際金額仍以會計師查核結果為準。針對外界關注建北大樓原規劃都市更新，為何改採議價方式出售新光人壽，新光產物表示，該次交易已將都更容積獎勵後的開發價值納入協商，經評估後...",
         "published_at": "2026-07-25 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -868,6 +868,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 121,
+        "url": "https://www.ctee.com.tw/news/20260725700121-439901",
+        "title": "資金大洗牌 專家估年底回流房市",
+        "summary": "近期台股震盪大，市場關注「棄房入股的資金會不會回流房市」，房市趨勢專家李同榮24日表示，大量獲利了結資金開始從股市流出，是否流回房市重要關鍵點在3至5個月後，若股市良性修正、洗出獲利了結資金、房價適時鬆動，政策微幅鬆綁、遞延剛需進場等環境成形，是股市部分獲利了結資金回流房市的契機。 李同榮指出，目前...",
+        "published_at": "2026-07-25 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 122,
         "url": "https://www.ctee.com.tw/news/20260725700122-439901",
         "title": "中元採買旺季到 超商雙雄率先開跑",
@@ -883,17 +894,6 @@
         "url": "https://www.ctee.com.tw/news/20260725700120-439901",
         "title": "成本vs.需求 不銹鋼8月盤價難開",
         "summary": "不銹鋼大廠燁聯、華新麗華與唐榮將陸續開出8月新盤價，市場人士分析，近期主要原料成本降幅有限，加上新台幣匯率走勢偏弱，為不銹鋼廠帶來一定程度的成本支撐；然而，全球終端製造業復甦力道仍顯平緩，需求不熱，業界對8月不銹鋼盤價看法分歧，小漲、持平甚至下跌都有可能。 今年上半年不銹鋼因為原物料價格上漲支撐，鋼...",
-        "published_at": "2026-07-25 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 121,
-        "url": "https://www.ctee.com.tw/news/20260725700121-439901",
-        "title": "資金大洗牌 專家估年底回流房市",
-        "summary": "近期台股震盪大，市場關注「棄房入股的資金會不會回流房市」，房市趨勢專家李同榮24日表示，大量獲利了結資金開始從股市流出，是否流回房市重要關鍵點在3至5個月後，若股市良性修正、洗出獲利了結資金、房價適時鬆動，政策微幅鬆綁、遞延剛需進場等環境成形，是股市部分獲利了結資金回流房市的契機。 李同榮指出，目前...",
         "published_at": "2026-07-25 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -966,25 +966,8 @@
         "attempts": 1
       }
     ],
-    "retry_successes": [
-      {
-        "kind": "retry_success",
-        "serial": 23,
-        "url": "https://www.ctee.com.tw/news/20260725700023-439901",
-        "attempts": 2
-      }
-    ],
+    "retry_successes": [],
     "inferred_page_articles": [
-      {
-        "serial": 70,
-        "url": "https://www.ctee.com.tw/news/20260725700070-439901",
-        "title": "華新航太布局報捷 獲2.4億美元大單",
-        "page": "A4",
-        "page_code": "A04AA4",
-        "previous_serial": 68,
-        "next_serial": 71,
-        "inference_reason": "same_page_neighbors"
-      },
       {
         "serial": 83,
         "url": "https://www.ctee.com.tw/news/20260725700083-439901",
@@ -996,14 +979,14 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 94,
-        "url": "https://www.ctee.com.tw/news/20260725700094-439901",
-        "title": "Kimi K3月之暗面 獲國家隊力挺",
-        "page": "A6",
-        "page_code": "A06AA6",
-        "previous_serial": 90,
-        "next_serial": 96,
-        "inference_reason": "previous_page_boundary"
+        "serial": 70,
+        "url": "https://www.ctee.com.tw/news/20260725700070-439901",
+        "title": "華新航太布局報捷 獲2.4億美元大單",
+        "page": "A4",
+        "page_code": "A04AA4",
+        "previous_serial": 68,
+        "next_serial": 71,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 93,
@@ -1012,8 +995,18 @@
         "page": "A6",
         "page_code": "A06AA6",
         "previous_serial": 90,
-        "next_serial": 94,
-        "inference_reason": "same_page_neighbors"
+        "next_serial": 96,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 94,
+        "url": "https://www.ctee.com.tw/news/20260725700094-439901",
+        "title": "Kimi K3月之暗面 獲國家隊力挺",
+        "page": "A6",
+        "page_code": "A06AA6",
+        "previous_serial": 93,
+        "next_serial": 96,
+        "inference_reason": "previous_page_boundary"
       },
       {
         "serial": 95,
@@ -1026,16 +1019,6 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 99,
-        "url": "https://www.ctee.com.tw/news/20260725700099-439901",
-        "title": "新光產建北大樓 27.6億賣新壽",
-        "page": "A7",
-        "page_code": "A09AA7",
-        "previous_serial": 96,
-        "next_serial": 100,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
         "serial": 103,
         "url": "https://www.ctee.com.tw/news/20260725700103-439901",
         "title": "中租H1獲利 東協地區增最多",
@@ -1043,6 +1026,16 @@
         "page_code": "A09AA7",
         "previous_serial": 100,
         "next_serial": 104,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 99,
+        "url": "https://www.ctee.com.tw/news/20260725700099-439901",
+        "title": "新光產建北大樓 27.6億賣新壽",
+        "page": "A7",
+        "page_code": "A09AA7",
+        "previous_serial": 96,
+        "next_serial": 100,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1066,12 +1059,22 @@
         "inference_reason": "same_page_neighbors"
       },
       {
+        "serial": 121,
+        "url": "https://www.ctee.com.tw/news/20260725700121-439901",
+        "title": "資金大洗牌 專家估年底回流房市",
+        "page": "A8",
+        "page_code": "A10AA8",
+        "previous_serial": 116,
+        "next_serial": 124,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
         "serial": 122,
         "url": "https://www.ctee.com.tw/news/20260725700122-439901",
         "title": "中元採買旺季到 超商雙雄率先開跑",
         "page": "A8",
         "page_code": "A10AA8",
-        "previous_serial": 116,
+        "previous_serial": 121,
         "next_serial": 124,
         "inference_reason": "previous_page_boundary"
       },
@@ -1082,17 +1085,7 @@
         "page": "A8",
         "page_code": "A10AA8",
         "previous_serial": 116,
-        "next_serial": 122,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 121,
-        "url": "https://www.ctee.com.tw/news/20260725700121-439901",
-        "title": "資金大洗牌 專家估年底回流房市",
-        "page": "A8",
-        "page_code": "A10AA8",
-        "previous_serial": 120,
-        "next_serial": 122,
+        "next_serial": 121,
         "inference_reason": "same_page_neighbors"
       },
       {
