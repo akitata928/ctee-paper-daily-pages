@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T06:01:36+08:00",
+  "generated_at": "2026-07-26T07:01:08+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -456,17 +456,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 49,
-        "url": "https://www.ctee.com.tw/news/20260726700049-439901",
-        "title": "創百貨業最快開店 新光三越進駐北車商場",
-        "summary": "台北車站商場經營易手，微風營運北車19年劃下句點，強調「營運不中斷」的新光三越25日凌晨接手，10小時內動員300名員工，進行封裝已撤廠商貼上新櫃招牌、裝置128台POS機，與清理檢驗廠商設備、商場布置，爭取準時開門迎客，創下百貨業界最快開店紀錄。 適逢周末假日人潮，執行副總吳昕昌坐陣交接與緊盯首日...",
-        "published_at": "2026-07-26 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 38,
         "url": "https://www.ctee.com.tw/news/20260726700038-439901",
         "title": "需求降 Q3面板價格估呈緩跌",
@@ -489,10 +478,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 60,
-        "url": "https://www.ctee.com.tw/news/20260726700060-439901",
-        "title": "蘋果控告OpenAI 獨漏艾夫",
-        "summary": "蘋果日前對OpenAI提起訴訟，指控跳槽的兩名前員工與蘋果前設計長艾夫（Jony Ive）創立的io Products竊取商業機密，卻未將艾夫列為被告。原因是他與已故創辦人賈伯斯遺孀蘿琳（Laurene Powell Jobs）頗有交情，且以法律手段對付昔日功臣可能造成負面觀感。 在這份近40頁的訴...",
+        "serial": 49,
+        "url": "https://www.ctee.com.tw/news/20260726700049-439901",
+        "title": "創百貨業最快開店 新光三越進駐北車商場",
+        "summary": "台北車站商場經營易手，微風營運北車19年劃下句點，強調「營運不中斷」的新光三越25日凌晨接手，10小時內動員300名員工，進行封裝已撤廠商貼上新櫃招牌、裝置128台POS機，與清理檢驗廠商設備、商場布置，爭取準時開門迎客，創下百貨業界最快開店紀錄。 適逢周末假日人潮，執行副總吳昕昌坐陣交接與緊盯首日...",
         "published_at": "2026-07-26 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -500,10 +489,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 74,
-        "url": "https://www.ctee.com.tw/news/20260726700074-439901",
-        "title": "藍思攜英特爾 攻TGV先進封裝",
-        "summary": "繼京東方攜手康寧公司（Corning）後，中外玻璃基板領域合作再傳新消息。港股上市公司藍思科技24日晚間宣布，旗下藍思國際（香港）已與英特爾（Intel）簽署合作備忘錄，雙方將把TGV（玻璃穿孔）先進封裝作為本次備忘錄下討論的重點方向，英特爾也把藍思國際視為該領域有價值的潛在合作方。 綜合陸媒報導，...",
+        "serial": 60,
+        "url": "https://www.ctee.com.tw/news/20260726700060-439901",
+        "title": "蘋果控告OpenAI 獨漏艾夫",
+        "summary": "蘋果日前對OpenAI提起訴訟，指控跳槽的兩名前員工與蘋果前設計長艾夫（Jony Ive）創立的io Products竊取商業機密，卻未將艾夫列為被告。原因是他與已故創辦人賈伯斯遺孀蘿琳（Laurene Powell Jobs）頗有交情，且以法律手段對付昔日功臣可能造成負面觀感。 在這份近40頁的訴...",
         "published_at": "2026-07-26 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -533,10 +522,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 89,
-        "url": "https://www.ctee.com.tw/news/20260726700089-439901",
-        "title": "人事異動站　7月17日至7月23日",
-        "summary": "一、工商企業 ◎美利達工業總經理、資訊安全長曾上原辭職。 ◎柏文健康事業資訊安全專責主管黃靜雯辭職，由龔秀玲新任。 ◎零壹科技內部稽核主管黃家蓁辭職。 ◎盟立自動化研發主管高啟清卸任。 ◎宣德科技財務主管、會計主管及公司治理主管由林宏昇新任。 ◎安格科技會計主管范書婷辭職，由呂妍儀暫代，公司治理主管...",
+        "serial": 74,
+        "url": "https://www.ctee.com.tw/news/20260726700074-439901",
+        "title": "藍思攜英特爾 攻TGV先進封裝",
+        "summary": "繼京東方攜手康寧公司（Corning）後，中外玻璃基板領域合作再傳新消息。港股上市公司藍思科技24日晚間宣布，旗下藍思國際（香港）已與英特爾（Intel）簽署合作備忘錄，雙方將把TGV（玻璃穿孔）先進封裝作為本次備忘錄下討論的重點方向，英特爾也把藍思國際視為該領域有價值的潛在合作方。 綜合陸媒報導，...",
         "published_at": "2026-07-26 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -548,6 +537,17 @@
         "url": "https://www.ctee.com.tw/news/20260726700094-439901",
         "title": "亞洲生技大展 助新創拓展海外市場",
         "summary": "「2026亞洲生技大展（BIO Asia-Taiwan）」7月16～19日台北南港展覽館舉辦，透過生醫新創拓美交流會及生醫新創聯誼會與國際市場資源分享、企業Pitch及海外布局經驗交流，協助新創對接美歐市場，拓展國際合作商機。 經濟部中小及新創企業署表示，生醫產業具有研發期程長、法規門檻高及高度仰賴...",
+        "published_at": "2026-07-26 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 89,
+        "url": "https://www.ctee.com.tw/news/20260726700089-439901",
+        "title": "人事異動站　7月17日至7月23日",
+        "summary": "一、工商企業 ◎美利達工業總經理、資訊安全長曾上原辭職。 ◎柏文健康事業資訊安全專責主管黃靜雯辭職，由龔秀玲新任。 ◎零壹科技內部稽核主管黃家蓁辭職。 ◎盟立自動化研發主管高啟清卸任。 ◎宣德科技財務主管、會計主管及公司治理主管由林宏昇新任。 ◎安格科技會計主管范書婷辭職，由呂妍儀暫代，公司治理主管...",
         "published_at": "2026-07-26 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -577,16 +577,6 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 49,
-        "url": "https://www.ctee.com.tw/news/20260726700049-439901",
-        "title": "創百貨業最快開店 新光三越進駐北車商場",
-        "page": "A3",
-        "page_code": "A03AA3",
-        "previous_serial": 46,
-        "next_serial": 50,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
         "serial": 38,
         "url": "https://www.ctee.com.tw/news/20260726700038-439901",
         "title": "需求降 Q3面板價格估呈緩跌",
@@ -607,6 +597,16 @@
         "inference_reason": "previous_page_boundary"
       },
       {
+        "serial": 49,
+        "url": "https://www.ctee.com.tw/news/20260726700049-439901",
+        "title": "創百貨業最快開店 新光三越進駐北車商場",
+        "page": "A3",
+        "page_code": "A03AA3",
+        "previous_serial": 46,
+        "next_serial": 50,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
         "serial": 60,
         "url": "https://www.ctee.com.tw/news/20260726700060-439901",
         "title": "蘋果控告OpenAI 獨漏艾夫",
@@ -617,24 +617,14 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 74,
-        "url": "https://www.ctee.com.tw/news/20260726700074-439901",
-        "title": "藍思攜英特爾 攻TGV先進封裝",
-        "page": "A5",
-        "page_code": "A05AA5",
-        "previous_serial": 71,
-        "next_serial": 76,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
         "serial": 73,
         "url": "https://www.ctee.com.tw/news/20260726700073-439901",
         "title": "APEC AI論壇 鼓勵使用開源模型",
         "page": "A5",
         "page_code": "A05AA5",
         "previous_serial": 71,
-        "next_serial": 74,
-        "inference_reason": "same_page_neighbors"
+        "next_serial": 76,
+        "inference_reason": "previous_page_boundary"
       },
       {
         "serial": 75,
@@ -642,19 +632,19 @@
         "title": "韜定律挑戰摩爾定律 半導體製程新突破口",
         "page": "A5",
         "page_code": "A05AA5",
-        "previous_serial": 74,
+        "previous_serial": 73,
         "next_serial": 76,
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 89,
-        "url": "https://www.ctee.com.tw/news/20260726700089-439901",
-        "title": "人事異動站　7月17日至7月23日",
-        "page": "A7",
-        "page_code": "A07AA7",
-        "previous_serial": 87,
-        "next_serial": 90,
-        "inference_reason": "previous_page_boundary"
+        "serial": 74,
+        "url": "https://www.ctee.com.tw/news/20260726700074-439901",
+        "title": "藍思攜英特爾 攻TGV先進封裝",
+        "page": "A5",
+        "page_code": "A05AA5",
+        "previous_serial": 73,
+        "next_serial": 75,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 94,
@@ -665,6 +655,16 @@
         "previous_serial": 92,
         "next_serial": 95,
         "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 89,
+        "url": "https://www.ctee.com.tw/news/20260726700089-439901",
+        "title": "人事異動站　7月17日至7月23日",
+        "page": "A7",
+        "page_code": "A07AA7",
+        "previous_serial": 87,
+        "next_serial": 90,
+        "inference_reason": "previous_page_boundary"
       }
     ],
     "unassigned_articles": []
