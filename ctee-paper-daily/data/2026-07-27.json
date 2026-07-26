@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T06:01:04+08:00",
+  "generated_at": "2026-07-27T07:01:03+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -33,7 +33,7 @@
     "A1": [
       {
         "serial": 22,
-        "title": "外資：半導體遭超賣",
+        "title": "台股連挫「涼了」？外資喊半導體遭超賣 曝AI重返賽道時機 11檔有信心",
         "url": "https://www.ctee.com.tw/news/20260727700022-439901",
         "page_code": "A01AA1",
         "summary": "外資看AI題材將再起台積電法說會釋利多，股價迄今不漲反跌，半導體權王面臨巨大賣壓，台股「涼了」疑慮甚囂塵上。麥格理證券認為，上游半導體已遭過度賣超（sell-off is overdone），多數半導體企業第二季業績將優於市場預期、且後市展望正向；野村證券更直指，本波修正過後，AI題材將重回投資主軸...",
@@ -1073,41 +1073,41 @@
   "errors": [
     "serial 277: parsed HTML but no target page code",
     "serial 279: parsed HTML but no target page code",
-    "serial 281: parsed HTML but no target page code",
     "serial 284: parsed HTML but no target page code",
-    "serial 290: parsed HTML but no target page code",
-    "serial 288: parsed HTML but no target page code",
     "serial 286: parsed HTML but no target page code",
     "serial 292: parsed HTML but no target page code",
     "serial 293: parsed HTML but no target page code",
-    "serial 300: parsed HTML but no target page code",
+    "serial 288: parsed HTML but no target page code",
+    "serial 290: parsed HTML but no target page code",
     "serial 298: parsed HTML but no target page code",
-    "serial 294: parsed HTML but no target page code",
-    "serial 302: parsed HTML but no target page code",
-    "serial 304: parsed HTML but no target page code",
     "serial 296: parsed HTML but no target page code",
+    "serial 302: parsed HTML but no target page code",
+    "serial 294: parsed HTML but no target page code",
+    "serial 281: parsed HTML but no target page code",
+    "serial 307: parsed HTML but no target page code",
     "serial 305: parsed HTML but no target page code",
-    "serial 307: parsed HTML but no target page code"
+    "serial 300: parsed HTML but no target page code",
+    "serial 304: parsed HTML but no target page code"
   ],
   "diagnostics": {
     "errors": [
       "serial 277: parsed HTML but no target page code",
       "serial 279: parsed HTML but no target page code",
-      "serial 281: parsed HTML but no target page code",
       "serial 284: parsed HTML but no target page code",
-      "serial 290: parsed HTML but no target page code",
-      "serial 288: parsed HTML but no target page code",
       "serial 286: parsed HTML but no target page code",
       "serial 292: parsed HTML but no target page code",
       "serial 293: parsed HTML but no target page code",
-      "serial 300: parsed HTML but no target page code",
+      "serial 288: parsed HTML but no target page code",
+      "serial 290: parsed HTML but no target page code",
       "serial 298: parsed HTML but no target page code",
-      "serial 294: parsed HTML but no target page code",
-      "serial 302: parsed HTML but no target page code",
-      "serial 304: parsed HTML but no target page code",
       "serial 296: parsed HTML but no target page code",
+      "serial 302: parsed HTML but no target page code",
+      "serial 294: parsed HTML but no target page code",
+      "serial 281: parsed HTML but no target page code",
+      "serial 307: parsed HTML but no target page code",
       "serial 305: parsed HTML but no target page code",
-      "serial 307: parsed HTML but no target page code"
+      "serial 300: parsed HTML but no target page code",
+      "serial 304: parsed HTML but no target page code"
     ],
     "counters": {
       "serials_scanned": 2500,
@@ -1176,34 +1176,12 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 136,
-        "url": "https://www.ctee.com.tw/news/20260727700136-439901",
-        "title": "跟著台商走 公股銀強化海外布局",
-        "summary": "公股銀行海外布局戰略全面聚焦「跟著台商走」，因應台積電赴海外設廠及配合新南向政策，目前公股銀海外拓點計畫包含合庫銀行新加坡分行、兆豐銀行印度分行均籌設中，土地銀行及彰化銀行則分別規劃前往日本東京、美國亞利桑那州鳳凰城設點。 公股銀近年海外布局策略採擴張與整併並行，除積極評估海外新據點外，也透過跨區協...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 137,
         "url": "https://www.ctee.com.tw/news/20260727700137-439901",
         "title": "飯店業 搶50億中秋送禮市場",
         "summary": "觀光飯店中秋禮盒業績目標搶攻高達50億元中秋月餅禮盒商機，並看好上半年台股狂飆造就的景氣榮景，民眾與企業送禮不手軟，台北晶華、圓山、台北君悅、台北遠東香格里拉、六福萬怡、國賓、老爺、寒舍集團等飯店業者，紛紛上調今年中秋禮盒目標業績1.3％至18％，希望在下半年第一個節慶行銷大檔繳出亮眼成績。 觀光飯...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A13AA13_PictureItem_Clipping_01_5.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 148,
-        "url": "https://www.ctee.com.tw/news/20260727700148-439901",
-        "title": "台中百貨 掀品牌軍備賽",
-        "summary": "台中百貨市場下半年進入傳統消費旺季，面對台中新光三越回歸、漢神洲際開幕後加入後的新一輪市場競爭，各大百貨業者紛紛祭出「品牌升級」策略，從國際精品、頂級餐飲到娛樂體驗全面加碼，搶攻高端客群與年輕消費人口，台中百貨下半年正式進入「品牌軍備競賽」。 新光三越台中店下半年將持續引進數十家新品牌，強化精品與高...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1220,6 +1198,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 136,
+        "url": "https://www.ctee.com.tw/news/20260727700136-439901",
+        "title": "跟著台商走 公股銀強化海外布局",
+        "summary": "公股銀行海外布局戰略全面聚焦「跟著台商走」，因應台積電赴海外設廠及配合新南向政策，目前公股銀海外拓點計畫包含合庫銀行新加坡分行、兆豐銀行印度分行均籌設中，土地銀行及彰化銀行則分別規劃前往日本東京、美國亞利桑那州鳳凰城設點。 公股銀近年海外布局策略採擴張與整併並行，除積極評估海外新據點外，也透過跨區協...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 145,
         "url": "https://www.ctee.com.tw/news/20260727700145-439901",
         "title": "屏東新園產業園區 啟動招商 創造127億元年產值、800個就業機會",
@@ -1231,21 +1220,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 142,
-        "url": "https://www.ctee.com.tw/news/20260727700142-439901",
-        "title": "父親節＋開學季 旺季到 電商平台Q3業績進補",
-        "summary": "兩大電商平台財報概況父親節消費商機提前發酵，電商平台促銷戰自7月下旬陸續開打。富邦媒旗下的momo購物網與網家旗下PChome 24h購物，分別推出跨界娛樂、滿額回饋及高單價商品優惠，受惠孝親送禮商機，加上9月開學季的採購旺季，兩大電商平台第三季業績可望進補。 業者觀察，今年父親節禮品回歸實用導向，...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A13AA13_PictureItem_Clipping_03_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 147,
-        "url": "https://www.ctee.com.tw/news/20260727700147-439901",
-        "title": "脫北潮延續 淡水人口吸力最強",
-        "summary": "近一年多來房市進入修正期，商圈消長洗牌，也影響人口遷徒移動。據統計，自去年以來台北市已淨出5.3萬人，相當於每天有100人「脫北」；過去被視為吸納台北外移人口的新北市則淨遷入1.3萬人，其中房價較低的淡水區人口吸力最強，淨遷入達近萬人。 「脫北潮」持續十年來，台北市已淨遷出26萬人，相當於一個內湖區...",
+        "serial": 148,
+        "url": "https://www.ctee.com.tw/news/20260727700148-439901",
+        "title": "台中百貨 掀品牌軍備賽",
+        "summary": "台中百貨市場下半年進入傳統消費旺季，面對台中新光三越回歸、漢神洲際開幕後加入後的新一輪市場競爭，各大百貨業者紛紛祭出「品牌升級」策略，從國際精品、頂級餐飲到娛樂體驗全面加碼，搶攻高端客群與年輕消費人口，台中百貨下半年正式進入「品牌軍備競賽」。 新光三越台中店下半年將持續引進數十家新品牌，強化精品與高...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1264,23 +1242,23 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 156,
-        "url": "https://www.ctee.com.tw/news/20260727700156-439901",
-        "title": "喬越揪夥 搶資料中心液冷商機",
-        "summary": "喬越集團（7896）公布2026年上半年合併營收，1至6月累計營業收入淨額達新臺幣20.87億元，較去年同期年成長22.63％，展現集團在先進封裝、AI資料中心及光模塊等電子材料市場的成長動能。 其中，2026年5月單月合併營收達新臺幣3.65億元，較去年同期新臺幣2.23億元大幅成長，年增率達63...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A14AA14_PictureItem_Clipping_03_3.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 150,
         "url": "https://www.ctee.com.tw/news/20260727700150-439901",
         "title": "增你強總裁周友義、增你強董事長陳信義 重塑通路價值",
         "summary": "周友義 小檔案陳信義 小檔案記憶體報價狂飆，讓買方市場直接逆轉為賣方市場，讓向來低調的電子通路商增你強意外站上聚光燈，成為當紅炸子雞，外界看到的是記憶體行情帶來的爆發性成長，但真正推動增你強一路走到今天的，卻是一對攜手超過40年的黃金搭檔──總裁周友義與董事長陳信義，並重新定義通路商的價值。 搭上記...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A14AA14_PictureItem_Clipping_01_5.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 147,
+        "url": "https://www.ctee.com.tw/news/20260727700147-439901",
+        "title": "脫北潮延續 淡水人口吸力最強",
+        "summary": "近一年多來房市進入修正期，商圈消長洗牌，也影響人口遷徒移動。據統計，自去年以來台北市已淨出5.3萬人，相當於每天有100人「脫北」；過去被視為吸納台北外移人口的新北市則淨遷入1.3萬人，其中房價較低的淡水區人口吸力最強，淨遷入達近萬人。 「脫北潮」持續十年來，台北市已淨遷出26萬人，相當於一個內湖區...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1297,78 +1275,12 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 166,
-        "url": "https://www.ctee.com.tw/news/20260727700166-439901",
-        "title": "博太生醫 秀早期失智臨床成果",
-        "summary": "在全球生醫界聚焦次世代醫療技術之際，甫於今年6月份由王惠鈞院士帶隊、自聖地牙哥美國國際生技展載譽歸國的博太生醫，緊接著7月中首度在亞太市場公開針對早期失智受試者的最新前導性臨床研究成果，引起跨國大藥廠與投資機構的高度詢問，博太生醫挾其植物新藥領航者，讓世界看見台灣，頓時成為2026年亞洲生技大展的全...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A15AA15_PictureItem_Clipping_03_3.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 168,
-        "url": "https://www.ctee.com.tw/news/20260727700168-439901",
-        "title": "Fortinet發布OT資安報告 助企業強化韌性",
-        "summary": "全方位整合與自動化網路資安領導廠商－Fortinet（NASDAQ：FTNT）7月23日發布《2026年OT與網路資安現況調查報告》（2026 State of Operational Technology and Cybersecurity Report），針對全球超過700位橫跨製造、能源、交通...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A15AA15_PictureItem_Clipping_04_3.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 164,
-        "url": "https://www.ctee.com.tw/news/20260727700164-439901",
-        "title": "工研院 推半導體業淨零轉型",
-        "summary": "面對全球永續轉型，工研院已於2021年成立淨零永續策略辦公室，長期進行淨零相關技術的研析，7月21日舉辦「半導體與AI算力永續競爭力論壇」邀集經濟部次長江文若、經濟部能源署署長吳志偉及南亞科技、環球晶圓與金兆鎔科技等半導體業，探討建構半導體低碳循環生態系，並發表資料中心創新散熱技術，推動半導體業接軌...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A15AA15_PictureItem_Clipping_02_5.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 172,
-        "url": "https://www.ctee.com.tw/news/20260727700172-439901",
-        "title": "金石門BS-12不鏽鋼拉壓門鎖 抗腐蝕超耐用",
-        "summary": "隨著全球製造業朝向高可靠度與低維護成本發展，設備關鍵零組件的重要性日益提升，金石門透過「BS-12不鏽鋼拉壓門鎖」，成功切入高強度戶外應用市場，不僅補足傳統門鎖的性能缺口，也為產業提供更具前瞻性的升級選擇。 金石門總經理江錦華表示，BS-12特別強調「無痛升級」優勢，完整對應市場主流紅點鎖規格，無需...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A16AA16_PictureItem_Clipping_02_1.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 154,
         "url": "https://www.ctee.com.tw/news/20260727700154-439901",
         "title": "增你強啖AI紅利 多管齊下",
         "summary": "AI大爆發，啖AI紅利，增你強也不落人後，針對快速崛起的AI商機，增你強總裁周友義坦言，「增你強一直在密切關注中」，特別是因AI發展而受益的相關產業，如AI伺服器、電源、散熱等，此外，因AI高耗電帶動電力系統商機升溫，電力備援模組（BBU）、太陽能等能源方案需求也在關注範圍內，另因AI衍生的半導體與...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A14AA14_PictureItem_Clipping_02_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 174,
-        "url": "https://www.ctee.com.tw/news/20260727700174-439901",
-        "title": "日立高效能空壓機 三黎企業引進",
-        "summary": "三黎企業多年來深耕空壓機市場，致力於引進全球先進技術，協助客戶提升生產效能。與HITACHI日立攜手合作，不僅引進最新一代「NEXT II series」高效能空壓機，更針對台灣產業需求，量身打造整廠規劃方案，從設備選型、安裝配置，到維護保養，提供一站式專業服務。推動空壓機市場升級轉型，迎向更高效、...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A16AA16_PictureItem_Clipping_03_3.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 160,
-        "url": "https://www.ctee.com.tw/news/20260727700160-439901",
-        "title": "SEMICON Taiwan全球專區 規模創新高",
-        "summary": "SEMICON Taiwan 2026全球專區規模再創新高，共有18個國家參與。SEMI國際半導體產業協會7月22日首度舉辦全球專區記者會，由SEMI全球行銷長暨台灣區總裁曹世綸主持，經濟部政務次長江文若，以及美國、日本、歐盟、英國等17國代表共同出席，展現全球半導體深化合作趨勢。 SEMI表示，自...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A14AA14_PictureItem_Clipping_05_3.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1385,12 +1297,100 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 164,
+        "url": "https://www.ctee.com.tw/news/20260727700164-439901",
+        "title": "工研院 推半導體業淨零轉型",
+        "summary": "面對全球永續轉型，工研院已於2021年成立淨零永續策略辦公室，長期進行淨零相關技術的研析，7月21日舉辦「半導體與AI算力永續競爭力論壇」邀集經濟部次長江文若、經濟部能源署署長吳志偉及南亞科技、環球晶圓與金兆鎔科技等半導體業，探討建構半導體低碳循環生態系，並發表資料中心創新散熱技術，推動半導體業接軌...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A15AA15_PictureItem_Clipping_02_5.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 170,
         "url": "https://www.ctee.com.tw/news/20260727700170-439901",
         "title": "盟安深耕包裝工具 獲多國認證",
         "summary": "深耕包裝工具產業30年，盟安企業持續以自有品牌MACROLEAGUE布局全球市場，憑藉自主研發、台灣製造及完善售後服務，產品已外銷20餘國，並取得多項專利與國際認證，逐步建立台灣包裝工具品牌國際競爭力。 盟安企業成立於1995年，以「忠誠負責、永續經營」為核心理念，專注於包裝工具、鋼帶及相關零配件的...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A16AA16_PictureItem_Clipping_01_3.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 160,
+        "url": "https://www.ctee.com.tw/news/20260727700160-439901",
+        "title": "SEMICON Taiwan全球專區 規模創新高",
+        "summary": "SEMICON Taiwan 2026全球專區規模再創新高，共有18個國家參與。SEMI國際半導體產業協會7月22日首度舉辦全球專區記者會，由SEMI全球行銷長暨台灣區總裁曹世綸主持，經濟部政務次長江文若，以及美國、日本、歐盟、英國等17國代表共同出席，展現全球半導體深化合作趨勢。 SEMI表示，自...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A14AA14_PictureItem_Clipping_05_3.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 166,
+        "url": "https://www.ctee.com.tw/news/20260727700166-439901",
+        "title": "博太生醫 秀早期失智臨床成果",
+        "summary": "在全球生醫界聚焦次世代醫療技術之際，甫於今年6月份由王惠鈞院士帶隊、自聖地牙哥美國國際生技展載譽歸國的博太生醫，緊接著7月中首度在亞太市場公開針對早期失智受試者的最新前導性臨床研究成果，引起跨國大藥廠與投資機構的高度詢問，博太生醫挾其植物新藥領航者，讓世界看見台灣，頓時成為2026年亞洲生技大展的全...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A15AA15_PictureItem_Clipping_03_3.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 142,
+        "url": "https://www.ctee.com.tw/news/20260727700142-439901",
+        "title": "父親節＋開學季 旺季到 電商平台Q3業績進補",
+        "summary": "兩大電商平台財報概況父親節消費商機提前發酵，電商平台促銷戰自7月下旬陸續開打。富邦媒旗下的momo購物網與網家旗下PChome 24h購物，分別推出跨界娛樂、滿額回饋及高單價商品優惠，受惠孝親送禮商機，加上9月開學季的採購旺季，兩大電商平台第三季業績可望進補。 業者觀察，今年父親節禮品回歸實用導向，...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A13AA13_PictureItem_Clipping_03_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 168,
+        "url": "https://www.ctee.com.tw/news/20260727700168-439901",
+        "title": "Fortinet發布OT資安報告 助企業強化韌性",
+        "summary": "全方位整合與自動化網路資安領導廠商－Fortinet（NASDAQ：FTNT）7月23日發布《2026年OT與網路資安現況調查報告》（2026 State of Operational Technology and Cybersecurity Report），針對全球超過700位橫跨製造、能源、交通...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A15AA15_PictureItem_Clipping_04_3.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 172,
+        "url": "https://www.ctee.com.tw/news/20260727700172-439901",
+        "title": "金石門BS-12不鏽鋼拉壓門鎖 抗腐蝕超耐用",
+        "summary": "隨著全球製造業朝向高可靠度與低維護成本發展，設備關鍵零組件的重要性日益提升，金石門透過「BS-12不鏽鋼拉壓門鎖」，成功切入高強度戶外應用市場，不僅補足傳統門鎖的性能缺口，也為產業提供更具前瞻性的升級選擇。 金石門總經理江錦華表示，BS-12特別強調「無痛升級」優勢，完整對應市場主流紅點鎖規格，無需...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A16AA16_PictureItem_Clipping_02_1.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 174,
+        "url": "https://www.ctee.com.tw/news/20260727700174-439901",
+        "title": "日立高效能空壓機 三黎企業引進",
+        "summary": "三黎企業多年來深耕空壓機市場，致力於引進全球先進技術，協助客戶提升生產效能。與HITACHI日立攜手合作，不僅引進最新一代「NEXT II series」高效能空壓機，更針對台灣產業需求，量身打造整廠規劃方案，從設備選型、安裝配置，到維護保養，提供一站式專業服務。推動空壓機市場升級轉型，迎向更高效、...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A16AA16_PictureItem_Clipping_03_3.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 156,
+        "url": "https://www.ctee.com.tw/news/20260727700156-439901",
+        "title": "喬越揪夥 搶資料中心液冷商機",
+        "summary": "喬越集團（7896）公布2026年上半年合併營收，1至6月累計營業收入淨額達新臺幣20.87億元，較去年同期年成長22.63％，展現集團在先進封裝、AI資料中心及光模塊等電子材料市場的成長動能。 其中，2026年5月單月合併營收達新臺幣3.65億元，較去年同期新臺幣2.23億元大幅成長，年增率達63...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A14AA14_PictureItem_Clipping_03_3.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1440,28 +1440,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 211,
-        "url": "https://www.ctee.com.tw/news/20260727700211-439901",
-        "title": "共信動物抗癌新藥 登兩大國際期刊",
-        "summary": "共信-KY（6617）26日公告，旗下動物抗癌新藥「思沛康（Oncur）」繼取得農業部動植物防疫檢疫署核發試製藥品同意函，應用於馬匹腫瘤治療的兩項探索性臨床研究外，也分別獲Elsevier及Wiley旗下國際期刊接受刊登，顯示核心技術p-TLS在馬匹黑色素瘤及其他淺表性腫瘤治療具備良好的療效、安全性...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 215,
-        "url": "https://www.ctee.com.tw/news/20260727700215-439901",
-        "title": "五大建商 逐鹿商辦、廠辦市場",
-        "summary": "隨著半導體產業鏈持續擴產，加上輝達、超微等國際科技巨頭紛紛在台設立研發中心與總部，AI產業熱潮正向不動產市場外溢，國揚（2505）、宏璟（2527）、興富發（2542）、華固（2548）、長虹（5534）等指標建商，下半年將競相逐鹿AI與半導體產業擴產潮帶動的商辦、廠辦與企業總部戰場。 在這波AI建...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 216,
         "url": "https://www.ctee.com.tw/news/20260727700216-439901",
         "title": "日勝生 下半年業績唱高歌",
@@ -1473,10 +1451,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 225,
-        "url": "https://www.ctee.com.tw/news/20260727700225-439901",
-        "title": "合晶期貨保證金調高",
-        "summary": "櫃買中心7月24日至8月10日將合晶（6182）列為處置股票，期交所依規定自7月27日至8月10日調高合晶期貨（PLF）保證金為現行所屬級距適用比例之1.5倍；調整期間如遇休市、有價證券停止買賣、全日暫停交易，則恢復日順延執行。",
+        "serial": 215,
+        "url": "https://www.ctee.com.tw/news/20260727700215-439901",
+        "title": "五大建商 逐鹿商辦、廠辦市場",
+        "summary": "隨著半導體產業鏈持續擴產，加上輝達、超微等國際科技巨頭紛紛在台設立研發中心與總部，AI產業熱潮正向不動產市場外溢，國揚（2505）、宏璟（2527）、興富發（2542）、華固（2548）、長虹（5534）等指標建商，下半年將競相逐鹿AI與半導體產業擴產潮帶動的商辦、廠辦與企業總部戰場。 在這波AI建...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1528,23 +1506,34 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 235,
-        "url": "https://www.ctee.com.tw/news/20260727700235-439901",
-        "title": "奇鋐、台燿 業績展望正向",
-        "summary": "奇鋐、台燿熱門權證台股24日大跌1,195點，再度跌落季線之下，且美費半指數進一步走跌，電子股27日開盤表現料將受衝擊。不過，投資專家認為，AI發展趨勢不受短期資金、籌碼面干擾，建議回歸基本面觀察，奇鋐（3017）、台燿（6274）等業績展望正向的AI供應鏈。 奇鋐受惠周邊零組件的水冷滲透率明顯拉升...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A32AB6_PictureItem_Clipping_03_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 238,
         "url": "https://www.ctee.com.tw/news/20260727700238-439901",
         "title": "緯穎 H2成長動能強",
         "summary": "緯穎相關權證美國大型科技股財報相繼出爐，市場預期北美四大雲端服務業者（CSP）將延續資料中心建置力道，看好台系相關供應鏈營運吃補，伺服器大廠緯穎（6669）受惠大型CSP擴建資料中心，業績持續暢旺，且Trainium 3 ASIC AI伺服器6月進入初步量產階段，亦可望挹注其下半年成長動能。 亞系外...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A32AB6_PictureItem_Clipping_04_2.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 225,
+        "url": "https://www.ctee.com.tw/news/20260727700225-439901",
+        "title": "合晶期貨保證金調高",
+        "summary": "櫃買中心7月24日至8月10日將合晶（6182）列為處置股票，期交所依規定自7月27日至8月10日調高合晶期貨（PLF）保證金為現行所屬級距適用比例之1.5倍；調整期間如遇休市、有價證券停止買賣、全日暫停交易，則恢復日順延執行。",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 235,
+        "url": "https://www.ctee.com.tw/news/20260727700235-439901",
+        "title": "奇鋐、台燿 業績展望正向",
+        "summary": "奇鋐、台燿熱門權證台股24日大跌1,195點，再度跌落季線之下，且美費半指數進一步走跌，電子股27日開盤表現料將受衝擊。不過，投資專家認為，AI發展趨勢不受短期資金、籌碼面干擾，建議回歸基本面觀察，奇鋐（3017）、台燿（6274）等業績展望正向的AI供應鏈。 奇鋐受惠周邊零組件的水冷滲透率明顯拉升...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A32AB6_PictureItem_Clipping_03_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1561,10 +1550,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 255,
-        "url": "https://www.ctee.com.tw/news/20260727700255-439901",
-        "title": "永豐銀 奪數位銀行家六大獎",
-        "summary": "永豐銀行驅動企業與個人金融數位化，導入AI、流程數位化並整合平台，提升開戶、撥薪及跨境匯款等交易的效率。 永豐銀行表示，數位創新除優化流程外，更進一步深化端到端（End-to-End）服務體驗，同時透過資料治理與風險控管技術，打造安全、即時的金融服務且符合多元需求。旗下數位創新應用於7月23日獲國際...",
+        "serial": 211,
+        "url": "https://www.ctee.com.tw/news/20260727700211-439901",
+        "title": "共信動物抗癌新藥 登兩大國際期刊",
+        "summary": "共信-KY（6617）26日公告，旗下動物抗癌新藥「思沛康（Oncur）」繼取得農業部動植物防疫檢疫署核發試製藥品同意函，應用於馬匹腫瘤治療的兩項探索性臨床研究外，也分別獲Elsevier及Wiley旗下國際期刊接受刊登，顯示核心技術p-TLS在馬匹黑色素瘤及其他淺表性腫瘤治療具備良好的療效、安全性...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1583,10 +1572,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 268,
-        "url": "https://www.ctee.com.tw/news/20260727700268-439901",
-        "title": "主動式台股ETF 敏捷選股",
-        "summary": "台股上下震盪，投信法人觀察，具備強趨勢選股策略的主動式台股ETF，能發揮主動選股的敏捷優勢，在台股重啟攻勢之際，率先引領新一波成長動能。 主動第一金台股優ETF經理人張正中表示，今年下半年市場波動放大，近日台股強勁反彈，主要由科技權值大廠領軍走揚，雖然台股強勢反攻後，短線行情仍將呈現大震盪，但經過前...",
+        "serial": 269,
+        "url": "https://www.ctee.com.tw/news/20260727700269-439901",
+        "title": "升息降溫 5種債法人看好",
+        "summary": "中東局勢升溫推動油價走高，但美國通膨數據低於預期，市場對聯準會短期升息的疑慮略為降溫，美國公債殖利率回落，帶動債市走揚。投信法人指出，近期固定收益型ETF持續吸引資金，主要流向美國債券、歐洲債券及亞洲債券，投資等級債與非投資等級債也同步獲得資金青睞。 富蘭克林證券投顧認為，美國經濟基本面仍具韌性，可...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1594,10 +1583,21 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 269,
-        "url": "https://www.ctee.com.tw/news/20260727700269-439901",
-        "title": "升息降溫 5種債法人看好",
-        "summary": "中東局勢升溫推動油價走高，但美國通膨數據低於預期，市場對聯準會短期升息的疑慮略為降溫，美國公債殖利率回落，帶動債市走揚。投信法人指出，近期固定收益型ETF持續吸引資金，主要流向美國債券、歐洲債券及亞洲債券，投資等級債與非投資等級債也同步獲得資金青睞。 富蘭克林證券投顧認為，美國經濟基本面仍具韌性，可...",
+        "serial": 255,
+        "url": "https://www.ctee.com.tw/news/20260727700255-439901",
+        "title": "永豐銀 奪數位銀行家六大獎",
+        "summary": "永豐銀行驅動企業與個人金融數位化，導入AI、流程數位化並整合平台，提升開戶、撥薪及跨境匯款等交易的效率。 永豐銀行表示，數位創新除優化流程外，更進一步深化端到端（End-to-End）服務體驗，同時透過資料治理與風險控管技術，打造安全、即時的金融服務且符合多元需求。旗下數位創新應用於7月23日獲國際...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 268,
+        "url": "https://www.ctee.com.tw/news/20260727700268-439901",
+        "title": "主動式台股ETF 敏捷選股",
+        "summary": "台股上下震盪，投信法人觀察，具備強趨勢選股策略的主動式台股ETF，能發揮主動選股的敏捷優勢，在台股重啟攻勢之際，率先引領新一波成長動能。 主動第一金台股優ETF經理人張正中表示，今年下半年市場波動放大，近日台股強勁反彈，主要由科技權值大廠領軍走揚，雖然台股強勢反攻後，短線行情仍將呈現大震盪，但經過前...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1627,45 +1627,12 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 281,
-        "url": "https://www.ctee.com.tw/news/20260727700281-439901",
-        "title": "保發中心主辦 東亞太平洋保險論壇 前瞻保險業新藍圖",
-        "summary": "由保發中心主辦之「2026年東亞太平洋保險論壇」於日前舉行，今年以「前瞻共榮新未來」，邀請來自美國、日及我國產官學界保險領域專家與高階主管，與國內業者與會代表共約275位，共同深入探討保險業在數位轉型、總體經濟投資、綠色金融及超高齡社會下的最新應用、機會與挑戰，為保險業的永續發展建構新藍圖。 金管會...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 284,
         "url": "https://www.ctee.com.tw/news/20260727700284-439901",
         "title": "心源技術研討會 串聯國際",
         "summary": "深耕精密刀桿、刀具及加工應用領域逾四十年的心源工業（SYIC），於7月21日舉辦「SYIC Open House－實現智慧製造技術研討會」，邀請德國、以色列、日本、馬來西亞等國際合作夥伴，以及國內工具機、加工製造、學研單位近百位貴賓齊聚交流，隨著智慧製造、數位轉型及永續發展成為全球製造業重要趨勢下，...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A71ASA1_PictureItem_Clipping_01_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 290,
-        "url": "https://www.ctee.com.tw/news/20260727700290-439901",
-        "title": "馬路科技3D列印 技術領先",
-        "summary": "國內第一家提出RE逆向工程與RP快速原型整體解決方案的馬路科技，今年推出新一代的連續碳纖維增強材料3D列印系統（Markforged）及先進的三次元量測儀（ZEISS SPECTRUM verity），將提供高科技、精密及航太產業更高品質的製程服務及設計。 該公司台灣南區業務經理林祥宏表示，馬路科技...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A72ASA2_PictureItem_Clipping_02_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 288,
-        "url": "https://www.ctee.com.tw/news/20260727700288-439901",
-        "title": "直得S0六軸機械手臂 助力智造",
-        "summary": "在智慧製造領域頗負盛名的直得科技（1597），繼於工商時報所主辦的2026台南自動化機械暨智慧製造展，展出高品質的S0六軸機械手臂引起騷動後，將移師於2026台北國際自動化工業大展，估其專為高科技產業打造的AI系統化機械手臂，將吸引國內外買家駐足參觀。 該公司特助許文璞表示，直得科技系以製造高品質線...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A72ASA2_PictureItem_Clipping_01_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1704,12 +1671,23 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 300,
-        "url": "https://www.ctee.com.tw/news/20260727700300-439901",
-        "title": "億威電子eSAFE平台 降低智慧化門檻",
-        "summary": "2026年台北國際自動化大展即將登場，面對傳統工廠設備老舊、人力短缺及人工巡檢效率有限等問題，億威電子將以eSAFE智慧平台為主軸，整合AI、物聯網、感測設備、流程控管及AI視覺辨識，協助企業串接既有設備與新系統，建立即時監測及異常預警機制，掌握生產現場運作狀況，加速工廠智慧化。 億威電子早期以軍規...",
+        "serial": 288,
+        "url": "https://www.ctee.com.tw/news/20260727700288-439901",
+        "title": "直得S0六軸機械手臂 助力智造",
+        "summary": "在智慧製造領域頗負盛名的直得科技（1597），繼於工商時報所主辦的2026台南自動化機械暨智慧製造展，展出高品質的S0六軸機械手臂引起騷動後，將移師於2026台北國際自動化工業大展，估其專為高科技產業打造的AI系統化機械手臂，將吸引國內外買家駐足參觀。 該公司特助許文璞表示，直得科技系以製造高品質線...",
         "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_04_4.jpg",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A72ASA2_PictureItem_Clipping_01_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 290,
+        "url": "https://www.ctee.com.tw/news/20260727700290-439901",
+        "title": "馬路科技3D列印 技術領先",
+        "summary": "國內第一家提出RE逆向工程與RP快速原型整體解決方案的馬路科技，今年推出新一代的連續碳纖維增強材料3D列印系統（Markforged）及先進的三次元量測儀（ZEISS SPECTRUM verity），將提供高科技、精密及航太產業更高品質的製程服務及設計。 該公司台灣南區業務經理林祥宏表示，馬路科技...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A72ASA2_PictureItem_Clipping_02_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1726,12 +1704,12 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 294,
-        "url": "https://www.ctee.com.tw/news/20260727700294-439901",
-        "title": "台灣順成新頂針組件 技術再升級",
-        "summary": "面對全球智慧製造朝向高速化、高精度與高可靠度發展，精密零組件的性能已成為影響加工品質與設備穩定性的關鍵。深耕高精密頂針領域逾40年的台灣順成頂針科技研發生產、獲發明專利（專利案號：P-130154）的全新「頂針組件」，透過創新結構設計，有效克服高速加工過程中的摩擦升溫、切削液滲漏及零件磨耗等技術瓶頸...",
+        "serial": 296,
+        "url": "https://www.ctee.com.tw/news/20260727700296-439901",
+        "title": "惠來產業園區 搶企業回台新商機",
+        "summary": "全球AI浪潮持續推升半導體、高效能運算（HPC）、AI伺服器及智慧製造等產業成長，也帶動台灣科技產業再度站上全球供應鏈核心，隨著國際科技大廠持續加碼投資台灣、AI供應鏈擴張，以及全球供應鏈重組與台商回流趨勢延續，企業設廠、擴廠、研發中心及企業總部需求同步升溫，企業選址已不再僅僅考量土地供給，而是更重...",
         "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_01_4.jpg",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_02_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1748,10 +1726,21 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 304,
-        "url": "https://www.ctee.com.tw/news/20260727700304-439901",
-        "title": "智動化與機器人拓新局 商機分享會8/21登場",
-        "summary": "由經濟部國際貿易署指導主辦，並由財團法人精密機械研究發展中心、中華民國對外貿易發展協會承辦，以及社團法人台灣智慧自動化與機器人協會執行的「趨勢洞察智動化與機器人產業－拓展新局商機分享會」，將於8月21日台北工業自動化展及台灣機器人與智慧自動化展期間登場。 在全球供應鏈重組的黃金十年，臺灣企業正站在從...",
+        "serial": 294,
+        "url": "https://www.ctee.com.tw/news/20260727700294-439901",
+        "title": "台灣順成新頂針組件 技術再升級",
+        "summary": "面對全球智慧製造朝向高速化、高精度與高可靠度發展，精密零組件的性能已成為影響加工品質與設備穩定性的關鍵。深耕高精密頂針領域逾40年的台灣順成頂針科技研發生產、獲發明專利（專利案號：P-130154）的全新「頂針組件」，透過創新結構設計，有效克服高速加工過程中的摩擦升溫、切削液滲漏及零件磨耗等技術瓶頸...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_01_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 281,
+        "url": "https://www.ctee.com.tw/news/20260727700281-439901",
+        "title": "保發中心主辦 東亞太平洋保險論壇 前瞻保險業新藍圖",
+        "summary": "由保發中心主辦之「2026年東亞太平洋保險論壇」於日前舉行，今年以「前瞻共榮新未來」，邀請來自美國、日及我國產官學界保險領域專家與高階主管，與國內業者與會代表共約275位，共同深入探討保險業在數位轉型、總體經濟投資、綠色金融及超高齡社會下的最新應用、機會與挑戰，為保險業的永續發展建構新藍圖。 金管會...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1759,12 +1748,12 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 296,
-        "url": "https://www.ctee.com.tw/news/20260727700296-439901",
-        "title": "惠來產業園區 搶企業回台新商機",
-        "summary": "全球AI浪潮持續推升半導體、高效能運算（HPC）、AI伺服器及智慧製造等產業成長，也帶動台灣科技產業再度站上全球供應鏈核心，隨著國際科技大廠持續加碼投資台灣、AI供應鏈擴張，以及全球供應鏈重組與台商回流趨勢延續，企業設廠、擴廠、研發中心及企業總部需求同步升溫，企業選址已不再僅僅考量土地供給，而是更重...",
+        "serial": 307,
+        "url": "https://www.ctee.com.tw/news/20260727700307-439901",
+        "title": "鋐偉油壓工業 研發、客製一把罩",
+        "summary": "專注於研產油壓缸、氣壓缸、氣／油壓元件等專業領域已30餘年的「YONAI」鋐偉油壓工業公司，不僅擁有堅強的研發、客製實力與豐富專業經驗，且是一家擁有齊全零組件自製生產設備的專業廠商，除可有效降低成本外，對於高品質的要求與交期更具掌握性，同時可提供符合業者不同工件加工條件與機台作業環境所需的油封及油壓...",
         "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_02_4.jpg",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A74ASA4_PictureItem_Clipping_04_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -1781,12 +1770,23 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 307,
-        "url": "https://www.ctee.com.tw/news/20260727700307-439901",
-        "title": "鋐偉油壓工業 研發、客製一把罩",
-        "summary": "專注於研產油壓缸、氣壓缸、氣／油壓元件等專業領域已30餘年的「YONAI」鋐偉油壓工業公司，不僅擁有堅強的研發、客製實力與豐富專業經驗，且是一家擁有齊全零組件自製生產設備的專業廠商，除可有效降低成本外，對於高品質的要求與交期更具掌握性，同時可提供符合業者不同工件加工條件與機台作業環境所需的油封及油壓...",
+        "serial": 300,
+        "url": "https://www.ctee.com.tw/news/20260727700300-439901",
+        "title": "億威電子eSAFE平台 降低智慧化門檻",
+        "summary": "2026年台北國際自動化大展即將登場，面對傳統工廠設備老舊、人力短缺及人工巡檢效率有限等問題，億威電子將以eSAFE智慧平台為主軸，整合AI、物聯網、感測設備、流程控管及AI視覺辨識，協助企業串接既有設備與新系統，建立即時監測及異常預警機制，掌握生產現場運作狀況，加速工廠智慧化。 億威電子早期以軍規...",
         "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A74ASA4_PictureItem_Clipping_04_4.jpg",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_04_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 304,
+        "url": "https://www.ctee.com.tw/news/20260727700304-439901",
+        "title": "智動化與機器人拓新局 商機分享會8/21登場",
+        "summary": "由經濟部國際貿易署指導主辦，並由財團法人精密機械研究發展中心、中華民國對外貿易發展協會承辦，以及社團法人台灣智慧自動化與機器人協會執行的「趨勢洞察智動化與機器人產業－拓展新局商機分享會」，將於8月21日台北工業自動化展及台灣機器人與智慧自動化展期間登場。 在全球供應鏈重組的黃金十年，臺灣企業正站在從...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "",
         "status": "no_page_code",
         "attempts": 1
       }
@@ -1844,32 +1844,12 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 136,
-        "url": "https://www.ctee.com.tw/news/20260727700136-439901",
-        "title": "跟著台商走 公股銀強化海外布局",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 134,
-        "next_serial": 176,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
         "serial": 137,
         "url": "https://www.ctee.com.tw/news/20260727700137-439901",
         "title": "飯店業 搶50億中秋送禮市場",
         "page": "A12",
         "page_code": "A12AA12",
-        "previous_serial": 136,
-        "next_serial": 176,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 148,
-        "url": "https://www.ctee.com.tw/news/20260727700148-439901",
-        "title": "台中百貨 掀品牌軍備賽",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 137,
+        "previous_serial": 134,
         "next_serial": 176,
         "inference_reason": "previous_page_boundary"
       },
@@ -1880,7 +1860,17 @@
         "page": "A12",
         "page_code": "A12AA12",
         "previous_serial": 137,
-        "next_serial": 148,
+        "next_serial": 176,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 136,
+        "url": "https://www.ctee.com.tw/news/20260727700136-439901",
+        "title": "跟著台商走 公股銀強化海外布局",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 134,
+        "next_serial": 137,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1890,7 +1880,117 @@
         "page": "A12",
         "page_code": "A12AA12",
         "previous_serial": 140,
+        "next_serial": 176,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 148,
+        "url": "https://www.ctee.com.tw/news/20260727700148-439901",
+        "title": "台中百貨 掀品牌軍備賽",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 145,
+        "next_serial": 176,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 149,
+        "url": "https://www.ctee.com.tw/news/20260727700149-439901",
+        "title": "邊緣AI智慧手表 今年衝32％",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 148,
+        "next_serial": 176,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 150,
+        "url": "https://www.ctee.com.tw/news/20260727700150-439901",
+        "title": "增你強總裁周友義、增你強董事長陳信義 重塑通路價值",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 149,
+        "next_serial": 176,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 147,
+        "url": "https://www.ctee.com.tw/news/20260727700147-439901",
+        "title": "脫北潮延續 淡水人口吸力最強",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 145,
         "next_serial": 148,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 158,
+        "url": "https://www.ctee.com.tw/news/20260727700158-439901",
+        "title": "預估8月中旬上市 和運租車7/27競拍 每股底價35.59元",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 150,
+        "next_serial": 176,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 154,
+        "url": "https://www.ctee.com.tw/news/20260727700154-439901",
+        "title": "增你強啖AI紅利 多管齊下",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 150,
+        "next_serial": 158,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 162,
+        "url": "https://www.ctee.com.tw/news/20260727700162-439901",
+        "title": "聯成化科 獲TCIA循環經濟成果獎",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 158,
+        "next_serial": 176,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 164,
+        "url": "https://www.ctee.com.tw/news/20260727700164-439901",
+        "title": "工研院 推半導體業淨零轉型",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 162,
+        "next_serial": 176,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 170,
+        "url": "https://www.ctee.com.tw/news/20260727700170-439901",
+        "title": "盟安深耕包裝工具 獲多國認證",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 164,
+        "next_serial": 176,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 160,
+        "url": "https://www.ctee.com.tw/news/20260727700160-439901",
+        "title": "SEMICON Taiwan全球專區 規模創新高",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 158,
+        "next_serial": 162,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 166,
+        "url": "https://www.ctee.com.tw/news/20260727700166-439901",
+        "title": "博太生醫 秀早期失智臨床成果",
+        "page": "A12",
+        "page_code": "A12AA12",
+        "previous_serial": 164,
+        "next_serial": 170,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1904,83 +2004,13 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 147,
-        "url": "https://www.ctee.com.tw/news/20260727700147-439901",
-        "title": "脫北潮延續 淡水人口吸力最強",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 145,
-        "next_serial": 148,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 149,
-        "url": "https://www.ctee.com.tw/news/20260727700149-439901",
-        "title": "邊緣AI智慧手表 今年衝32％",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 148,
-        "next_serial": 176,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 156,
-        "url": "https://www.ctee.com.tw/news/20260727700156-439901",
-        "title": "喬越揪夥 搶資料中心液冷商機",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 149,
-        "next_serial": 176,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 150,
-        "url": "https://www.ctee.com.tw/news/20260727700150-439901",
-        "title": "增你強總裁周友義、增你強董事長陳信義 重塑通路價值",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 149,
-        "next_serial": 156,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 158,
-        "url": "https://www.ctee.com.tw/news/20260727700158-439901",
-        "title": "預估8月中旬上市 和運租車7/27競拍 每股底價35.59元",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 156,
-        "next_serial": 176,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 166,
-        "url": "https://www.ctee.com.tw/news/20260727700166-439901",
-        "title": "博太生醫 秀早期失智臨床成果",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 158,
-        "next_serial": 176,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
         "serial": 168,
         "url": "https://www.ctee.com.tw/news/20260727700168-439901",
         "title": "Fortinet發布OT資安報告 助企業強化韌性",
         "page": "A12",
         "page_code": "A12AA12",
         "previous_serial": 166,
-        "next_serial": 176,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 164,
-        "url": "https://www.ctee.com.tw/news/20260727700164-439901",
-        "title": "工研院 推半導體業淨零轉型",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 158,
-        "next_serial": 166,
+        "next_serial": 170,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1989,19 +2019,9 @@
         "title": "金石門BS-12不鏽鋼拉壓門鎖 抗腐蝕超耐用",
         "page": "A12",
         "page_code": "A12AA12",
-        "previous_serial": 168,
+        "previous_serial": 170,
         "next_serial": 176,
         "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 154,
-        "url": "https://www.ctee.com.tw/news/20260727700154-439901",
-        "title": "增你強啖AI紅利 多管齊下",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 150,
-        "next_serial": 156,
-        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 174,
@@ -2014,33 +2034,13 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 160,
-        "url": "https://www.ctee.com.tw/news/20260727700160-439901",
-        "title": "SEMICON Taiwan全球專區 規模創新高",
+        "serial": 156,
+        "url": "https://www.ctee.com.tw/news/20260727700156-439901",
+        "title": "喬越揪夥 搶資料中心液冷商機",
         "page": "A12",
         "page_code": "A12AA12",
-        "previous_serial": 158,
-        "next_serial": 164,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 162,
-        "url": "https://www.ctee.com.tw/news/20260727700162-439901",
-        "title": "聯成化科 獲TCIA循環經濟成果獎",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 160,
-        "next_serial": 164,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 170,
-        "url": "https://www.ctee.com.tw/news/20260727700170-439901",
-        "title": "盟安深耕包裝工具 獲多國認證",
-        "page": "A12",
-        "page_code": "A12AA12",
-        "previous_serial": 168,
-        "next_serial": 172,
+        "previous_serial": 154,
+        "next_serial": 158,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -2084,14 +2084,14 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 211,
-        "url": "https://www.ctee.com.tw/news/20260727700211-439901",
-        "title": "共信動物抗癌新藥 登兩大國際期刊",
+        "serial": 216,
+        "url": "https://www.ctee.com.tw/news/20260727700216-439901",
+        "title": "日勝生 下半年業績唱高歌",
         "page": "B4",
         "page_code": "A28AB4",
-        "previous_serial": 208,
-        "next_serial": 212,
-        "inference_reason": "same_page_neighbors"
+        "previous_serial": 212,
+        "next_serial": 218,
+        "inference_reason": "previous_page_boundary"
       },
       {
         "serial": 215,
@@ -2100,28 +2100,8 @@
         "page": "B4",
         "page_code": "A28AB4",
         "previous_serial": 212,
-        "next_serial": 218,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 216,
-        "url": "https://www.ctee.com.tw/news/20260727700216-439901",
-        "title": "日勝生 下半年業績唱高歌",
-        "page": "B4",
-        "page_code": "A28AB4",
-        "previous_serial": 215,
-        "next_serial": 218,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 225,
-        "url": "https://www.ctee.com.tw/news/20260727700225-439901",
-        "title": "合晶期貨保證金調高",
-        "page": "B5",
-        "page_code": "A31AB5",
-        "previous_serial": 223,
-        "next_serial": 247,
-        "inference_reason": "previous_page_boundary"
+        "next_serial": 216,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 226,
@@ -2129,7 +2109,7 @@
         "title": "AI伺服器放量 和碩營運回溫",
         "page": "B5",
         "page_code": "A31AB5",
-        "previous_serial": 225,
+        "previous_serial": 223,
         "next_serial": 247,
         "inference_reason": "previous_page_boundary"
       },
@@ -2164,9 +2144,9 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 235,
-        "url": "https://www.ctee.com.tw/news/20260727700235-439901",
-        "title": "奇鋐、台燿 業績展望正向",
+        "serial": 238,
+        "url": "https://www.ctee.com.tw/news/20260727700238-439901",
+        "title": "緯穎 H2成長動能強",
         "page": "B5",
         "page_code": "A31AB5",
         "previous_serial": 232,
@@ -2174,14 +2154,24 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 238,
-        "url": "https://www.ctee.com.tw/news/20260727700238-439901",
-        "title": "緯穎 H2成長動能強",
+        "serial": 225,
+        "url": "https://www.ctee.com.tw/news/20260727700225-439901",
+        "title": "合晶期貨保證金調高",
         "page": "B5",
         "page_code": "A31AB5",
-        "previous_serial": 235,
-        "next_serial": 247,
-        "inference_reason": "previous_page_boundary"
+        "previous_serial": 223,
+        "next_serial": 226,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 235,
+        "url": "https://www.ctee.com.tw/news/20260727700235-439901",
+        "title": "奇鋐、台燿 業績展望正向",
+        "page": "B5",
+        "page_code": "A31AB5",
+        "previous_serial": 232,
+        "next_serial": 238,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 241,
@@ -2194,14 +2184,14 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 255,
-        "url": "https://www.ctee.com.tw/news/20260727700255-439901",
-        "title": "永豐銀 奪數位銀行家六大獎",
-        "page": "C1",
-        "page_code": "A37AC1",
-        "previous_serial": 253,
-        "next_serial": 257,
-        "inference_reason": "previous_page_boundary"
+        "serial": 211,
+        "url": "https://www.ctee.com.tw/news/20260727700211-439901",
+        "title": "共信動物抗癌新藥 登兩大國際期刊",
+        "page": "B4",
+        "page_code": "A28AB4",
+        "previous_serial": 208,
+        "next_serial": 212,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 256,
@@ -2209,18 +2199,8 @@
         "title": "AI續強 柏瑞投信看旺台股下半年",
         "page": "C1",
         "page_code": "A37AC1",
-        "previous_serial": 255,
+        "previous_serial": 253,
         "next_serial": 257,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 268,
-        "url": "https://www.ctee.com.tw/news/20260727700268-439901",
-        "title": "主動式台股ETF 敏捷選股",
-        "page": "C2",
-        "page_code": "A38AC2",
-        "previous_serial": 265,
-        "next_serial": 270,
         "inference_reason": "previous_page_boundary"
       },
       {
@@ -2229,9 +2209,29 @@
         "title": "升息降溫 5種債法人看好",
         "page": "C2",
         "page_code": "A38AC2",
-        "previous_serial": 268,
+        "previous_serial": 265,
         "next_serial": 270,
         "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 255,
+        "url": "https://www.ctee.com.tw/news/20260727700255-439901",
+        "title": "永豐銀 奪數位銀行家六大獎",
+        "page": "C1",
+        "page_code": "A37AC1",
+        "previous_serial": 253,
+        "next_serial": 256,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 268,
+        "url": "https://www.ctee.com.tw/news/20260727700268-439901",
+        "title": "主動式台股ETF 敏捷選股",
+        "page": "C2",
+        "page_code": "A38AC2",
+        "previous_serial": 265,
+        "next_serial": 269,
+        "inference_reason": "same_page_neighbors"
       }
     ],
     "unassigned_articles": [
@@ -2259,45 +2259,12 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 281,
-        "url": "https://www.ctee.com.tw/news/20260727700281-439901",
-        "title": "保發中心主辦 東亞太平洋保險論壇 前瞻保險業新藍圖",
-        "summary": "由保發中心主辦之「2026年東亞太平洋保險論壇」於日前舉行，今年以「前瞻共榮新未來」，邀請來自美國、日及我國產官學界保險領域專家與高階主管，與國內業者與會代表共約275位，共同深入探討保險業在數位轉型、總體經濟投資、綠色金融及超高齡社會下的最新應用、機會與挑戰，為保險業的永續發展建構新藍圖。 金管會...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 284,
         "url": "https://www.ctee.com.tw/news/20260727700284-439901",
         "title": "心源技術研討會 串聯國際",
         "summary": "深耕精密刀桿、刀具及加工應用領域逾四十年的心源工業（SYIC），於7月21日舉辦「SYIC Open House－實現智慧製造技術研討會」，邀請德國、以色列、日本、馬來西亞等國際合作夥伴，以及國內工具機、加工製造、學研單位近百位貴賓齊聚交流，隨著智慧製造、數位轉型及永續發展成為全球製造業重要趨勢下，...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A71ASA1_PictureItem_Clipping_01_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 290,
-        "url": "https://www.ctee.com.tw/news/20260727700290-439901",
-        "title": "馬路科技3D列印 技術領先",
-        "summary": "國內第一家提出RE逆向工程與RP快速原型整體解決方案的馬路科技，今年推出新一代的連續碳纖維增強材料3D列印系統（Markforged）及先進的三次元量測儀（ZEISS SPECTRUM verity），將提供高科技、精密及航太產業更高品質的製程服務及設計。 該公司台灣南區業務經理林祥宏表示，馬路科技...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A72ASA2_PictureItem_Clipping_02_4.jpg",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 288,
-        "url": "https://www.ctee.com.tw/news/20260727700288-439901",
-        "title": "直得S0六軸機械手臂 助力智造",
-        "summary": "在智慧製造領域頗負盛名的直得科技（1597），繼於工商時報所主辦的2026台南自動化機械暨智慧製造展，展出高品質的S0六軸機械手臂引起騷動後，將移師於2026台北國際自動化工業大展，估其專為高科技產業打造的AI系統化機械手臂，將吸引國內外買家駐足參觀。 該公司特助許文璞表示，直得科技系以製造高品質線...",
-        "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A72ASA2_PictureItem_Clipping_01_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -2336,12 +2303,23 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 300,
-        "url": "https://www.ctee.com.tw/news/20260727700300-439901",
-        "title": "億威電子eSAFE平台 降低智慧化門檻",
-        "summary": "2026年台北國際自動化大展即將登場，面對傳統工廠設備老舊、人力短缺及人工巡檢效率有限等問題，億威電子將以eSAFE智慧平台為主軸，整合AI、物聯網、感測設備、流程控管及AI視覺辨識，協助企業串接既有設備與新系統，建立即時監測及異常預警機制，掌握生產現場運作狀況，加速工廠智慧化。 億威電子早期以軍規...",
+        "serial": 288,
+        "url": "https://www.ctee.com.tw/news/20260727700288-439901",
+        "title": "直得S0六軸機械手臂 助力智造",
+        "summary": "在智慧製造領域頗負盛名的直得科技（1597），繼於工商時報所主辦的2026台南自動化機械暨智慧製造展，展出高品質的S0六軸機械手臂引起騷動後，將移師於2026台北國際自動化工業大展，估其專為高科技產業打造的AI系統化機械手臂，將吸引國內外買家駐足參觀。 該公司特助許文璞表示，直得科技系以製造高品質線...",
         "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_04_4.jpg",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A72ASA2_PictureItem_Clipping_01_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 290,
+        "url": "https://www.ctee.com.tw/news/20260727700290-439901",
+        "title": "馬路科技3D列印 技術領先",
+        "summary": "國內第一家提出RE逆向工程與RP快速原型整體解決方案的馬路科技，今年推出新一代的連續碳纖維增強材料3D列印系統（Markforged）及先進的三次元量測儀（ZEISS SPECTRUM verity），將提供高科技、精密及航太產業更高品質的製程服務及設計。 該公司台灣南區業務經理林祥宏表示，馬路科技...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A72ASA2_PictureItem_Clipping_02_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -2358,12 +2336,12 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 294,
-        "url": "https://www.ctee.com.tw/news/20260727700294-439901",
-        "title": "台灣順成新頂針組件 技術再升級",
-        "summary": "面對全球智慧製造朝向高速化、高精度與高可靠度發展，精密零組件的性能已成為影響加工品質與設備穩定性的關鍵。深耕高精密頂針領域逾40年的台灣順成頂針科技研發生產、獲發明專利（專利案號：P-130154）的全新「頂針組件」，透過創新結構設計，有效克服高速加工過程中的摩擦升溫、切削液滲漏及零件磨耗等技術瓶頸...",
+        "serial": 296,
+        "url": "https://www.ctee.com.tw/news/20260727700296-439901",
+        "title": "惠來產業園區 搶企業回台新商機",
+        "summary": "全球AI浪潮持續推升半導體、高效能運算（HPC）、AI伺服器及智慧製造等產業成長，也帶動台灣科技產業再度站上全球供應鏈核心，隨著國際科技大廠持續加碼投資台灣、AI供應鏈擴張，以及全球供應鏈重組與台商回流趨勢延續，企業設廠、擴廠、研發中心及企業總部需求同步升溫，企業選址已不再僅僅考量土地供給，而是更重...",
         "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_01_4.jpg",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_02_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -2380,10 +2358,21 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 304,
-        "url": "https://www.ctee.com.tw/news/20260727700304-439901",
-        "title": "智動化與機器人拓新局 商機分享會8/21登場",
-        "summary": "由經濟部國際貿易署指導主辦，並由財團法人精密機械研究發展中心、中華民國對外貿易發展協會承辦，以及社團法人台灣智慧自動化與機器人協會執行的「趨勢洞察智動化與機器人產業－拓展新局商機分享會」，將於8月21日台北工業自動化展及台灣機器人與智慧自動化展期間登場。 在全球供應鏈重組的黃金十年，臺灣企業正站在從...",
+        "serial": 294,
+        "url": "https://www.ctee.com.tw/news/20260727700294-439901",
+        "title": "台灣順成新頂針組件 技術再升級",
+        "summary": "面對全球智慧製造朝向高速化、高精度與高可靠度發展，精密零組件的性能已成為影響加工品質與設備穩定性的關鍵。深耕高精密頂針領域逾40年的台灣順成頂針科技研發生產、獲發明專利（專利案號：P-130154）的全新「頂針組件」，透過創新結構設計，有效克服高速加工過程中的摩擦升溫、切削液滲漏及零件磨耗等技術瓶頸...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_01_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 281,
+        "url": "https://www.ctee.com.tw/news/20260727700281-439901",
+        "title": "保發中心主辦 東亞太平洋保險論壇 前瞻保險業新藍圖",
+        "summary": "由保發中心主辦之「2026年東亞太平洋保險論壇」於日前舉行，今年以「前瞻共榮新未來」，邀請來自美國、日及我國產官學界保險領域專家與高階主管，與國內業者與會代表共約275位，共同深入探討保險業在數位轉型、總體經濟投資、綠色金融及超高齡社會下的最新應用、機會與挑戰，為保險業的永續發展建構新藍圖。 金管會...",
         "published_at": "2026-07-27 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -2391,12 +2380,12 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 296,
-        "url": "https://www.ctee.com.tw/news/20260727700296-439901",
-        "title": "惠來產業園區 搶企業回台新商機",
-        "summary": "全球AI浪潮持續推升半導體、高效能運算（HPC）、AI伺服器及智慧製造等產業成長，也帶動台灣科技產業再度站上全球供應鏈核心，隨著國際科技大廠持續加碼投資台灣、AI供應鏈擴張，以及全球供應鏈重組與台商回流趨勢延續，企業設廠、擴廠、研發中心及企業總部需求同步升溫，企業選址已不再僅僅考量土地供給，而是更重...",
+        "serial": 307,
+        "url": "https://www.ctee.com.tw/news/20260727700307-439901",
+        "title": "鋐偉油壓工業 研發、客製一把罩",
+        "summary": "專注於研產油壓缸、氣壓缸、氣／油壓元件等專業領域已30餘年的「YONAI」鋐偉油壓工業公司，不僅擁有堅強的研發、客製實力與豐富專業經驗，且是一家擁有齊全零組件自製生產設備的專業廠商，除可有效降低成本外，對於高品質的要求與交期更具掌握性，同時可提供符合業者不同工件加工條件與機台作業環境所需的油封及油壓...",
         "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_02_4.jpg",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A74ASA4_PictureItem_Clipping_04_4.jpg",
         "status": "no_page_code",
         "attempts": 1
       },
@@ -2413,12 +2402,23 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 307,
-        "url": "https://www.ctee.com.tw/news/20260727700307-439901",
-        "title": "鋐偉油壓工業 研發、客製一把罩",
-        "summary": "專注於研產油壓缸、氣壓缸、氣／油壓元件等專業領域已30餘年的「YONAI」鋐偉油壓工業公司，不僅擁有堅強的研發、客製實力與豐富專業經驗，且是一家擁有齊全零組件自製生產設備的專業廠商，除可有效降低成本外，對於高品質的要求與交期更具掌握性，同時可提供符合業者不同工件加工條件與機台作業環境所需的油封及油壓...",
+        "serial": 300,
+        "url": "https://www.ctee.com.tw/news/20260727700300-439901",
+        "title": "億威電子eSAFE平台 降低智慧化門檻",
+        "summary": "2026年台北國際自動化大展即將登場，面對傳統工廠設備老舊、人力短缺及人工巡檢效率有限等問題，億威電子將以eSAFE智慧平台為主軸，整合AI、物聯網、感測設備、流程控管及AI視覺辨識，協助企業串接既有設備與新系統，建立即時監測及異常預警機制，掌握生產現場運作狀況，加速工廠智慧化。 億威電子早期以軍規...",
         "published_at": "2026-07-27 03:00:00",
-        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A74ASA4_PictureItem_Clipping_04_4.jpg",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-27/1024/A73ASA3_PictureItem_Clipping_04_4.jpg",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 304,
+        "url": "https://www.ctee.com.tw/news/20260727700304-439901",
+        "title": "智動化與機器人拓新局 商機分享會8/21登場",
+        "summary": "由經濟部國際貿易署指導主辦，並由財團法人精密機械研究發展中心、中華民國對外貿易發展協會承辦，以及社團法人台灣智慧自動化與機器人協會執行的「趨勢洞察智動化與機器人產業－拓展新局商機分享會」，將於8月21日台北工業自動化展及台灣機器人與智慧自動化展期間登場。 在全球供應鏈重組的黃金十年，臺灣企業正站在從...",
+        "published_at": "2026-07-27 03:00:00",
+        "image_url": "",
         "status": "no_page_code",
         "attempts": 1
       }
