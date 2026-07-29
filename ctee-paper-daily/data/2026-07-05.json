@@ -1,0 +1,621 @@
+{
+  "source": "ctee.com.tw",
+  "date": "2026-07-05",
+  "generated_at": "2026-07-30T00:15:39+08:00",
+  "target_pages": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5",
+    "A6",
+    "A7",
+    "A8",
+    "A9",
+    "A10",
+    "A11",
+    "A12",
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5",
+    "C1",
+    "C2",
+    "C3"
+  ],
+  "stats": {
+    "article_count": 39,
+    "filled_page_count": 8,
+    "empty_page_count": 12
+  },
+  "pages": {
+    "A1": [
+      {
+        "serial": 19,
+        "title": "台股土洋大對決！18檔投信口袋股來了 這檔獲連31買",
+        "url": "https://www.ctee.com.tw/news/20260705700019-439901",
+        "page_code": "A01AA1",
+        "summary": "台股反彈行情自6月29日啟動，指數持續向歷史新高48,218.87點靠攏，攻高過程中，投信堅守多方堡壘，出現連九買，相較過去9個交易日僅買超一日的外資，形成強烈對比。市場專家表示，土洋展開大對決，投信成為台股多頭總司令的撐盤要角，包括第一金、兆豐金等公股銀行在內的18檔投信連九買股，擁有籌碼面優勢，...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A01AA1_PictureItem_Clipping_01_5.jpg"
+      },
+      {
+        "serial": 22,
+        "title": "科技業免受缺水之苦！「珍珠串計畫」北中南跨區供水 卓揆：一條水管救了全世界",
+        "url": "https://www.ctee.com.tw/news/20260705700022-439901",
+        "page_code": "A01AA1",
+        "summary": "珍珠串調度水庫功效行政院長卓榮泰4日表示，經濟部水利署在全台推動「珍珠串計畫」，避免高科技產業因水資源不足發生生產危機，成就「一條水管救了全世界」之名，更希望透過「珍珠串計畫」，藉由北中南供水區域跨區調度，建立全台供水韌性系統，讓「一串珍珠成就全世界」，促進全球經濟發展，落實「均衡台灣」理念，讓每個...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A01AA1_PictureItem_Clipping_02_4.jpg"
+      },
+      {
+        "serial": 25,
+        "title": "中國、美光、蘋果雜音不斷 南亞科靠DDR4扛得住？10日法說成記憶體景氣風向球",
+        "url": "https://www.ctee.com.tw/news/20260705700025-439901",
+        "page_code": "A01AA1",
+        "summary": "記憶體族群近期表現震盪加劇，記憶體製造大廠南亞科3日繳出的6月營收數字，剛以創歷史新高的數據破除市場雜音，公司將於10日舉行法說會，為市場觀察記憶體景氣及下半年展望的風向球。 南亞科6月合併營收293.88億元，月增6.21％、年增621.34％，續創單月歷史新高，第二季營收825.49億元，季增6...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": ""
+      }
+    ],
+    "A2": [
+      {
+        "serial": 26,
+        "title": "能源通膨落幕，AI通膨又起的隱憂",
+        "url": "https://www.ctee.com.tw/news/20260705700026-439901",
+        "page_code": "A02AA2",
+        "summary": "隨著美伊達成停火協議框架、荷姆茲海峽重新開放，國際油價迅速回落，對外界而言，這似乎意味困擾聯準會多時的通膨難題終於迎刃而解。然而，現實恐怕沒那麼樂觀；儘管油價壓力正在消退，但「AI通膨」卻緊接而來，這場通膨夢魘在短期內恐怕還揮之不去。 即便目前油價多已回落至戰前水準，美債殖利率依然居高不下、美元持續...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A02AA2_PictureItem_Clipping_01_4.jpg"
+      },
+      {
+        "serial": 28,
+        "title": "記憶體Q3合約價再飆！三大原廠握主導權 DRAM漲幅上看20％、NAND續漲35％～40％",
+        "url": "https://www.ctee.com.tw/news/20260705700028-439901",
+        "page_code": "A02AA2",
+        "summary": "AI需求帶動記憶體供需緊張，全球記憶體市場第三季合約價漲幅，將高於預期！業界指出，三星電子啟動第三季DRAM合約價格協商，平均產品目標漲幅上看20％；NAND Flash價格將續漲至35％～40％。 SK海力士尚未公布DRAM第三季合約價，據業界消息指稱，應較三星漲幅更高。 業者表示，今年記憶體市場...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A02AA2_PictureItem_Clipping_02_5.jpg"
+      },
+      {
+        "serial": 31,
+        "title": "蘋果搶先布局！UMA突破AI記憶體牆 晶片巨頭為何都在發展「算顯合一」架構？",
+        "url": "https://www.ctee.com.tw/news/20260705700031-439901",
+        "page_code": "A02AA2",
+        "summary": "生成式AI快速發展，大型語言模型（LLM）對運算效能與記憶體容量需求大幅提升，促使半導體產業加速朝「算顯合一（Compute and Graphics Integration）」架構發展。 其中，統一記憶體架構（Unified Memory Architecture，UMA）因可讓CPU與GPU，共...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A02AA2_PictureItem_Clipping_03_4.jpg"
+      },
+      {
+        "serial": 34,
+        "title": "華為韜定律V2 釋出量產實測數據",
+        "url": "https://www.ctee.com.tw/news/20260705700034-439901",
+        "page_code": "A02AA2",
+        "summary": "為尋求美國半導體封鎖下的技術突破，中國科技巨頭華為晶片技術再傳新進展。華為半導體業務總裁何庭波3日在ChinaXiv平台上，發表「面向多層級電子系統的時間縮微理論」V2版本。這份被業界稱為「韜定律」的論文，距離V1版本公布僅隔一個多月，就由理論架構跨到工程實證，為突破現有工藝規畫出全新技術路徑，引發...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A02AA2_PictureItem_Clipping_04_3.jpg"
+      },
+      {
+        "serial": 36,
+        "title": "AI綠領職缺 五年增逾2倍",
+        "url": "https://www.ctee.com.tw/news/20260705700036-439901",
+        "page_code": "A02AA2",
+        "summary": "AI快速導入各行各業，也重新定義綠領工作的樣貌。最新報告指出，AI綠領工作機會五年間成長超過2倍。AI也逐步融入碳盤查、設備維護、智慧製造及綠色產品開發等工作流程，企業對人才的期待已從單一專業能力，提升為兼具AI應用與綠領知識的跨域能力。 環境部4日攜手104人力銀行，發布《2026上半年綠領人才就...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A02AA2_Table_Clipping_05_4.jpg"
+      },
+      {
+        "serial": 38,
+        "title": "企業搶才 聚焦新雙主軸",
+        "url": "https://www.ctee.com.tw/news/20260705700038-439901",
+        "page_code": "A02AA2",
+        "summary": "從職涯博覽會觀察企業招募趨勢，104人力銀行人才永續長鍾文雄4日分析，AI與綠色經濟為企業招募的雙軸線，85％參展企業提供AI職缺、73％企業提供綠領工作，不同產業的公司爭搶AI研發、應用人才，而淨零轉型與永續發展成為企業重要課題，推升綠領人才的需求熱度，整體綠領工作機會達近3萬個，創下10年新高，...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": ""
+      }
+    ],
+    "A3": [
+      {
+        "serial": 39,
+        "title": "現金股息活水7月湧現！台股前十大派息王出列 入帳日一次掌握",
+        "url": "https://www.ctee.com.tw/news/20260705700039-439901",
+        "page_code": "A03AA3",
+        "summary": "台股前十大派息王出列台股進入除權息旺季，現金股息活水7月陸續湧現。經統計，去年度現金股利發放總額排名前10大的個股中，有7檔確定7月入帳，尤以預訂7月9日正式發放股息並匯入股東交割帳戶的台積電，最受市場關注，初估光此一檔，就可望為台股7月注入1,555.95億元的資金活水，為支撐台股7月行情不看淡的...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A03AA3_PictureItem_Clipping_01_5.jpg"
+      },
+      {
+        "serial": 42,
+        "title": "13檔高含積ETF 績效超車大盤",
+        "url": "https://www.ctee.com.tw/news/20260705700042-439901",
+        "page_code": "A03AA3",
+        "summary": "13檔高含積量台股ETF績效表現美國就業數字不如預期，升息預期減弱，半導體股又因Meta可能出售或出租多餘AI算力，市場賣壓湧現，美股屢現疲弱走勢，一向與美股緊密連動的台股，卻在此時走上反彈之旅，權王台積電重掌多頭兵符，含積量占4成以上的13檔台股原型ETF受此牽動，新光臺灣半導體30（00904）...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A03AA3_PictureItem_Clipping_02_4.jpg"
+      },
+      {
+        "serial": 45,
+        "title": "生技月點火 三題材齊發 概念股按讚",
+        "url": "https://www.ctee.com.tw/news/20260705700045-439901",
+        "page_code": "A03AA3",
+        "summary": "亞洲生技大會15日登場，生技月行情發酵。新藥藥證、併購及獲獎三大題材連發，以藥華藥為首的25家生技企業強勢表態，於AI資金輪動下成為市場新焦點，主掌7月資本市場大旗。 今年第二季堪稱新藥產業「收割期」。初步統計，自4月以來已有藥華藥、仁新旗下Belite Bio、泰合、基亞、仲恩、高端疫苗、漢達、寶...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A03AA3_Table_Clipping_03_4.jpg"
+      },
+      {
+        "serial": 47,
+        "title": "國銀H2投資 強調股債均衡",
+        "url": "https://www.ctee.com.tw/news/20260705700047-439901",
+        "page_code": "A03AA3",
+        "summary": "銀行業看下半年投資變數與建議2026年上半年的全球金融市場，歷經美國關稅政策、地緣政治衝突等多重干擾，展望下半年，多家銀行認為，市場仍將面臨聯準會貨幣政策、企業獲利表現及地緣政治發展三大變數考驗，建議從上半年的積極布局，轉向兼顧風險控管與收益的「股債均衡」配置。 投資方面，玉山銀看好AI長線趨勢，認...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A03AA3_PictureItem_Clipping_04_4.jpg"
+      },
+      {
+        "serial": 50,
+        "title": "外銀挺科技股 AI仍是主旋律",
+        "url": "https://www.ctee.com.tw/news/20260705700050-439901",
+        "page_code": "A03AA3",
+        "summary": "全球市場下半年大環境，將以延續「軟著陸」與「高利率常態化」為主軸。綜合外銀看法，投資焦點回歸基本面。其中，AI相關投資與科技創新，成為驅動股票市場的主動能；債市方面，建議鎖定投資等級債與新興市場美元債，透過多元資產配置，提升投資組合韌性。 渣打銀指出，全球股市年初至今上漲逾12％，這股樂觀情緒有望延...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": ""
+      },
+      {
+        "serial": 51,
+        "title": "期待又怕受傷害的多頭格局",
+        "url": "https://www.ctee.com.tw/news/20260705700051-439901",
+        "page_code": "A03AA3",
+        "summary": "6月國際股市延續5月偏多格局，多數市場以上漲作收，費半指數大漲11.1％表現最佳，日股漲幅5.6％居亞股之冠，應與日圓續貶帶動出口成長有關。台股6月收漲3.1％，漲幅在亞股中僅次於日股，在全球股市居前段。 值得留意是的6月美股表現歧異較大，費半大漲11.1％，但NASDAQ與標普500指數逆勢下跌2...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": ""
+      }
+    ],
+    "A4": [
+      {
+        "serial": 52,
+        "title": "美股資金急撤 逾3個月最大規模",
+        "url": "https://www.ctee.com.tw/news/20260705700052-439901",
+        "page_code": "A04AA4",
+        "summary": "對AI晶片股估值過高的疑慮，讓市場情緒出現轉變，美國銀行（BoA）數據顯示，投資人急從美股撤出，創三個多月來最大淨流出。其中部分資金轉向日股，寫下七周來最大淨流入。 美銀首席策略師哈特奈特（Michael Hartnett）領銜的分析團隊，在報告中引述EPFR Global數據指出，截至7月1日當周...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A04AA4_PictureItem_Clipping_01_5.jpg"
+      },
+      {
+        "serial": 54,
+        "title": "全球央行狂掃黃金！摩根大通卻看衰金市 大砍目標價至4,500美元",
+        "url": "https://www.ctee.com.tw/news/20260705700054-439901",
+        "page_code": "A04AA4",
+        "summary": "全球央行每月淨買黃金數量儘管國際金價連續數月回檔，全球央行仍持續增持黃金儲備。據世界黃金協會（WGC）報告，5月全球央行淨購黃金量達41噸，波蘭、中國還是主要買家。不過，摩根大通看衰金市前景，將年底目標價從6,000美元大幅下修至4,500美元。 WGC數據顯示，受土耳其大舉拋售黃金儲備影響，全球央...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A04AA4_PictureItem_Clipping_02_4.jpg"
+      },
+      {
+        "serial": 57,
+        "title": "美光砸1.5兆日圓 擴建廣島晶片廠",
+        "url": "https://www.ctee.com.tw/news/20260705700057-439901",
+        "page_code": "A04AA4",
+        "summary": "美國記憶體大廠美光4日在日本廣島市啟動工廠擴建計畫。該計畫投資總額約1.5兆日圓（約93億美元），將用於生產AI所需的高階記憶體晶片。 據報導指出，這條新生產線專注於生產高頻寬記憶體（HBM）等關鍵晶片，製造設備進駐與安裝預計於2028年下半年開始。日本經濟產業省已撥款5千億日圓來協助支付相關費用，...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A04AA4_PictureItem_Clipping_03_4.jpg"
+      },
+      {
+        "serial": 59,
+        "title": "熱浪來襲 美電網商PJM拉警報",
+        "url": "https://www.ctee.com.tw/news/20260705700059-439901",
+        "page_code": "A04AA4",
+        "summary": "超級熱浪席捲美國，全美約一半人口受極端高溫威脅，獨立紀念日慶祝活動被迫延遲或取消，美國人的旅遊行程也被打亂。酷熱天候更讓美國電網供電拉警報，營運商已緊急要求用戶節電，電價隨用電量激增飆漲。 美國國家氣象局（NWS）預測，氣溫將飆升至華氏105度（攝氏40.5度），部分地區甚至可能創下單日、單月或歷史...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": ""
+      },
+      {
+        "serial": 60,
+        "title": "何庭波發表「韜定律」 震撼半導體界",
+        "url": "https://www.ctee.com.tw/news/20260705700060-439901",
+        "page_code": "A04AA4",
+        "summary": "何庭波小檔案2003年，何庭波被任命為華為晶片研發負責人，這位年輕的工程師被賦予金額達4億美元的年度預算，以及一項最終推著她承擔中國最重要科技核心的重責大任。20多年後，何庭波在中國科技界已被譽為華為的「晶片女王」（chip queen），並成為華為最重要的高層之一，她更成為中國致力克服美國制裁、建...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A04AA4_PictureItem_Clipping_05_5.jpg"
+      }
+    ],
+    "A5": [
+      {
+        "serial": 65,
+        "title": "陸碳酸鋰期貨 境外交易准入",
+        "url": "https://www.ctee.com.tw/news/20260705700065-439901",
+        "page_code": "A05AA5",
+        "summary": "一年來大陸碳酸鋰期貨價格走勢大陸碳酸鋰期貨市場步入全球資本同場競技的新階段。廣州期貨交易所碳酸鋰期貨及期權近日正式引入境外交易者參與交易。分析人士表示，廣期所引入境外交易者主要目的之一，在於爭奪全球鋰資源的國際定價話語權，並進一步完善國內碳酸鋰期貨市場的對外開放布局。 中國在全球鋰資源加工、電池製造...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A05AA5_PictureItem_Clipping_01_2.jpg"
+      },
+      {
+        "serial": 69,
+        "title": "鵬鼎砸百億人民幣 攻AI算力商機",
+        "url": "https://www.ctee.com.tw/news/20260705700069-439901",
+        "page_code": "A05AA5",
+        "summary": "全球印刷電路板（PCB）龍頭臻鼎旗下鵬鼎控股3日晚間公布，向特定對象發行A股股票預案，擬募資不超過人民幣（下同）96億元，將全額投入江蘇淮安慶鼎AI伺服器及高速光模組高密度互連積層板項目，該項目總投資額達127.3億元，全力搶攻AI算力商機。 證券時報報導，隨著算力需求全面爆發，鵬鼎控股持續擴大高階...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A05AA5_Table_Clipping_02_4.jpg"
+      },
+      {
+        "serial": 71,
+        "title": "20年霸主防線快失守！康寧兩項核心專利年底到期 玻璃基板市場迎「制度性轉折」",
+        "url": "https://www.ctee.com.tw/news/20260705700071-439901",
+        "page_code": "A05AA5",
+        "summary": "據陸媒報導，大陸封裝供應鏈正企圖利用康寧兩項玻璃基板專利，即將到期的戰略機遇，全力發展半導體玻璃封裝產業。分析指出，儘管康寧仍是全球玻璃產業霸主，但難以再利用「專利牆」，將中國企業擋在半導體玻璃的賽道外。 隨著AI晶片尺寸與算力需求呈現指數級增長，玻璃基板憑藉優異特性，解決傳統矽中介層與有機載板的瓶...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": ""
+      },
+      {
+        "serial": 72,
+        "title": "世界盃催熱AI、AR眼鏡 深圳華強北狂吸海外客",
+        "url": "https://www.ctee.com.tw/news/20260705700072-439901",
+        "page_code": "A05AA5",
+        "summary": "隨著美墨加世界盃熱度升高，消費者持續升級觀賽設備，其中，人工智慧（AI）眼鏡與擴增實境（AR）眼鏡需求明顯增長，全球規模最大的3C電子產品集散地華強北，也迎接許多海外客。數據顯示，世界盃開賽以來，華強北的海外消費者人流較去年同期成長10％以上。 據大陸央視財經報導，世界盃期間的海外市場客群，除個人買...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A05AA5_PictureItem_Clipping_04_4.jpg"
+      },
+      {
+        "serial": 74,
+        "title": "電動車保值率 特斯拉狠甩中國車企",
+        "url": "https://www.ctee.com.tw/news/20260705700074-439901",
+        "page_code": "A05AA5",
+        "summary": "儘管中國電動車市場幾乎被本土車企占據，但從保值率看，特斯拉狠甩中國車企。中國汽車流通協會近日公布3年車齡純電動車保值率榜單，特斯拉包攬前三名，其中前兩名保值率高達6成。榜單後段班本土品牌保值率則落在47％左右，與特斯拉有明顯差異。報告指出，主要原因在於二手流通量與市場認可度。 快科技報導，中汽協公布...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A05AA5_PictureItem_Clipping_05_3.jpg"
+      },
+      {
+        "serial": 76,
+        "title": "全球股市風向轉變 新興亞洲成布局焦點",
+        "url": "https://www.ctee.com.tw/news/20260705700076-439901",
+        "page_code": "A05AA5",
+        "summary": "全球資本市場過去兩年以來，高度集中於美國大型科技股，但隨著市場對高評價與獲利持續性的檢驗升高，全球股市的報酬結構，似逐漸出現轉變。相較成熟市場成長動能放緩，新興市場憑藉較高經濟成長率、企業獲利上修及產業升級趨勢，逐步成為全球資產配置的重要方向。 過去16年，美股一直主導全球市場表現。自2010年來，...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": ""
+      }
+    ],
+    "A6": [
+      {
+        "serial": 77,
+        "title": "銀髮族保險 走向生活支援",
+        "url": "https://www.ctee.com.tw/news/20260705700077-439901",
+        "page_code": "A06AA6",
+        "summary": "產險銀髮商品與高齡保障布局台灣邁入超高齡社會，銀髮族保障需求已從事故後理賠，延伸至醫療補強、照護支援、行動安全與居家防災，推動產險業加速布局「銀髮保險及服務」新商機。 隨著高齡人口增加及生活型態改變，長者面臨的風險更加多元。除跌倒、住院、復健與看護支出外，輔具使用、居家安全、認知功能退化、財產損失及...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A06AA6_PictureItem_Clipping_01_5.jpg"
+      },
+      {
+        "serial": 80,
+        "title": "高齡保單戰 最高續保至90歲",
+        "url": "https://www.ctee.com.tw/news/20260705700080-439901",
+        "page_code": "A06AA6",
+        "summary": "銀髮族保障需求持續擴大，產險業也加速調整商品設計。從目前市場布局來看，高齡傷害險不僅放寬初次投保年齡，部分商品最高可續保至85歲，兆豐保險銀髮專屬商品更可續保至90歲，高齡保障已成產險業新競爭戰場。 兆豐保險目前提供「幸福花甲Plus」、「樂齡無憂」及「銀髮錦囊」等銀髮專屬商品，投保年齡為60至80...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A06AA6_PictureItem_Clipping_02_4.jpg"
+      },
+      {
+        "serial": 82,
+        "title": "退休族愛旅行 保障延伸海外",
+        "url": "https://www.ctee.com.tw/news/20260705700082-439901",
+        "page_code": "A06AA6",
+        "summary": "高齡族群健康狀況改善，退休後旅遊與日常活動增加，銀髮保險需求也從居家與醫療保障，逐步延伸至旅遊、交通、海外急難救助及行動安全。如何補足長者出遊及外出風險，正成為產險業拓展銀髮市場的新方向。 南山產險表示，該公司目前雖未推出銀髮族專屬商品，但已將「金平安」旅行綜合保險開放最高85歲民眾投保，讓高齡族群...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": ""
+      }
+    ],
+    "A7": [
+      {
+        "serial": 84,
+        "title": "雄獅旅遊總經理暨公關發言人賴一青 靠企業獎旅 打造第二成長曲線",
+        "url": "https://www.ctee.com.tw/news/20260705700084-439901",
+        "page_code": "A07AA7",
+        "summary": "雄獅旅遊2025年繳出營收300.28億元、每股稅後純益（EPS）17.49元的歷史新高成績。外界歸因於「報復性旅遊」，雄獅旅遊總經理暨公關發言人賴一青直言：「真正的勝負，在疫情三年就已決定。」 在雄獅34年，1992年進入雄獅，賴一青從基層起步始，歷經企劃、線控到業務拓展，靠著責任感與使命必達的執...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A07AA7_PictureItem_Clipping_01_4.jpg"
+      },
+      {
+        "serial": 86,
+        "title": "25年金融跨界歷練… 滙豐張凱引領亞洲財管",
+        "url": "https://www.ctee.com.tw/news/20260705700086-439901",
+        "page_code": "A07AA7",
+        "summary": "「亞洲已成為全球財富成長的重要引擎，也是滙豐全球財富管理布局的核心市場。」滙豐國際財富管理及卓越理財業務亞洲地區董事總經理張凱接受訪問時，語氣沉穩卻充滿自信的說著。 隨著亞洲財富快速崛起，滙豐持續擴大區域布局、完善財富管理服務版圖，逐步奠定亞洲財管機構的領先地位，而張凱正是推動這項布局的重要領導者。...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A07AA7_PictureItem_Clipping_02_4.jpg"
+      },
+      {
+        "serial": 88,
+        "title": "球王梅西 世界盃締造無瑕傳奇",
+        "url": "https://www.ctee.com.tw/news/20260705700088-439901",
+        "page_code": "A07AA7",
+        "summary": "談到足球，誰是你心中的「GOAT」（Greatest Of All Time，史上最強）呢？有的人說是「球王」比利（Pele），有的人認為是「馬拉度納」（Diego Maradona），也有的人認為是梅西（Lionel Messi），不過在梅西達成史無前例的世界盃連7場進球、總進球數18顆後，梅西是...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A07AA7_PictureItem_Clipping_03_4.jpg"
+      },
+      {
+        "serial": 90,
+        "title": "人事異動站　6月26日至7月2日",
+        "url": "https://www.ctee.com.tw/news/20260705700090-439901",
+        "page_code": "A07AA7",
+        "summary": "一、工商企業 ◎凌巨科技董事長田村隆幸卸任，由向富棋新任。 ◎三能食品器具董事長張心怡卸任，由張志豪新任。 ◎台灣業旺董事長、發言人陳清土卸任，由陳坤木新任，總經理陳坤木卸任，由陳坤松新任。 ◎大華建設董事長鄭斯聰卸任，由吳裕國新任。 ◎彬台科技總裁由洪振攀新任，董事長洪振攀卸任，由洪健峰新任，財務...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": ""
+      }
+    ],
+    "A8": [
+      {
+        "serial": 91,
+        "title": "2026投資新趨勢系列講座 7/25登場",
+        "url": "https://www.ctee.com.tw/news/20260705700091-439901",
+        "page_code": "A08AA8",
+        "summary": "2026投資新趨勢系列講座活動QR code。圖／證基會提供為協助民眾掌握資本市場最新發展、了解金融新制度與新商品，提升投資理財知識及資產配置能力，由臺灣證券交易所等證券期貨周邊單位共同主辦的「2026投資新趨勢系列講座」，將於7月25日（星期六）下午2時30分，在新北市板橋區民權路88號3樓（新板...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A08AA8_PictureItem_Clipping_01_4.jpg"
+      },
+      {
+        "serial": 94,
+        "title": "龍騰生技推第二代毒品唾液檢測試劑",
+        "url": "https://www.ctee.com.tw/news/20260705700094-439901",
+        "page_code": "A08AA8",
+        "summary": "面對新興毒品型態日益多元，快速且精準的毒品篩檢技術已成為維護公共安全的重要工具。國內生技檢測品牌龍騰生技股份有限公司日前正式發表「第二代龍騰毒品唾液檢測試劑」，產品由台灣自主研發、設計與製造，在體積、操作便利性、檢測速度及判讀精準度等方面全面升級，並於內部測試中展現偽陽性率趨近於零的成果，為毒品防制...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A08AA8_PictureItem_Clipping_02_3.jpg"
+      },
+      {
+        "serial": 96,
+        "title": "新富時代ESG趨勢 范蠡論壇談商聖富貴學",
+        "url": "https://www.ctee.com.tw/news/20260705700096-439901",
+        "page_code": "A08AA8",
+        "summary": "AI產業帶動台灣高資產人口持續增加，但財富快速累積的同時，也伴隨企業永續、家族傳承、風險管理及領導決策等考驗。由獅子吼文化、銘傳大學共同舉辦的「范蠡：捨得、哲學與領導」論壇，從跨學科角度取經商聖陶朱公的致富哲學，深度探討春秋時期范蠡思想與現代社會的連結。 論壇除邀請學者從文學與歷史角度剖析范蠡思想外...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A08AA8_PictureItem_Clipping_03_2.jpg"
+      },
+      {
+        "serial": 98,
+        "title": "ABV日式居酒館 強打岐阜美食祭",
+        "url": "https://www.ctee.com.tw/news/20260705700098-439901",
+        "page_code": "A08AA8",
+        "summary": "位於日本本州中央的岐阜縣，擁有飛驒山脈、長良川流域及豐富森林資源，孕育出獨具特色的山城飲食文化。為讓台灣消費者認識日本地方料理魅力，ABV日式居酒館推出期間限定「岐阜美食祭」，9月30日前限時供應，精選飛驒高山、下呂、多治見、郡上等地代表性料理，並分為兩個檔期呈現地方風味。 第一彈自即日起至7月31...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A08AA8_PictureItem_Clipping_04_3.jpg"
+      },
+      {
+        "serial": 100,
+        "title": "樂天皇朝 祭限定夏日可可饗宴",
+        "url": "https://www.ctee.com.tw/news/20260705700100-439901",
+        "page_code": "A08AA8",
+        "summary": "新加坡人氣中餐品牌樂天皇朝自即日起至8月30日，推出期間限定「眾神的夏日可可饗宴」，五款以可可入菜的創意料理，顛覆可可僅運用於甜點的既定印象，巧妙融入中式料理。歡慶新品上市，7月17日前，平日凡點購任一道新品，即享第二道新品8折優惠，邀請消費者體驗可可結合中菜的全新風貌。 此次新品以「杜拜巧克力小籠...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A08AA8_PictureItem_Clipping_05_2.jpg"
+      },
+      {
+        "serial": 102,
+        "title": "西武獅攜統一獅 辦台日交流賽",
+        "url": "https://www.ctee.com.tw/news/20260705700102-439901",
+        "page_code": "A08AA8",
+        "summary": "日本西武獅攜手中華職棒統一7-ELEVEn獅，將於2027年2月27日至28日在台北大巨蛋舉辦「SEIBU LIONS TAIWAN SERIES－LEGENDS GAME－」交流賽，由埼玉西武獅對戰統一獅，並首度結合傳奇OB賽。發布會邀請有「東方特快車」之稱的郭泰源，以及西武獅退役名將渡邊久信、潮...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "https://images.ctee.com.tw/newsphoto/2026-07-05/1024/A08AA8_PictureItem_Clipping_06_2.jpg"
+      }
+    ],
+    "A9": [],
+    "A10": [],
+    "A11": [],
+    "A12": [],
+    "B1": [],
+    "B2": [],
+    "B3": [],
+    "B4": [],
+    "B5": [],
+    "C1": [],
+    "C2": [],
+    "C3": []
+  },
+  "errors": [],
+  "diagnostics": {
+    "errors": [],
+    "counters": {
+      "serials_scanned": 2500,
+      "not_found_count": 2461,
+      "fetch_failure_count": 0,
+      "parse_failure_count": 9,
+      "retry_success_count": 0,
+      "inferred_page_count": 9
+    },
+    "fetch_failures": [],
+    "parse_failures": [
+      {
+        "kind": "parse_failure",
+        "serial": 25,
+        "url": "https://www.ctee.com.tw/news/20260705700025-439901",
+        "title": "中國、美光、蘋果雜音不斷 南亞科靠DDR4扛得住？10日法說成記憶體景氣風向球",
+        "summary": "記憶體族群近期表現震盪加劇，記憶體製造大廠南亞科3日繳出的6月營收數字，剛以創歷史新高的數據破除市場雜音，公司將於10日舉行法說會，為市場觀察記憶體景氣及下半年展望的風向球。 南亞科6月合併營收293.88億元，月增6.21％、年增621.34％，續創單月歷史新高，第二季營收825.49億元，季增6...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 38,
+        "url": "https://www.ctee.com.tw/news/20260705700038-439901",
+        "title": "企業搶才 聚焦新雙主軸",
+        "summary": "從職涯博覽會觀察企業招募趨勢，104人力銀行人才永續長鍾文雄4日分析，AI與綠色經濟為企業招募的雙軸線，85％參展企業提供AI職缺、73％企業提供綠領工作，不同產業的公司爭搶AI研發、應用人才，而淨零轉型與永續發展成為企業重要課題，推升綠領人才的需求熱度，整體綠領工作機會達近3萬個，創下10年新高，...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 51,
+        "url": "https://www.ctee.com.tw/news/20260705700051-439901",
+        "title": "期待又怕受傷害的多頭格局",
+        "summary": "6月國際股市延續5月偏多格局，多數市場以上漲作收，費半指數大漲11.1％表現最佳，日股漲幅5.6％居亞股之冠，應與日圓續貶帶動出口成長有關。台股6月收漲3.1％，漲幅在亞股中僅次於日股，在全球股市居前段。 值得留意是的6月美股表現歧異較大，費半大漲11.1％，但NASDAQ與標普500指數逆勢下跌2...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 59,
+        "url": "https://www.ctee.com.tw/news/20260705700059-439901",
+        "title": "熱浪來襲 美電網商PJM拉警報",
+        "summary": "超級熱浪席捲美國，全美約一半人口受極端高溫威脅，獨立紀念日慶祝活動被迫延遲或取消，美國人的旅遊行程也被打亂。酷熱天候更讓美國電網供電拉警報，營運商已緊急要求用戶節電，電價隨用電量激增飆漲。 美國國家氣象局（NWS）預測，氣溫將飆升至華氏105度（攝氏40.5度），部分地區甚至可能創下單日、單月或歷史...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 50,
+        "url": "https://www.ctee.com.tw/news/20260705700050-439901",
+        "title": "外銀挺科技股 AI仍是主旋律",
+        "summary": "全球市場下半年大環境，將以延續「軟著陸」與「高利率常態化」為主軸。綜合外銀看法，投資焦點回歸基本面。其中，AI相關投資與科技創新，成為驅動股票市場的主動能；債市方面，建議鎖定投資等級債與新興市場美元債，透過多元資產配置，提升投資組合韌性。 渣打銀指出，全球股市年初至今上漲逾12％，這股樂觀情緒有望延...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 71,
+        "url": "https://www.ctee.com.tw/news/20260705700071-439901",
+        "title": "20年霸主防線快失守！康寧兩項核心專利年底到期 玻璃基板市場迎「制度性轉折」",
+        "summary": "據陸媒報導，大陸封裝供應鏈正企圖利用康寧兩項玻璃基板專利，即將到期的戰略機遇，全力發展半導體玻璃封裝產業。分析指出，儘管康寧仍是全球玻璃產業霸主，但難以再利用「專利牆」，將中國企業擋在半導體玻璃的賽道外。 隨著AI晶片尺寸與算力需求呈現指數級增長，玻璃基板憑藉優異特性，解決傳統矽中介層與有機載板的瓶...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 76,
+        "url": "https://www.ctee.com.tw/news/20260705700076-439901",
+        "title": "全球股市風向轉變 新興亞洲成布局焦點",
+        "summary": "全球資本市場過去兩年以來，高度集中於美國大型科技股，但隨著市場對高評價與獲利持續性的檢驗升高，全球股市的報酬結構，似逐漸出現轉變。相較成熟市場成長動能放緩，新興市場憑藉較高經濟成長率、企業獲利上修及產業升級趨勢，逐步成為全球資產配置的重要方向。 過去16年，美股一直主導全球市場表現。自2010年來，...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 82,
+        "url": "https://www.ctee.com.tw/news/20260705700082-439901",
+        "title": "退休族愛旅行 保障延伸海外",
+        "summary": "高齡族群健康狀況改善，退休後旅遊與日常活動增加，銀髮保險需求也從居家與醫療保障，逐步延伸至旅遊、交通、海外急難救助及行動安全。如何補足長者出遊及外出風險，正成為產險業拓展銀髮市場的新方向。 南山產險表示，該公司目前雖未推出銀髮族專屬商品，但已將「金平安」旅行綜合保險開放最高85歲民眾投保，讓高齡族群...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 90,
+        "url": "https://www.ctee.com.tw/news/20260705700090-439901",
+        "title": "人事異動站　6月26日至7月2日",
+        "summary": "一、工商企業 ◎凌巨科技董事長田村隆幸卸任，由向富棋新任。 ◎三能食品器具董事長張心怡卸任，由張志豪新任。 ◎台灣業旺董事長、發言人陳清土卸任，由陳坤木新任，總經理陳坤木卸任，由陳坤松新任。 ◎大華建設董事長鄭斯聰卸任，由吳裕國新任。 ◎彬台科技總裁由洪振攀新任，董事長洪振攀卸任，由洪健峰新任，財務...",
+        "published_at": "2026-07-05 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      }
+    ],
+    "retry_successes": [],
+    "inferred_page_articles": [
+      {
+        "serial": 25,
+        "url": "https://www.ctee.com.tw/news/20260705700025-439901",
+        "title": "中國、美光、蘋果雜音不斷 南亞科靠DDR4扛得住？10日法說成記憶體景氣風向球",
+        "page": "A1",
+        "page_code": "A01AA1",
+        "previous_serial": 22,
+        "next_serial": 26,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 38,
+        "url": "https://www.ctee.com.tw/news/20260705700038-439901",
+        "title": "企業搶才 聚焦新雙主軸",
+        "page": "A2",
+        "page_code": "A02AA2",
+        "previous_serial": 36,
+        "next_serial": 39,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 51,
+        "url": "https://www.ctee.com.tw/news/20260705700051-439901",
+        "title": "期待又怕受傷害的多頭格局",
+        "page": "A3",
+        "page_code": "A03AA3",
+        "previous_serial": 47,
+        "next_serial": 52,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 59,
+        "url": "https://www.ctee.com.tw/news/20260705700059-439901",
+        "title": "熱浪來襲 美電網商PJM拉警報",
+        "page": "A4",
+        "page_code": "A04AA4",
+        "previous_serial": 57,
+        "next_serial": 60,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 50,
+        "url": "https://www.ctee.com.tw/news/20260705700050-439901",
+        "title": "外銀挺科技股 AI仍是主旋律",
+        "page": "A3",
+        "page_code": "A03AA3",
+        "previous_serial": 47,
+        "next_serial": 51,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 71,
+        "url": "https://www.ctee.com.tw/news/20260705700071-439901",
+        "title": "20年霸主防線快失守！康寧兩項核心專利年底到期 玻璃基板市場迎「制度性轉折」",
+        "page": "A5",
+        "page_code": "A05AA5",
+        "previous_serial": 69,
+        "next_serial": 72,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
+        "serial": 76,
+        "url": "https://www.ctee.com.tw/news/20260705700076-439901",
+        "title": "全球股市風向轉變 新興亞洲成布局焦點",
+        "page": "A5",
+        "page_code": "A05AA5",
+        "previous_serial": 74,
+        "next_serial": 77,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 82,
+        "url": "https://www.ctee.com.tw/news/20260705700082-439901",
+        "title": "退休族愛旅行 保障延伸海外",
+        "page": "A6",
+        "page_code": "A06AA6",
+        "previous_serial": 80,
+        "next_serial": 84,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 90,
+        "url": "https://www.ctee.com.tw/news/20260705700090-439901",
+        "title": "人事異動站　6月26日至7月2日",
+        "page": "A7",
+        "page_code": "A07AA7",
+        "previous_serial": 88,
+        "next_serial": 91,
+        "inference_reason": "previous_page_boundary"
+      }
+    ],
+    "unassigned_articles": []
+  }
+}
