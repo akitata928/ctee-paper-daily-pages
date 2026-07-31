@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T06:01:09+08:00",
+  "generated_at": "2026-08-01T07:01:06+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -767,6 +767,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 65,
+        "url": "https://www.ctee.com.tw/news/20260801700065-439901",
+        "title": "首期專款總額13.75億美元 投資美國融保機制 受理申請",
+        "summary": "國家發展委員會7月31日宣布，「企業投資美國融資保證機制」正式受理申請，第一期專款由國發基金出資8億美元，結合國內銀行出資5.75億美元，總額達13.75億美元，預計初期可促成金融機構提供高達550億美元的企業融資。 在融資規模上，單一企業融資額度最高可達50億美元，並由該保證機制提供最高5成融資保...",
+        "published_at": "2026-08-01 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 66,
         "url": "https://www.ctee.com.tw/news/20260801700066-439901",
         "title": "融資餘額大減 台股技術性跌深反彈",
@@ -778,21 +789,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 73,
-        "url": "https://www.ctee.com.tw/news/20260801700073-439901",
-        "title": "中聯油脂效應 檢驗從嚴 黃小玉爆塞港",
-        "summary": "中聯油脂事件使得近期大宗物資原料「黃小玉」進口到港，在政府從嚴把關下幾近每艘散裝船都要檢驗，業經五天檢驗程序後才能卸貨，導致台中港、高雄港船隻嚴重塞港，包括進口商、植物油公會、釀造公會、飼料公會等均向政府表達原料供應不足困境，但未獲回應。 業界指出，過去政府檢疫、檢驗大宗物資源頭原料包括黃豆、玉米、...",
-        "published_at": "2026-08-01 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 65,
-        "url": "https://www.ctee.com.tw/news/20260801700065-439901",
-        "title": "首期專款總額13.75億美元 投資美國融保機制 受理申請",
-        "summary": "國家發展委員會7月31日宣布，「企業投資美國融資保證機制」正式受理申請，第一期專款由國發基金出資8億美元，結合國內銀行出資5.75億美元，總額達13.75億美元，預計初期可促成金融機構提供高達550億美元的企業融資。 在融資規模上，單一企業融資額度最高可達50億美元，並由該保證機制提供最高5成融資保...",
+        "serial": 78,
+        "url": "https://www.ctee.com.tw/news/20260801700078-439901",
+        "title": "安碁資訊董座施宣輝 接掌玉山科技協會",
+        "summary": "台灣玉山科技協會完成第13屆理監事改選，安碁資訊董事長施宣輝正式接任理事長。面對全球AI浪潮加速、地緣政治及供應鏈重組等挑戰，施宣輝表示，未來將以人工智慧（AI）、資訊安全、雲端運算及太空科技四大領域作為協會推動重點，將串聯產官學研資源，深化會員交流合作，協助台灣科技產業掌握新一波全球科技變革契機，...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -811,10 +811,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 78,
-        "url": "https://www.ctee.com.tw/news/20260801700078-439901",
-        "title": "安碁資訊董座施宣輝 接掌玉山科技協會",
-        "summary": "台灣玉山科技協會完成第13屆理監事改選，安碁資訊董事長施宣輝正式接任理事長。面對全球AI浪潮加速、地緣政治及供應鏈重組等挑戰，施宣輝表示，未來將以人工智慧（AI）、資訊安全、雲端運算及太空科技四大領域作為協會推動重點，將串聯產官學研資源，深化會員交流合作，協助台灣科技產業掌握新一波全球科技變革契機，...",
+        "serial": 73,
+        "url": "https://www.ctee.com.tw/news/20260801700073-439901",
+        "title": "中聯油脂效應 檢驗從嚴 黃小玉爆塞港",
+        "summary": "中聯油脂事件使得近期大宗物資原料「黃小玉」進口到港，在政府從嚴把關下幾近每艘散裝船都要檢驗，業經五天檢驗程序後才能卸貨，導致台中港、高雄港船隻嚴重塞港，包括進口商、植物油公會、釀造公會、飼料公會等均向政府表達原料供應不足困境，但未獲回應。 業界指出，過去政府檢疫、檢驗大宗物資源頭原料包括黃豆、玉米、...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -844,10 +844,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 99,
-        "url": "https://www.ctee.com.tw/news/20260801700099-439901",
-        "title": "中資又獵全球戶外大牌 CPE源峰收購長毛象",
-        "summary": "繼加拿大高端戶外品牌始祖鳥（Arc’teryx）被大陸安踏集團收購後，瑞士戶外品牌長毛象（Mammut）也將被中資私募股權投資機構CPE源峰收購。陸媒報導，CPE源峰與歐洲私募股權機構Jacobs Capital於當地時間30日正式簽署股權購買協議，交易金額未公開，仍須取得監管批准及符合一般交割條件...",
+        "serial": 98,
+        "url": "https://www.ctee.com.tw/news/20260801700098-439901",
+        "title": "經貿、科技管制措施不斷 中美高層通話互表關切",
+        "summary": "中美近期在經貿和科技領域上交鋒，中國國務院副總理何立峰、美國財政部長貝森特（Scott Bessent）和貿易代表葛里爾（Jamieson Greer）於30日晚間進行視訊通話，美媒報導指出，通話時間逾1小時，一方面替中國國家主席習近平9月訪美鋪路，另一方面就近日雙方推出的措施表達關切，雙邊關係仍舊...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -855,10 +855,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 98,
-        "url": "https://www.ctee.com.tw/news/20260801700098-439901",
-        "title": "經貿、科技管制措施不斷 中美高層通話互表關切",
-        "summary": "中美近期在經貿和科技領域上交鋒，中國國務院副總理何立峰、美國財政部長貝森特（Scott Bessent）和貿易代表葛里爾（Jamieson Greer）於30日晚間進行視訊通話，美媒報導指出，通話時間逾1小時，一方面替中國國家主席習近平9月訪美鋪路，另一方面就近日雙方推出的措施表達關切，雙邊關係仍舊...",
+        "serial": 99,
+        "url": "https://www.ctee.com.tw/news/20260801700099-439901",
+        "title": "中資又獵全球戶外大牌 CPE源峰收購長毛象",
+        "summary": "繼加拿大高端戶外品牌始祖鳥（Arc’teryx）被大陸安踏集團收購後，瑞士戶外品牌長毛象（Mammut）也將被中資私募股權投資機構CPE源峰收購。陸媒報導，CPE源峰與歐洲私募股權機構Jacobs Capital於當地時間30日正式簽署股權購買協議，交易金額未公開，仍須取得監管批准及符合一般交割條件...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -921,6 +921,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 149,
+        "url": "https://www.ctee.com.tw/news/20260801700149-439901",
+        "title": "6月台股狂飆 定期定額375億創高",
+        "summary": "臺灣證券交易所最新公布，6月台股集中市場有交易戶數衝上近693.2萬戶、直逼700萬戶創新高；另6月證券商承作定期定額也飆高至375.25億元，第二季合計達991.74億元、直逼千億元大關，雙雙寫下歷史新高。 第二季台股飆漲，若以6月底收盤指數來看，第二季共上漲14,403點，若以6月間一度衝上歷史...",
+        "published_at": "2026-08-01 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 155,
         "url": "https://www.ctee.com.tw/news/20260801700155-439901",
         "title": "竹陞科技 6月每股賺2.77元",
@@ -936,17 +947,6 @@
         "url": "https://www.ctee.com.tw/news/20260801700156-439901",
         "title": "閎康出售上海子公司80％股權",
         "summary": "半導體分析檢測大廠閎康（3587）31日宣布董事會通過出售上海子公司閎康技術檢測（上海）80％股權，交易完成後，閎康仍保留20％持股，藉此優化集團資源配置，未來將聚焦AI、高效能運算（HPC）及先進封裝帶動的高階分析檢測市場，同時加速全球布局，提升國際市場競爭力。 根據公司規劃，本次出售標的為閎康上...",
-        "published_at": "2026-08-01 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 149,
-        "url": "https://www.ctee.com.tw/news/20260801700149-439901",
-        "title": "6月台股狂飆 定期定額375億創高",
-        "summary": "臺灣證券交易所最新公布，6月台股集中市場有交易戶數衝上近693.2萬戶、直逼700萬戶創新高；另6月證券商承作定期定額也飆高至375.25億元，第二季合計達991.74億元、直逼千億元大關，雙雙寫下歷史新高。 第二季台股飆漲，若以6月底收盤指數來看，第二季共上漲14,403點，若以6月間一度衝上歷史...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -999,13 +999,43 @@
         "inference_reason": "same_page_neighbors"
       },
       {
+        "serial": 65,
+        "url": "https://www.ctee.com.tw/news/20260801700065-439901",
+        "title": "首期專款總額13.75億美元 投資美國融保機制 受理申請",
+        "page": "A3",
+        "page_code": "A03AA3",
+        "previous_serial": 62,
+        "next_serial": 67,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
         "serial": 66,
         "url": "https://www.ctee.com.tw/news/20260801700066-439901",
         "title": "融資餘額大減 台股技術性跌深反彈",
         "page": "A3",
         "page_code": "A03AA3",
-        "previous_serial": 62,
+        "previous_serial": 65,
         "next_serial": 67,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 78,
+        "url": "https://www.ctee.com.tw/news/20260801700078-439901",
+        "title": "安碁資訊董座施宣輝 接掌玉山科技協會",
+        "page": "A4",
+        "page_code": "A04AA4",
+        "previous_serial": 74,
+        "next_serial": 80,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 79,
+        "url": "https://www.ctee.com.tw/news/20260801700079-439901",
+        "title": "力積電黃崇仁辭世 享壽76歲",
+        "page": "A4",
+        "page_code": "A04AA4",
+        "previous_serial": 78,
+        "next_serial": 80,
         "inference_reason": "previous_page_boundary"
       },
       {
@@ -1016,36 +1046,6 @@
         "page_code": "A04AA4",
         "previous_serial": 70,
         "next_serial": 74,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 65,
-        "url": "https://www.ctee.com.tw/news/20260801700065-439901",
-        "title": "首期專款總額13.75億美元 投資美國融保機制 受理申請",
-        "page": "A3",
-        "page_code": "A03AA3",
-        "previous_serial": 62,
-        "next_serial": 66,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 79,
-        "url": "https://www.ctee.com.tw/news/20260801700079-439901",
-        "title": "力積電黃崇仁辭世 享壽76歲",
-        "page": "A4",
-        "page_code": "A04AA4",
-        "previous_serial": 74,
-        "next_serial": 80,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 78,
-        "url": "https://www.ctee.com.tw/news/20260801700078-439901",
-        "title": "安碁資訊董座施宣輝 接掌玉山科技協會",
-        "page": "A4",
-        "page_code": "A04AA4",
-        "previous_serial": 74,
-        "next_serial": 79,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1069,9 +1069,9 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 99,
-        "url": "https://www.ctee.com.tw/news/20260801700099-439901",
-        "title": "中資又獵全球戶外大牌 CPE源峰收購長毛象",
+        "serial": 98,
+        "url": "https://www.ctee.com.tw/news/20260801700098-439901",
+        "title": "經貿、科技管制措施不斷 中美高層通話互表關切",
         "page": "A6",
         "page_code": "A06AA6",
         "previous_serial": 96,
@@ -1079,13 +1079,13 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 98,
-        "url": "https://www.ctee.com.tw/news/20260801700098-439901",
-        "title": "經貿、科技管制措施不斷 中美高層通話互表關切",
+        "serial": 99,
+        "url": "https://www.ctee.com.tw/news/20260801700099-439901",
+        "title": "中資又獵全球戶外大牌 CPE源峰收購長毛象",
         "page": "A6",
         "page_code": "A06AA6",
-        "previous_serial": 96,
-        "next_serial": 99,
+        "previous_serial": 98,
+        "next_serial": 100,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1139,6 +1139,16 @@
         "inference_reason": "previous_page_boundary"
       },
       {
+        "serial": 149,
+        "url": "https://www.ctee.com.tw/news/20260801700149-439901",
+        "title": "6月台股狂飆 定期定額375億創高",
+        "page": "B2",
+        "page_code": "A26AB2",
+        "previous_serial": 146,
+        "next_serial": 150,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
         "serial": 155,
         "url": "https://www.ctee.com.tw/news/20260801700155-439901",
         "title": "竹陞科技 6月每股賺2.77元",
@@ -1156,16 +1166,6 @@
         "page_code": "A27AB3",
         "previous_serial": 155,
         "next_serial": 157,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 149,
-        "url": "https://www.ctee.com.tw/news/20260801700149-439901",
-        "title": "6月台股狂飆 定期定額375億創高",
-        "page": "B2",
-        "page_code": "A26AB2",
-        "previous_serial": 146,
-        "next_serial": 150,
         "inference_reason": "same_page_neighbors"
       },
       {
