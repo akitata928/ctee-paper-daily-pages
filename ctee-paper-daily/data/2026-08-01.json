@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T07:01:06+08:00",
+  "generated_at": "2026-08-01T07:51:32+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -789,6 +789,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 73,
+        "url": "https://www.ctee.com.tw/news/20260801700073-439901",
+        "title": "中聯油脂效應 檢驗從嚴 黃小玉爆塞港",
+        "summary": "中聯油脂事件使得近期大宗物資原料「黃小玉」進口到港，在政府從嚴把關下幾近每艘散裝船都要檢驗，業經五天檢驗程序後才能卸貨，導致台中港、高雄港船隻嚴重塞港，包括進口商、植物油公會、釀造公會、飼料公會等均向政府表達原料供應不足困境，但未獲回應。 業界指出，過去政府檢疫、檢驗大宗物資源頭原料包括黃豆、玉米、...",
+        "published_at": "2026-08-01 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 78,
         "url": "https://www.ctee.com.tw/news/20260801700078-439901",
         "title": "安碁資訊董座施宣輝 接掌玉山科技協會",
@@ -811,43 +822,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 73,
-        "url": "https://www.ctee.com.tw/news/20260801700073-439901",
-        "title": "中聯油脂效應 檢驗從嚴 黃小玉爆塞港",
-        "summary": "中聯油脂事件使得近期大宗物資原料「黃小玉」進口到港，在政府從嚴把關下幾近每艘散裝船都要檢驗，業經五天檢驗程序後才能卸貨，導致台中港、高雄港船隻嚴重塞港，包括進口商、植物油公會、釀造公會、飼料公會等均向政府表達原料供應不足困境，但未獲回應。 業界指出，過去政府檢疫、檢驗大宗物資源頭原料包括黃豆、玉米、...",
-        "published_at": "2026-08-01 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 88,
         "url": "https://www.ctee.com.tw/news/20260801700088-439901",
         "title": "蘋果本季展望低於預期 庫克坦承 供應鏈缺彈性",
         "summary": "蘋果公布上季財報雖表現亮眼，但受先進晶片短缺影響，本季展望低於市場預期。執行長庫克（Tim Cook）坦言，供應鏈缺乏彈性，目前正積極尋找替代方案。 將在9月卸任的庫克並於財報會後的法說會上警告，晶片缺貨潮不僅衝擊MAC電腦，預計未來還將進一步惡化、並蔓延至iPhone和iPad產品。 庫克說：「我...",
-        "published_at": "2026-08-01 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 100,
-        "url": "https://www.ctee.com.tw/news/20260801700100-439901",
-        "title": "資金轉向金融、雲端 陸港AI產業迎新格局",
-        "summary": "中東地緣政治局勢反覆，全球能源供應及貿易體系再度面臨嚴重衝擊。地緣風險推升國際油價反彈。油價上揚快速傳導至全球通膨預期，美國10年期國債殖利率一度升至4.70％，30年期國債殖利率更突破5.16％關口。各國央行對通膨回升保持高度戒備，金融市場震盪顯著加劇。 歐洲方面，儘管近期經濟數據有所改善，7月S...",
-        "published_at": "2026-08-01 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 98,
-        "url": "https://www.ctee.com.tw/news/20260801700098-439901",
-        "title": "經貿、科技管制措施不斷 中美高層通話互表關切",
-        "summary": "中美近期在經貿和科技領域上交鋒，中國國務院副總理何立峰、美國財政部長貝森特（Scott Bessent）和貿易代表葛里爾（Jamieson Greer）於30日晚間進行視訊通話，美媒報導指出，通話時間逾1小時，一方面替中國國家主席習近平9月訪美鋪路，另一方面就近日雙方推出的措施表達關切，雙邊關係仍舊...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -866,10 +844,32 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 98,
+        "url": "https://www.ctee.com.tw/news/20260801700098-439901",
+        "title": "經貿、科技管制措施不斷 中美高層通話互表關切",
+        "summary": "中美近期在經貿和科技領域上交鋒，中國國務院副總理何立峰、美國財政部長貝森特（Scott Bessent）和貿易代表葛里爾（Jamieson Greer）於30日晚間進行視訊通話，美媒報導指出，通話時間逾1小時，一方面替中國國家主席習近平9月訪美鋪路，另一方面就近日雙方推出的措施表達關切，雙邊關係仍舊...",
+        "published_at": "2026-08-01 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 104,
         "url": "https://www.ctee.com.tw/news/20260801700104-439901",
         "title": "金融行動身分識別 擴大應用場景",
         "summary": "由金融總會建置「金融科技共創平台」第二季執行成果出爐，在人才培育、數據治理及監理科技等面向皆持續進展。 其中「金融Fast-ID」（金融行動身分識別）串聯13家金融機構試辦，將持續擴大應用場景，研議將數發部數位憑證皮夾納入金融Fast-ID驗證轉接中心，亦規劃將金融Fast-ID擴大至金融機構外領域...",
+        "published_at": "2026-08-01 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 100,
+        "url": "https://www.ctee.com.tw/news/20260801700100-439901",
+        "title": "資金轉向金融、雲端 陸港AI產業迎新格局",
+        "summary": "中東地緣政治局勢反覆，全球能源供應及貿易體系再度面臨嚴重衝擊。地緣風險推升國際油價反彈。油價上揚快速傳導至全球通膨預期，美國10年期國債殖利率一度升至4.70％，30年期國債殖利率更突破5.16％關口。各國央行對通膨回升保持高度戒備，金融市場震盪顯著加劇。 歐洲方面，儘管近期經濟數據有所改善，7月S...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -888,10 +888,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 119,
-        "url": "https://www.ctee.com.tw/news/20260801700119-439901",
-        "title": "搶搭青安2.0末班車 資金股轉房 7月房仲交易量增",
-        "summary": "台股高檔震盪，部分高檔獲利了結資金外溢至房市，7月各大房仲業門市交易量普遍與6月持平，但年增1～2成。房仲業者看好財政部青安3.0新增排富、排老申貸限制，觸發購屋民眾卡位心理，臨界門檻邊緣的準買方加速決策，為7月買氣挹注一波衝刺動能。 據各大房仲自結7月旗下門市交易量顯示，永慶房產集團、中信房屋、台...",
+        "serial": 120,
+        "url": "https://www.ctee.com.tw/news/20260801700120-439901",
+        "title": "風力發電協會呼籲 打造可預測市場環境",
+        "summary": "台灣風力發電產業協會31日表示，面對全球高利率、供應鏈重組及2030年前後大量風場集中併網等挑戰，開發商、風機廠、統包商及設備供應鏈代表首提四大政策建言，呼籲政府打造穩定、透明且可預測的市場機制，作為推動台灣離岸風電下一階段發展的重要基礎。 身兼台灣風力發電產業協會理事長的華城總經理許逸德，31日召...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -899,10 +899,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 120,
-        "url": "https://www.ctee.com.tw/news/20260801700120-439901",
-        "title": "風力發電協會呼籲 打造可預測市場環境",
-        "summary": "台灣風力發電產業協會31日表示，面對全球高利率、供應鏈重組及2030年前後大量風場集中併網等挑戰，開發商、風機廠、統包商及設備供應鏈代表首提四大政策建言，呼籲政府打造穩定、透明且可預測的市場機制，作為推動台灣離岸風電下一階段發展的重要基礎。 身兼台灣風力發電產業協會理事長的華城總經理許逸德，31日召...",
+        "serial": 119,
+        "url": "https://www.ctee.com.tw/news/20260801700119-439901",
+        "title": "搶搭青安2.0末班車 資金股轉房 7月房仲交易量增",
+        "summary": "台股高檔震盪，部分高檔獲利了結資金外溢至房市，7月各大房仲業門市交易量普遍與6月持平，但年增1～2成。房仲業者看好財政部青安3.0新增排富、排老申貸限制，觸發購屋民眾卡位心理，臨界門檻邊緣的準買方加速決策，為7月買氣挹注一波衝刺動能。 據各大房仲自結7月旗下門市交易量顯示，永慶房產集團、中信房屋、台...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -932,10 +932,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 155,
-        "url": "https://www.ctee.com.tw/news/20260801700155-439901",
-        "title": "竹陞科技 6月每股賺2.77元",
-        "summary": "竹陞科技（6739）公告6月自結損益，6月營收達1.29億元，月增7.58％、年增101.13％，連續13個月創新高，單月稅後純益6,500萬元，年增1.1倍，每股稅後純益達2.77元，半導體產業持續擴產下，市場看好該公司未來營運展望。 竹陞受惠於晶圓代工大廠、記憶體大廠擴產熱，今年營收、獲利維持強...",
+        "serial": 156,
+        "url": "https://www.ctee.com.tw/news/20260801700156-439901",
+        "title": "閎康出售上海子公司80％股權",
+        "summary": "半導體分析檢測大廠閎康（3587）31日宣布董事會通過出售上海子公司閎康技術檢測（上海）80％股權，交易完成後，閎康仍保留20％持股，藉此優化集團資源配置，未來將聚焦AI、高效能運算（HPC）及先進封裝帶動的高階分析檢測市場，同時加速全球布局，提升國際市場競爭力。 根據公司規劃，本次出售標的為閎康上...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -943,10 +943,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 156,
-        "url": "https://www.ctee.com.tw/news/20260801700156-439901",
-        "title": "閎康出售上海子公司80％股權",
-        "summary": "半導體分析檢測大廠閎康（3587）31日宣布董事會通過出售上海子公司閎康技術檢測（上海）80％股權，交易完成後，閎康仍保留20％持股，藉此優化集團資源配置，未來將聚焦AI、高效能運算（HPC）及先進封裝帶動的高階分析檢測市場，同時加速全球布局，提升國際市場競爭力。 根據公司規劃，本次出售標的為閎康上...",
+        "serial": 155,
+        "url": "https://www.ctee.com.tw/news/20260801700155-439901",
+        "title": "竹陞科技 6月每股賺2.77元",
+        "summary": "竹陞科技（6739）公告6月自結損益，6月營收達1.29億元，月增7.58％、年增101.13％，連續13個月創新高，單月稅後純益6,500萬元，年增1.1倍，每股稅後純益達2.77元，半導體產業持續擴產下，市場看好該公司未來營運展望。 竹陞受惠於晶圓代工大廠、記憶體大廠擴產熱，今年營收、獲利維持強...",
         "published_at": "2026-08-01 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -1019,6 +1019,16 @@
         "inference_reason": "previous_page_boundary"
       },
       {
+        "serial": 73,
+        "url": "https://www.ctee.com.tw/news/20260801700073-439901",
+        "title": "中聯油脂效應 檢驗從嚴 黃小玉爆塞港",
+        "page": "A4",
+        "page_code": "A04AA4",
+        "previous_serial": 70,
+        "next_serial": 74,
+        "inference_reason": "same_page_neighbors"
+      },
+      {
         "serial": 78,
         "url": "https://www.ctee.com.tw/news/20260801700078-439901",
         "title": "安碁資訊董座施宣輝 接掌玉山科技協會",
@@ -1039,16 +1049,6 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 73,
-        "url": "https://www.ctee.com.tw/news/20260801700073-439901",
-        "title": "中聯油脂效應 檢驗從嚴 黃小玉爆塞港",
-        "page": "A4",
-        "page_code": "A04AA4",
-        "previous_serial": 70,
-        "next_serial": 74,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
         "serial": 88,
         "url": "https://www.ctee.com.tw/news/20260801700088-439901",
         "title": "蘋果本季展望低於預期 庫克坦承 供應鏈缺彈性",
@@ -1059,9 +1059,9 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 100,
-        "url": "https://www.ctee.com.tw/news/20260801700100-439901",
-        "title": "資金轉向金融、雲端 陸港AI產業迎新格局",
+        "serial": 99,
+        "url": "https://www.ctee.com.tw/news/20260801700099-439901",
+        "title": "中資又獵全球戶外大牌 CPE源峰收購長毛象",
         "page": "A6",
         "page_code": "A06AA6",
         "previous_serial": 96,
@@ -1075,17 +1075,7 @@
         "page": "A6",
         "page_code": "A06AA6",
         "previous_serial": 96,
-        "next_serial": 100,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 99,
-        "url": "https://www.ctee.com.tw/news/20260801700099-439901",
-        "title": "中資又獵全球戶外大牌 CPE源峰收購長毛象",
-        "page": "A6",
-        "page_code": "A06AA6",
-        "previous_serial": 98,
-        "next_serial": 100,
+        "next_serial": 99,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1099,6 +1089,16 @@
         "inference_reason": "same_page_neighbors"
       },
       {
+        "serial": 100,
+        "url": "https://www.ctee.com.tw/news/20260801700100-439901",
+        "title": "資金轉向金融、雲端 陸港AI產業迎新格局",
+        "page": "A6",
+        "page_code": "A06AA6",
+        "previous_serial": 99,
+        "next_serial": 101,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
         "serial": 111,
         "url": "https://www.ctee.com.tw/news/20260801700111-439901",
         "title": "投資族群年輕化 金融機構應扮演三角色",
@@ -1109,9 +1109,9 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 119,
-        "url": "https://www.ctee.com.tw/news/20260801700119-439901",
-        "title": "搶搭青安2.0末班車 資金股轉房 7月房仲交易量增",
+        "serial": 120,
+        "url": "https://www.ctee.com.tw/news/20260801700120-439901",
+        "title": "風力發電協會呼籲 打造可預測市場環境",
         "page": "A8",
         "page_code": "A10AA8",
         "previous_serial": 117,
@@ -1119,13 +1119,13 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 120,
-        "url": "https://www.ctee.com.tw/news/20260801700120-439901",
-        "title": "風力發電協會呼籲 打造可預測市場環境",
+        "serial": 119,
+        "url": "https://www.ctee.com.tw/news/20260801700119-439901",
+        "title": "搶搭青安2.0末班車 資金股轉房 7月房仲交易量增",
         "page": "A8",
         "page_code": "A10AA8",
-        "previous_serial": 119,
-        "next_serial": 121,
+        "previous_serial": 117,
+        "next_serial": 120,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -1149,9 +1149,9 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 155,
-        "url": "https://www.ctee.com.tw/news/20260801700155-439901",
-        "title": "竹陞科技 6月每股賺2.77元",
+        "serial": 156,
+        "url": "https://www.ctee.com.tw/news/20260801700156-439901",
+        "title": "閎康出售上海子公司80％股權",
         "page": "B3",
         "page_code": "A27AB3",
         "previous_serial": 152,
@@ -1159,13 +1159,13 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 156,
-        "url": "https://www.ctee.com.tw/news/20260801700156-439901",
-        "title": "閎康出售上海子公司80％股權",
+        "serial": 155,
+        "url": "https://www.ctee.com.tw/news/20260801700155-439901",
+        "title": "竹陞科技 6月每股賺2.77元",
         "page": "B3",
         "page_code": "A27AB3",
-        "previous_serial": 155,
-        "next_serial": 157,
+        "previous_serial": 152,
+        "next_serial": 156,
         "inference_reason": "same_page_neighbors"
       },
       {
