@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T06:01:10+08:00",
+  "generated_at": "2026-08-02T07:01:24+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -440,6 +440,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 32,
+        "url": "https://www.ctee.com.tw/news/20260802700032-439901",
+        "title": "AI催旺 伺服器OEM廠獲利俏",
+        "summary": "AI終端應用推論需求上揚，繼續帶動伺服器產業呈現爆發式成長，加上下半年輝達NVIDIA新品VR200推出，受惠的台灣OEM廠，法人最看好華碩、技嘉及華擎將得利伺服器業務，挹注2026、2027兩年業績進一步成長，獲利可望有雙位數的增幅。 隨著NVIDIA接續於今年第四季後，正式推出RTX Spark...",
+        "published_at": "2026-08-02 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 36,
         "url": "https://www.ctee.com.tw/news/20260802700036-439901",
         "title": "不銹鋼廠 Q4可望開平高盤",
@@ -451,10 +462,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 32,
-        "url": "https://www.ctee.com.tw/news/20260802700032-439901",
-        "title": "AI催旺 伺服器OEM廠獲利俏",
-        "summary": "AI終端應用推論需求上揚，繼續帶動伺服器產業呈現爆發式成長，加上下半年輝達NVIDIA新品VR200推出，受惠的台灣OEM廠，法人最看好華碩、技嘉及華擎將得利伺服器業務，挹注2026、2027兩年業績進一步成長，獲利可望有雙位數的增幅。 隨著NVIDIA接續於今年第四季後，正式推出RTX Spark...",
+        "serial": 45,
+        "url": "https://www.ctee.com.tw/news/20260802700045-439901",
+        "title": "H2投資 股債要並重",
+        "summary": "全球市場歷經美國關稅政策、通膨風險、地緣政治反覆與AI浪潮的推動，投資環境充滿變數。銀行業者建議投資人，下半年度不局回歸資產配置本質，以「股債並重、多元布局、分批進場」為核心策略，兼顧收益與風險管理。 滙豐銀行財富管理及金融服務方案部負責人李勝凱表示，目前市場波動加劇，投資人應避免過度集中於單一市場...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -484,17 +495,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 45,
-        "url": "https://www.ctee.com.tw/news/20260802700045-439901",
-        "title": "H2投資 股債要並重",
-        "summary": "全球市場歷經美國關稅政策、通膨風險、地緣政治反覆與AI浪潮的推動，投資環境充滿變數。銀行業者建議投資人，下半年度不局回歸資產配置本質，以「股債並重、多元布局、分批進場」為核心策略，兼顧收益與風險管理。 滙豐銀行財富管理及金融服務方案部負責人李勝凱表示，目前市場波動加劇，投資人應避免過度集中於單一市場...",
-        "published_at": "2026-08-02 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 55,
         "url": "https://www.ctee.com.tw/news/20260802700055-439901",
         "title": "晶片拋售潮 AI股神翻車",
@@ -506,10 +506,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 69,
-        "url": "https://www.ctee.com.tw/news/20260802700069-439901",
-        "title": "月之暗面催生Kimi K3 傳靠阿里2萬顆輝達晶片",
-        "summary": "中國AI企業月之暗面突破重圍，推出性能直逼美國頂尖水準的Kimi K3模型。外媒7月31日報導，月之暗面與阿里巴巴簽訂算力合作協議，可使用阿里的約2萬顆輝達晶片組成的運算集群，支援Kimi系列模型。相關算力占月之暗面整體運算資源相當大部分，但這項合作也凸顯中國在發展AI時，仍高度依賴美國晶片。 香港...",
+        "serial": 70,
+        "url": "https://www.ctee.com.tw/news/20260802700070-439901",
+        "title": "AI助產業升級 新成長引擎成形中",
+        "summary": "中國經濟與金融市場在2026年的整體表現較一年前已有明顯改善。儘管近期總體經濟仍出現部分放緩跡象，但2026年第一季GDP年增率達5％，不僅高於前一季，也優於市場普遍預期。工業生產維持強勁，加上出口表現亮眼，持續支撐整體經濟成長。 全球AI投資熱潮為中國經濟帶來重要助力，在一定程度上抵銷了整體經濟不...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -528,10 +528,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 70,
-        "url": "https://www.ctee.com.tw/news/20260802700070-439901",
-        "title": "AI助產業升級 新成長引擎成形中",
-        "summary": "中國經濟與金融市場在2026年的整體表現較一年前已有明顯改善。儘管近期總體經濟仍出現部分放緩跡象，但2026年第一季GDP年增率達5％，不僅高於前一季，也優於市場普遍預期。工業生產維持強勁，加上出口表現亮眼，持續支撐整體經濟成長。 全球AI投資熱潮為中國經濟帶來重要助力，在一定程度上抵銷了整體經濟不...",
+        "serial": 69,
+        "url": "https://www.ctee.com.tw/news/20260802700069-439901",
+        "title": "月之暗面催生Kimi K3 傳靠阿里2萬顆輝達晶片",
+        "summary": "中國AI企業月之暗面突破重圍，推出性能直逼美國頂尖水準的Kimi K3模型。外媒7月31日報導，月之暗面與阿里巴巴簽訂算力合作協議，可使用阿里的約2萬顆輝達晶片組成的運算集群，支援Kimi系列模型。相關算力占月之暗面整體運算資源相當大部分，但這項合作也凸顯中國在發展AI時，仍高度依賴美國晶片。 香港...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -584,16 +584,6 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 36,
-        "url": "https://www.ctee.com.tw/news/20260802700036-439901",
-        "title": "不銹鋼廠 Q4可望開平高盤",
-        "page": "A2",
-        "page_code": "A02AA2",
-        "previous_serial": 33,
-        "next_serial": 37,
-        "inference_reason": "previous_page_boundary"
-      },
-      {
         "serial": 32,
         "url": "https://www.ctee.com.tw/news/20260802700032-439901",
         "title": "AI催旺 伺服器OEM廠獲利俏",
@@ -604,12 +594,32 @@
         "inference_reason": "same_page_neighbors"
       },
       {
+        "serial": 36,
+        "url": "https://www.ctee.com.tw/news/20260802700036-439901",
+        "title": "不銹鋼廠 Q4可望開平高盤",
+        "page": "A2",
+        "page_code": "A02AA2",
+        "previous_serial": 33,
+        "next_serial": 37,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 45,
+        "url": "https://www.ctee.com.tw/news/20260802700045-439901",
+        "title": "H2投資 股債要並重",
+        "page": "A3",
+        "page_code": "A03AA3",
+        "previous_serial": 43,
+        "next_serial": 48,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
         "serial": 46,
         "url": "https://www.ctee.com.tw/news/20260802700046-439901",
         "title": "股市震盪留意四大風險",
         "page": "A3",
         "page_code": "A03AA3",
-        "previous_serial": 43,
+        "previous_serial": 45,
         "next_serial": 48,
         "inference_reason": "previous_page_boundary"
       },
@@ -624,16 +634,6 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 45,
-        "url": "https://www.ctee.com.tw/news/20260802700045-439901",
-        "title": "H2投資 股債要並重",
-        "page": "A3",
-        "page_code": "A03AA3",
-        "previous_serial": 43,
-        "next_serial": 46,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
         "serial": 55,
         "url": "https://www.ctee.com.tw/news/20260802700055-439901",
         "title": "晶片拋售潮 AI股神翻車",
@@ -644,9 +644,9 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 69,
-        "url": "https://www.ctee.com.tw/news/20260802700069-439901",
-        "title": "月之暗面催生Kimi K3 傳靠阿里2萬顆輝達晶片",
+        "serial": 70,
+        "url": "https://www.ctee.com.tw/news/20260802700070-439901",
+        "title": "AI助產業升級 新成長引擎成形中",
         "page": "A5",
         "page_code": "A05AA5",
         "previous_serial": 67,
@@ -664,14 +664,14 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 70,
-        "url": "https://www.ctee.com.tw/news/20260802700070-439901",
-        "title": "AI助產業升級 新成長引擎成形中",
+        "serial": 69,
+        "url": "https://www.ctee.com.tw/news/20260802700069-439901",
+        "title": "月之暗面催生Kimi K3 傳靠阿里2萬顆輝達晶片",
         "page": "A5",
         "page_code": "A05AA5",
-        "previous_serial": 69,
-        "next_serial": 71,
-        "inference_reason": "previous_page_boundary"
+        "previous_serial": 67,
+        "next_serial": 70,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 76,
