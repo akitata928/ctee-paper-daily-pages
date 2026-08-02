@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T18:29:16+08:00",
+  "generated_at": "2026-08-02T18:30:50+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -473,10 +473,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 46,
-        "url": "https://www.ctee.com.tw/news/20260802700046-439901",
-        "title": "股市震盪留意四大風險",
-        "summary": "近期全球股市震盪加劇，跌勢集中在科技與AI類股。銀行業者分析，此波全球股市波動升溫，主要是「高估值主題在高不確定環境下的正常修正」，非基本面全面轉空。不過，下半年仍須留意地緣政治、美股漲勢過度集中、各國通膨與央行政策，和中國大陸經濟復甦等變數，對市場帶來的波動。 滙豐銀行財富管理及金融服務方案部負責...",
+        "serial": 47,
+        "url": "https://www.ctee.com.tw/news/20260802700047-439901",
+        "title": "逢回分批布局具競爭優勢的企業",
+        "summary": "近期全球金融市場受到多項消息交互影響，波動明顯升溫。其中，中國半導體技術傳出新進展，引發市場對全球科技競爭態勢的重新評估，當時美國半導體族群因此承受獲利了結賣壓，連帶使費城半導體指數與那斯達克指數一度走弱。中國自產DUV（浸潤式深紫外光微影設備）目前初期年產能僅約5台，明年預估20～30台，且在技術...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -484,10 +484,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 47,
-        "url": "https://www.ctee.com.tw/news/20260802700047-439901",
-        "title": "逢回分批布局具競爭優勢的企業",
-        "summary": "近期全球金融市場受到多項消息交互影響，波動明顯升溫。其中，中國半導體技術傳出新進展，引發市場對全球科技競爭態勢的重新評估，當時美國半導體族群因此承受獲利了結賣壓，連帶使費城半導體指數與那斯達克指數一度走弱。中國自產DUV（浸潤式深紫外光微影設備）目前初期年產能僅約5台，明年預估20～30台，且在技術...",
+        "serial": 46,
+        "url": "https://www.ctee.com.tw/news/20260802700046-439901",
+        "title": "股市震盪留意四大風險",
+        "summary": "近期全球股市震盪加劇，跌勢集中在科技與AI類股。銀行業者分析，此波全球股市波動升溫，主要是「高估值主題在高不確定環境下的正常修正」，非基本面全面轉空。不過，下半年仍須留意地緣政治、美股漲勢過度集中、各國通膨與央行政策，和中國大陸經濟復甦等變數，對市場帶來的波動。 滙豐銀行財富管理及金融服務方案部負責...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -510,17 +510,6 @@
         "url": "https://www.ctee.com.tw/news/20260802700066-439901",
         "title": "兩面手法 美增列43家中企實體清單",
         "summary": "美國政府於當地時間7月31日，以涉及新疆強迫勞動和侵犯維吾爾族等少數族群人權為由，再將43家中國企業列入實體清單，其中涵蓋製藥、金屬、棉花、食品和鋰生產等領域。由於中美經貿高層7月30日才剛剛視訊通話，中方批評美方時隔一天就「背刺」，是否會影響9月份中美元首「習川會」的舉行，頗受外界關注。 這是美國...",
-        "published_at": "2026-08-02 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
-        "serial": 76,
-        "url": "https://www.ctee.com.tw/news/20260802700076-439901",
-        "title": "醫療保單 男女大不同",
-        "summary": "針對男性與女性在生理構造與常見疾病上的差異，國泰人壽與新光人壽紛紛針對特定性別的需求，推出具備高度差異化特色的專屬保單。 國泰人壽攜手彰化銀行，特別針對女性族群推出「國泰人壽馨美好人生利率變動型美元終身保險（定期給付型）」。不僅納入如全身性紅斑性狼瘡腎病變、類風濕性關節炎等特定傷病保障，還涵蓋市面上...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -565,6 +554,17 @@
         "url": "https://www.ctee.com.tw/news/20260802700095-439901",
         "title": "企業赴美投資成布局新篇",
         "summary": "布局模式的選擇決定企業實體落地方式與其在價值鏈中的定位，整體可區分為高階製程研發與製造組裝兩大類型。而企業所採取的布局模式，反映其核心能力與策略取向，其中技術導向的企業傾向透過高階製程與研發投資來強化競爭優勢。 成本導向的企業則著重於製造與組裝布局，以維持市場地位與營運效率。從第一次美中貿易戰起到川...",
+        "published_at": "2026-08-02 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
+        "serial": 76,
+        "url": "https://www.ctee.com.tw/news/20260802700076-439901",
+        "title": "醫療保單 男女大不同",
+        "summary": "針對男性與女性在生理構造與常見疾病上的差異，國泰人壽與新光人壽紛紛針對特定性別的需求，推出具備高度差異化特色的專屬保單。 國泰人壽攜手彰化銀行，特別針對女性族群推出「國泰人壽馨美好人生利率變動型美元終身保險（定期給付型）」。不僅納入如全身性紅斑性狼瘡腎病變、類風濕性關節炎等特定傷病保障，還涵蓋市面上...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -614,9 +614,9 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 46,
-        "url": "https://www.ctee.com.tw/news/20260802700046-439901",
-        "title": "股市震盪留意四大風險",
+        "serial": 47,
+        "url": "https://www.ctee.com.tw/news/20260802700047-439901",
+        "title": "逢回分批布局具競爭優勢的企業",
         "page": "A3",
         "page_code": "A03AA3",
         "previous_serial": 45,
@@ -624,14 +624,14 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 47,
-        "url": "https://www.ctee.com.tw/news/20260802700047-439901",
-        "title": "逢回分批布局具競爭優勢的企業",
+        "serial": 46,
+        "url": "https://www.ctee.com.tw/news/20260802700046-439901",
+        "title": "股市震盪留意四大風險",
         "page": "A3",
         "page_code": "A03AA3",
-        "previous_serial": 46,
-        "next_serial": 48,
-        "inference_reason": "previous_page_boundary"
+        "previous_serial": 45,
+        "next_serial": 47,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 55,
@@ -651,16 +651,6 @@
         "page_code": "A05AA5",
         "previous_serial": 64,
         "next_serial": 67,
-        "inference_reason": "same_page_neighbors"
-      },
-      {
-        "serial": 76,
-        "url": "https://www.ctee.com.tw/news/20260802700076-439901",
-        "title": "醫療保單 男女大不同",
-        "page": "A6",
-        "page_code": "A06AA6",
-        "previous_serial": 74,
-        "next_serial": 77,
         "inference_reason": "same_page_neighbors"
       },
       {
@@ -692,6 +682,16 @@
         "previous_serial": 87,
         "next_serial": 90,
         "inference_reason": "previous_page_boundary"
+      },
+      {
+        "serial": 76,
+        "url": "https://www.ctee.com.tw/news/20260802700076-439901",
+        "title": "醫療保單 男女大不同",
+        "page": "A6",
+        "page_code": "A06AA6",
+        "previous_serial": 74,
+        "next_serial": 77,
+        "inference_reason": "same_page_neighbors"
       }
     ],
     "unassigned_articles": [
