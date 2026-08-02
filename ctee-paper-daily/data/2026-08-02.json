@@ -1,7 +1,7 @@
 {
   "source": "ctee.com.tw",
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T18:30:50+08:00",
+  "generated_at": "2026-08-02T21:50:42+08:00",
   "target_pages": [
     "A1",
     "A2",
@@ -473,10 +473,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 47,
-        "url": "https://www.ctee.com.tw/news/20260802700047-439901",
-        "title": "逢回分批布局具競爭優勢的企業",
-        "summary": "近期全球金融市場受到多項消息交互影響，波動明顯升溫。其中，中國半導體技術傳出新進展，引發市場對全球科技競爭態勢的重新評估，當時美國半導體族群因此承受獲利了結賣壓，連帶使費城半導體指數與那斯達克指數一度走弱。中國自產DUV（浸潤式深紫外光微影設備）目前初期年產能僅約5台，明年預估20～30台，且在技術...",
+        "serial": 46,
+        "url": "https://www.ctee.com.tw/news/20260802700046-439901",
+        "title": "股市震盪留意四大風險",
+        "summary": "近期全球股市震盪加劇，跌勢集中在科技與AI類股。銀行業者分析，此波全球股市波動升溫，主要是「高估值主題在高不確定環境下的正常修正」，非基本面全面轉空。不過，下半年仍須留意地緣政治、美股漲勢過度集中、各國通膨與央行政策，和中國大陸經濟復甦等變數，對市場帶來的波動。 滙豐銀行財富管理及金融服務方案部負責...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -484,10 +484,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 46,
-        "url": "https://www.ctee.com.tw/news/20260802700046-439901",
-        "title": "股市震盪留意四大風險",
-        "summary": "近期全球股市震盪加劇，跌勢集中在科技與AI類股。銀行業者分析，此波全球股市波動升溫，主要是「高估值主題在高不確定環境下的正常修正」，非基本面全面轉空。不過，下半年仍須留意地緣政治、美股漲勢過度集中、各國通膨與央行政策，和中國大陸經濟復甦等變數，對市場帶來的波動。 滙豐銀行財富管理及金融服務方案部負責...",
+        "serial": 47,
+        "url": "https://www.ctee.com.tw/news/20260802700047-439901",
+        "title": "逢回分批布局具競爭優勢的企業",
+        "summary": "近期全球金融市場受到多項消息交互影響，波動明顯升溫。其中，中國半導體技術傳出新進展，引發市場對全球科技競爭態勢的重新評估，當時美國半導體族群因此承受獲利了結賣壓，連帶使費城半導體指數與那斯達克指數一度走弱。中國自產DUV（浸潤式深紫外光微影設備）目前初期年產能僅約5台，明年預估20～30台，且在技術...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -506,6 +506,17 @@
       },
       {
         "kind": "parse_failure",
+        "serial": 70,
+        "url": "https://www.ctee.com.tw/news/20260802700070-439901",
+        "title": "AI助產業升級 新成長引擎成形中",
+        "summary": "中國經濟與金融市場在2026年的整體表現較一年前已有明顯改善。儘管近期總體經濟仍出現部分放緩跡象，但2026年第一季GDP年增率達5％，不僅高於前一季，也優於市場普遍預期。工業生產維持強勁，加上出口表現亮眼，持續支撐整體經濟成長。 全球AI投資熱潮為中國經濟帶來重要助力，在一定程度上抵銷了整體經濟不...",
+        "published_at": "2026-08-02 03:00:00",
+        "image_url": "",
+        "status": "no_page_code",
+        "attempts": 1
+      },
+      {
+        "kind": "parse_failure",
         "serial": 66,
         "url": "https://www.ctee.com.tw/news/20260802700066-439901",
         "title": "兩面手法 美增列43家中企實體清單",
@@ -517,10 +528,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 70,
-        "url": "https://www.ctee.com.tw/news/20260802700070-439901",
-        "title": "AI助產業升級 新成長引擎成形中",
-        "summary": "中國經濟與金融市場在2026年的整體表現較一年前已有明顯改善。儘管近期總體經濟仍出現部分放緩跡象，但2026年第一季GDP年增率達5％，不僅高於前一季，也優於市場普遍預期。工業生產維持強勁，加上出口表現亮眼，持續支撐整體經濟成長。 全球AI投資熱潮為中國經濟帶來重要助力，在一定程度上抵銷了整體經濟不...",
+        "serial": 76,
+        "url": "https://www.ctee.com.tw/news/20260802700076-439901",
+        "title": "醫療保單 男女大不同",
+        "summary": "針對男性與女性在生理構造與常見疾病上的差異，國泰人壽與新光人壽紛紛針對特定性別的需求，推出具備高度差異化特色的專屬保單。 國泰人壽攜手彰化銀行，特別針對女性族群推出「國泰人壽馨美好人生利率變動型美元終身保險（定期給付型）」。不僅納入如全身性紅斑性狼瘡腎病變、類風濕性關節炎等特定傷病保障，還涵蓋市面上...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -539,17 +550,6 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 89,
-        "url": "https://www.ctee.com.tw/news/20260802700089-439901",
-        "title": "人事異動站　7月24日至7月30日",
-        "summary": "一、工商企業 ◎正瀚生技總經理陳文仁卸任，由楊俊逸新任，財務主管、公司治理主管張尹騰卸任，由嚴世峰新任。 ◎互動國際數位總經理劉美蘭卸任，由鄭元森新任，執行長由劉美蘭新任。 ◎弘塑科技董事長張泰山辭職，副董事長張鴻泰辭職。 ◎日馳企業董事長及總經理徐義雄辭職。 ◎亞昕國際開發總經理姚政岳卸任，由余世...",
-        "published_at": "2026-08-02 03:00:00",
-        "image_url": "",
-        "status": "no_page_code",
-        "attempts": 1
-      },
-      {
-        "kind": "parse_failure",
         "serial": 95,
         "url": "https://www.ctee.com.tw/news/20260802700095-439901",
         "title": "企業赴美投資成布局新篇",
@@ -561,10 +561,10 @@
       },
       {
         "kind": "parse_failure",
-        "serial": 76,
-        "url": "https://www.ctee.com.tw/news/20260802700076-439901",
-        "title": "醫療保單 男女大不同",
-        "summary": "針對男性與女性在生理構造與常見疾病上的差異，國泰人壽與新光人壽紛紛針對特定性別的需求，推出具備高度差異化特色的專屬保單。 國泰人壽攜手彰化銀行，特別針對女性族群推出「國泰人壽馨美好人生利率變動型美元終身保險（定期給付型）」。不僅納入如全身性紅斑性狼瘡腎病變、類風濕性關節炎等特定傷病保障，還涵蓋市面上...",
+        "serial": 89,
+        "url": "https://www.ctee.com.tw/news/20260802700089-439901",
+        "title": "人事異動站　7月24日至7月30日",
+        "summary": "一、工商企業 ◎正瀚生技總經理陳文仁卸任，由楊俊逸新任，財務主管、公司治理主管張尹騰卸任，由嚴世峰新任。 ◎互動國際數位總經理劉美蘭卸任，由鄭元森新任，執行長由劉美蘭新任。 ◎弘塑科技董事長張泰山辭職，副董事長張鴻泰辭職。 ◎日馳企業董事長及總經理徐義雄辭職。 ◎亞昕國際開發總經理姚政岳卸任，由余世...",
         "published_at": "2026-08-02 03:00:00",
         "image_url": "",
         "status": "no_page_code",
@@ -614,9 +614,9 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 47,
-        "url": "https://www.ctee.com.tw/news/20260802700047-439901",
-        "title": "逢回分批布局具競爭優勢的企業",
+        "serial": 46,
+        "url": "https://www.ctee.com.tw/news/20260802700046-439901",
+        "title": "股市震盪留意四大風險",
         "page": "A3",
         "page_code": "A03AA3",
         "previous_serial": 45,
@@ -624,14 +624,14 @@
         "inference_reason": "previous_page_boundary"
       },
       {
-        "serial": 46,
-        "url": "https://www.ctee.com.tw/news/20260802700046-439901",
-        "title": "股市震盪留意四大風險",
+        "serial": 47,
+        "url": "https://www.ctee.com.tw/news/20260802700047-439901",
+        "title": "逢回分批布局具競爭優勢的企業",
         "page": "A3",
         "page_code": "A03AA3",
-        "previous_serial": 45,
-        "next_serial": 47,
-        "inference_reason": "same_page_neighbors"
+        "previous_serial": 46,
+        "next_serial": 48,
+        "inference_reason": "previous_page_boundary"
       },
       {
         "serial": 55,
@@ -644,6 +644,16 @@
         "inference_reason": "same_page_neighbors"
       },
       {
+        "serial": 70,
+        "url": "https://www.ctee.com.tw/news/20260802700070-439901",
+        "title": "AI助產業升級 新成長引擎成形中",
+        "page": "A5",
+        "page_code": "A05AA5",
+        "previous_serial": 67,
+        "next_serial": 71,
+        "inference_reason": "previous_page_boundary"
+      },
+      {
         "serial": 66,
         "url": "https://www.ctee.com.tw/news/20260802700066-439901",
         "title": "兩面手法 美增列43家中企實體清單",
@@ -654,14 +664,14 @@
         "inference_reason": "same_page_neighbors"
       },
       {
-        "serial": 70,
-        "url": "https://www.ctee.com.tw/news/20260802700070-439901",
-        "title": "AI助產業升級 新成長引擎成形中",
-        "page": "A5",
-        "page_code": "A05AA5",
-        "previous_serial": 67,
-        "next_serial": 71,
-        "inference_reason": "previous_page_boundary"
+        "serial": 76,
+        "url": "https://www.ctee.com.tw/news/20260802700076-439901",
+        "title": "醫療保單 男女大不同",
+        "page": "A6",
+        "page_code": "A06AA6",
+        "previous_serial": 74,
+        "next_serial": 77,
+        "inference_reason": "same_page_neighbors"
       },
       {
         "serial": 69,
@@ -682,16 +692,6 @@
         "previous_serial": 87,
         "next_serial": 90,
         "inference_reason": "previous_page_boundary"
-      },
-      {
-        "serial": 76,
-        "url": "https://www.ctee.com.tw/news/20260802700076-439901",
-        "title": "醫療保單 男女大不同",
-        "page": "A6",
-        "page_code": "A06AA6",
-        "previous_serial": 74,
-        "next_serial": 77,
-        "inference_reason": "same_page_neighbors"
       }
     ],
     "unassigned_articles": [
