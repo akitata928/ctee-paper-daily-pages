@@ -1,0 +1,17 @@
+---
+description: Agent handoff rules (relay v1). Read RELAY.md before pushing.
+alwaysApply: true
+---
+
+Before you push anything, read `RELAY.md` at the repository root and follow it.
+It holds the rules for handing work between agents through pull requests. The
+repository's `CLAUDE.md` holds the other workspace rules, and they apply to you
+too.
+
+In short:
+- Every handoff is a draft PR from the latest default branch, with one
+  `RELAY v1` comment.
+- `gate: stan` work runs only on a `GO` comment from Stan: its author is
+  `akitata928` and it carries no agent footer.
+- End every comment you post with `— Grok (Cursor)`.
+- Never write a line that starts with `GO`, and never merge.
